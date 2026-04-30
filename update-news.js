@@ -91,6 +91,7 @@ Relevancia: 3=obra muy probable para constructora mediana, 2=relevante, 1=inform
     if (data.stop_reason === 'end_turn') {
       rawText = data.content.filter(b => b.type === 'text').map(b => b.text).join('');
       console.log(`  ✅ Terminó en vuelta ${vuelta}`);
+      console.log(`  📄 Respuesta (primeros 500 chars): ${rawText.substring(0, 500)}`);
       break;
     }
 
