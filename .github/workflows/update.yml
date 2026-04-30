@@ -1,0 +1,36 @@
+name: Actualizar Radar de Noticias
+ 
+on:
+  schedule:
+    # Ejecuta todos los días a las 7:00 AM hora Argentina (UTC-3 → 10:00 UTC)
+    - cron: '0 10 * * *'
+  workflow_dispatch:  # Permite ejecución manual desde GitHub
+ 
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Necesario para hacer commit de news.json
+ 
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+ 
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+ 
+      - name: Ejecutar update-news.js
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node update-news.js
+ 
+      - name: Commit y push de news.json
+        run: |
+          git config --global user.name  "Execon Radar Bot"
+          git config --global user.email "bot@execon.com.ar"
+          git add news.json
+          git diff --staged --quiet || git commit -m "🗞️ Actualización diaria $(date +'%Y-%m-%d')"
+          git push
