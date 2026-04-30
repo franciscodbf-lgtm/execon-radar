@@ -12,7 +12,35 @@ const OUTPUT_FILE       = path.join(__dirname, 'news.json');
  
 if (!ANTHROPIC_API_KEY) { console.error('❌ Falta ANTHROPIC_API_KEY'); process.exit(1); }
  
-// ─── Llamada a Claude con web_search (loop multi-turno) ───────────────────────
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+ 
+// ─── Llamada con reintento ────────────────────────────────────────────────────
+async function llamarClaude(body, intento = 1) {
+  try {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': ANTHROPIC_API_KEY,
+        'anthropic-version': '2023-06-01',
+      },
+      body: JSON.stringify(body)
+    });
+    const text = await res.text();
+    const data = JSON.parse(text);
+    if (!res.ok) throw new Error(data.error?.message || `HTTP ${res.status}`);
+    return data;
+  } catch(e) {
+    if (intento < 3) {
+      console.log(`  ⚠️ Error en intento ${intento}: ${e.message}. Reintentando en 10s...`);
+      await sleep(10000);
+      return llamarClaude(body, intento + 1);
+    }
+    throw e;
+  }
+}
+ 
+// ─── Buscar con Claude web_search ────────────────────────────────────────────
 async function buscarConClaude() {
   console.log('🔍 Buscando noticias con Claude + web_search...');
  
@@ -25,50 +53,34 @@ Cuando termines de buscar, respondé SOLO con un JSON array válido, sin texto a
  
 Relevancia: 3=obra muy probable para constructora, 2=relevante, 1=informativo.`;
  
-  const HEADERS = {
-    'Content-Type': 'application/json',
-    'x-api-key': ANTHROPIC_API_KEY,
-    'anthropic-version': '2023-06-01',
-  };
   const TOOLS = [{ type: 'web_search_20250305', name: 'web_search' }];
- 
   let messages = [{ role: 'user', content: prompt }];
   let rawText  = '';
-  let intentos = 0;
+  let vuelta   = 0;
  
-  while (intentos < 10) {
-    intentos++;
-    console.log(`  Vuelta ${intentos}...`);
+  while (vuelta < 10) {
+    vuelta++;
+    console.log(`  Vuelta ${vuelta}...`);
  
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: HEADERS,
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-5',
-        max_tokens: 4000,
-        tools: TOOLS,
-        messages
-      })
+    const data = await llamarClaude({
+      model: 'claude-sonnet-4-5',
+      max_tokens: 4000,
+      tools: TOOLS,
+      messages
     });
- 
-    const data = await res.json();
-    if (!res.ok) throw new Error(`Claude API error: ${data.error?.message || res.status}`);
  
     messages.push({ role: 'assistant', content: data.content });
  
     if (data.stop_reason === 'end_turn') {
       rawText = data.content.filter(b => b.type === 'text').map(b => b.text).join('');
-      console.log(`  ✅ Claude terminó en vuelta ${intentos}`);
+      console.log(`  ✅ Terminó en vuelta ${vuelta}`);
       break;
     }
  
     if (data.stop_reason === 'tool_use') {
-      const toolUseBlocks = data.content.filter(b => b.type === 'tool_use');
-      const toolResults   = toolUseBlocks.map(tb => ({
-        type: 'tool_result',
-        tool_use_id: tb.id,
-        content: JSON.stringify(tb.input)
-      }));
+      const toolResults = data.content
+        .filter(b => b.type === 'tool_use')
+        .map(tb => ({ type: 'tool_result', tool_use_id: tb.id, content: JSON.stringify(tb.input) }));
       messages.push({ role: 'user', content: toolResults });
       continue;
     }
@@ -80,12 +92,12 @@ Relevancia: 3=obra muy probable para constructora, 2=relevante, 1=informativo.`;
   return rawText;
 }
  
-// ─── Parsear JSON de la respuesta ─────────────────────────────────────────────
+// ─── Parsear JSON ─────────────────────────────────────────────────────────────
 function parsearNoticias(rawText) {
   let clean = rawText.replace(/```json/gi, '').replace(/```/g, '').trim();
   const start = clean.indexOf('[');
   const end   = clean.lastIndexOf(']');
-  if (start === -1 || end === -1) throw new Error('No se encontró JSON en la respuesta de Claude');
+  if (start === -1 || end === -1) throw new Error('No se encontró JSON en la respuesta');
  
   let jsonStr = clean.slice(start, end + 1)
     .replace(/"((?:[^"\\]|\\.)*)"/g, (m, p) =>
@@ -99,23 +111,16 @@ function parsearNoticias(rawText) {
 // ─── Main ─────────────────────────────────────────────────────────────────────
 (async () => {
   console.log('🚀 Execon Radar — Generando news.json\n');
- 
   try {
     const rawText  = await buscarConClaude();
- 
     if (!rawText.trim()) throw new Error('Claude no devolvió texto');
- 
     const noticias = parsearNoticias(rawText);
- 
-    if (!Array.isArray(noticias) || !noticias.length) {
-      throw new Error('El JSON está vacío o no es un array');
-    }
+    if (!Array.isArray(noticias) || !noticias.length) throw new Error('JSON vacío');
  
     const output = { generado: new Date().toISOString(), noticias };
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), 'utf8');
-    console.log(`\n💾 Guardado: ${noticias.length} noticias en news.json`);
+    console.log(`\n💾 Guardado: ${noticias.length} noticias`);
     console.log('✅ Listo.');
- 
   } catch(e) {
     console.error('❌ Error:', e.message);
     process.exit(1);
