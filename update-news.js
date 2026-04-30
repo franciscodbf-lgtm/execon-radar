@@ -1,241 +1,123 @@
 /**
  * update-news.js
  * Execon — Radar Comercial
- *
- * Ejecutar: node update-news.js
- * Cron:     1 vez por día vía GitHub Actions
- *
- * Variables de entorno requeridas:
- *   NEWSAPI_KEY      → https://newsapi.org  (plan gratis: 100 req/día)
- *   ANTHROPIC_API_KEY → https://console.anthropic.com
+ * Corre 1 vez por día en GitHub Actions
  */
-
+ 
 const fs   = require('fs');
 const path = require('path');
-
-const NEWSAPI_KEY       = process.env.NEWSAPI_KEY;
+ 
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const OUTPUT_FILE       = path.join(__dirname, 'news.json');
-
-// ─── Validación de env ────────────────────────────────────────────────────────
-if (!NEWSAPI_KEY)       { console.error('❌ Falta NEWSAPI_KEY');       process.exit(1); }
+ 
 if (!ANTHROPIC_API_KEY) { console.error('❌ Falta ANTHROPIC_API_KEY'); process.exit(1); }
-
-// ─── 1. Buscar noticias en NewsAPI ────────────────────────────────────────────
-async function fetchFromNewsAPI() {
-  console.log('📰 Buscando noticias en NewsAPI...');
-
-  const queries = [
-    'banco sucursal Argentina apertura',
-    'McDonald\'s Burger King Starbucks Argentina expansión',
-    'supermercado retail local comercial Argentina inversión',
-    'logística Mercado Libre depósito Argentina',
-    'planta industrial oficina corporativa Argentina',
-    'Córdoba Buenos Aires Mendoza Santa Fe inversión obra',
-  ];
-
-  const articles = [];
-  const seenUrls = new Set();
-
-  for (const q of queries) {
-    try {
-      const url = `https://newsapi.org/v2/everything?` +
-        `q=${encodeURIComponent(q)}` +
-        `&language=es` +
-        `&sortBy=publishedAt` +
-        `&pageSize=10` +
-        `&from=${daysAgo(30)}` +
-        `&apiKey=${NEWSAPI_KEY}`;
-
-      const res  = await fetch(url);
-      const data = await res.json();
-
-      if (data.status !== 'ok') {
-        console.warn(`  ⚠️  Query "${q}" → ${data.message || data.status}`);
-        continue;
-      }
-
-      for (const a of (data.articles || [])) {
-        if (!seenUrls.has(a.url) && a.title && !a.title.includes('[Removed]')) {
-          seenUrls.add(a.url);
-          articles.push({
-            titulo:  a.title,
-            resumen: a.description || a.content?.substring(0, 200) || '',
-            url:     a.url,
-            fuente:  a.source?.name || '',
-            fecha:   a.publishedAt?.substring(0, 10) || '',
-          });
-        }
-      }
-    } catch (e) {
-      console.warn(`  ⚠️  Error en query "${q}": ${e.message}`);
+ 
+// ─── Llamada a Claude con web_search (loop multi-turno) ───────────────────────
+async function buscarConClaude() {
+  console.log('🔍 Buscando noticias con Claude + web_search...');
+ 
+  const hoy = new Date().toLocaleDateString('es-AR', { day: '2-digit', month: '2-digit', year: 'numeric' });
+ 
+  const prompt = `Hoy es ${hoy}. Buscá 20 noticias reales y recientes de Argentina (últimos 30 días) sobre expansión e inversión corporativa relevante para una constructora: nuevas sucursales bancarias, apertura de cadenas gastronómicas, retail, supermercados, logística, oficinas corporativas, plantas industriales, salud privada. Foco en Córdoba, Buenos Aires, Mendoza, Santa Fe.
+ 
+Cuando termines de buscar, respondé SOLO con un JSON array válido, sin texto antes ni después, sin bloques de código:
+[{"titulo":"...","resumen":"1-2 oraciones: empresa, tipo de inversión, ubicación","sector":"banco|gastronomia|retail|logistica|industrial|energia|oficinas|salud|educacion|otros","provincia":"nombre provincia o Nacional","relevancia":2,"url":"https://..."}]
+ 
+Relevancia: 3=obra muy probable para constructora, 2=relevante, 1=informativo.`;
+ 
+  const HEADERS = {
+    'Content-Type': 'application/json',
+    'x-api-key': ANTHROPIC_API_KEY,
+    'anthropic-version': '2023-06-01',
+  };
+  const TOOLS = [{ type: 'web_search_20250305', name: 'web_search' }];
+ 
+  let messages = [{ role: 'user', content: prompt }];
+  let rawText  = '';
+  let intentos = 0;
+ 
+  while (intentos < 10) {
+    intentos++;
+    console.log(`  Vuelta ${intentos}...`);
+ 
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: HEADERS,
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-5',
+        max_tokens: 4000,
+        tools: TOOLS,
+        messages
+      })
+    });
+ 
+    const data = await res.json();
+    if (!res.ok) throw new Error(`Claude API error: ${data.error?.message || res.status}`);
+ 
+    messages.push({ role: 'assistant', content: data.content });
+ 
+    if (data.stop_reason === 'end_turn') {
+      rawText = data.content.filter(b => b.type === 'text').map(b => b.text).join('');
+      console.log(`  ✅ Claude terminó en vuelta ${intentos}`);
+      break;
     }
-
-    // Pausa corta para no saturar la API
-    await sleep(300);
+ 
+    if (data.stop_reason === 'tool_use') {
+      const toolUseBlocks = data.content.filter(b => b.type === 'tool_use');
+      const toolResults   = toolUseBlocks.map(tb => ({
+        type: 'tool_result',
+        tool_use_id: tb.id,
+        content: JSON.stringify(tb.input)
+      }));
+      messages.push({ role: 'user', content: toolResults });
+      continue;
+    }
+ 
+    rawText = data.content.filter(b => b.type === 'text').map(b => b.text).join('');
+    break;
   }
-
-  console.log(`  ✅ ${articles.length} artículos obtenidos de NewsAPI`);
-  return articles;
+ 
+  return rawText;
 }
-
-// ─── 2. Filtrar y clasificar con Claude (1 llamada) ───────────────────────────
-async function filterWithClaude(articles) {
-  console.log('🤖 Filtrando con Claude (1 llamada)...');
-
-  // Limitar input para reducir tokens
-  const subset = articles.slice(0, 80).map((a, i) =>
-    `${i+1}. TITULO: ${a.titulo}\nRESUMEN: ${a.resumen?.substring(0,150)}\nURL: ${a.url}`
-  ).join('\n\n');
-
-  const prompt = `Sos un analista de inteligencia comercial para Execon SRL, constructora argentina especializada en obras corporativas: bancos, gastronomía, retail, logística, oficinas, industrial.
-
-De las siguientes noticias, seleccioná las 20 MÁS relevantes para Execon (obras potenciales en Argentina).
-
-Criterios de selección:
-- Expansión de sucursales bancarias
-- Apertura de cadenas gastronómicas o locales
-- Inversión en supermercados o retail
-- Expansión logística (depósitos, centros de distribución)
-- Nuevas oficinas o plantas industriales
-- Proyectos de salud privada o educación
-
-Para cada una elegida devolvé SOLO este JSON array (sin texto adicional):
-[{"titulo":"...","resumen":"2 oraciones: empresa, tipo de inversión, ubicación","sector":"banco|gastronomia|retail|logistica|industrial|energia|oficinas|salud|educacion|otros","provincia":"nombre o Nacional","relevancia":1|2|3,"url":"..."}]
-
-Relevancia: 3=obra muy probable, 2=relevante, 1=informativo
-
-NOTICIAS:
-${subset}`;
-
-  const res = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'x-api-key': ANTHROPIC_API_KEY,
-      'anthropic-version': '2023-06-01',
-    },
-    body: JSON.stringify({
-      model: 'claude-haiku-4-5-20251001',   // Modelo más barato
-      max_tokens: 3000,
-      messages: [{ role: 'user', content: prompt }]
-    })
-  });
-
-  if (!res.ok) {
-    const err = await res.json();
-    throw new Error(`Claude API error: ${err.error?.message || res.status}`);
-  }
-
-  const data = await res.json();
-  const raw  = data.content.filter(b => b.type === 'text').map(b => b.text).join('');
-
-  // Extraer JSON robusto
-  const start = raw.indexOf('[');
-  const end   = raw.lastIndexOf(']');
-  if (start === -1 || end === -1) throw new Error('Claude no devolvió JSON válido');
-
-  let jsonStr = raw.slice(start, end + 1)
+ 
+// ─── Parsear JSON de la respuesta ─────────────────────────────────────────────
+function parsearNoticias(rawText) {
+  let clean = rawText.replace(/```json/gi, '').replace(/```/g, '').trim();
+  const start = clean.indexOf('[');
+  const end   = clean.lastIndexOf(']');
+  if (start === -1 || end === -1) throw new Error('No se encontró JSON en la respuesta de Claude');
+ 
+  let jsonStr = clean.slice(start, end + 1)
     .replace(/"((?:[^"\\]|\\.)*)"/g, (m, p) =>
       '"' + p.replace(/[\n\r\t]/g, ' ').replace(/[\x00-\x1F\x7F]/g, ' ') + '"'
     )
     .replace(/,\s*([}\]])/g, '$1');
-
-  const noticias = JSON.parse(jsonStr);
-  console.log(`  ✅ Claude seleccionó ${noticias.length} noticias`);
-  return noticias;
+ 
+  return JSON.parse(jsonStr);
 }
-
-// ─── 3. Fallback: clasificación simple sin Claude ─────────────────────────────
-function classifyFallback(articles) {
-  console.log('⚡ Usando clasificación fallback (sin Claude)...');
-
-  const keywords = {
-    banco:       ['banco', 'bbva', 'galicia', 'santander', 'macro', 'itaú', 'icbc', 'hsbc', 'sucursal bancaria'],
-    gastronomia: ['mcdonald', 'burger king', 'starbucks', 'mostaza', 'kfc', 'restaurant', 'gastronomía', 'cadena gastronómica'],
-    retail:      ['carrefour', 'coto', 'changomás', 'walmart', 'falabella', 'zara', 'h&m', 'shopping', 'local comercial'],
-    logistica:   ['mercado libre', 'andreani', 'oca', 'logística', 'depósito', 'centro de distribución'],
-    industrial:  ['planta industrial', 'fábrica', 'industria', 'manufactura', 'parque industrial'],
-    oficinas:    ['oficina', 'torre corporativa', 'edificio de oficinas', 'coworking'],
-    salud:       ['clínica', 'hospital', 'sanatorio', 'salud privada', 'centro médico'],
-    educacion:   ['colegio', 'universidad', 'instituto', 'educación privada'],
-    energia:     ['energía', 'solar', 'renovable', 'planta de energía'],
-  };
-
-  const result = [];
-  for (const a of articles.slice(0, 40)) {
-    const texto = (a.titulo + ' ' + a.resumen).toLowerCase();
-    let sector = 'otros';
-    for (const [s, kws] of Object.entries(keywords)) {
-      if (kws.some(k => texto.includes(k))) { sector = s; break; }
-    }
-
-    // Solo incluir si tiene alguna keyword relevante
-    const anyMatch = Object.values(keywords).flat().some(k => texto.includes(k));
-    if (!anyMatch) continue;
-
-    result.push({
-      titulo:    a.titulo,
-      resumen:   a.resumen?.substring(0, 200) || 'Sin descripción disponible.',
-      sector,
-      provincia: 'Nacional',
-      relevancia: 2,
-      url:       a.url,
-    });
-
-    if (result.length >= 20) break;
-  }
-
-  console.log(`  ✅ Fallback clasificó ${result.length} noticias`);
-  return result;
-}
-
-// ─── 4. Guardar news.json ─────────────────────────────────────────────────────
-function saveNews(noticias) {
-  const output = {
-    generado: new Date().toISOString(),
-    noticias,
-  };
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), 'utf8');
-  console.log(`💾 Guardado en ${OUTPUT_FILE} (${noticias.length} noticias)`);
-}
-
-// ─── Helpers ──────────────────────────────────────────────────────────────────
-function daysAgo(n) {
-  const d = new Date();
-  d.setDate(d.getDate() - n);
-  return d.toISOString().substring(0, 10);
-}
-function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
-
+ 
 // ─── Main ─────────────────────────────────────────────────────────────────────
 (async () => {
   console.log('🚀 Execon Radar — Generando news.json\n');
-
+ 
   try {
-    // 1. Obtener artículos de NewsAPI
-    const articles = await fetchFromNewsAPI();
-
-    if (!articles.length) {
-      console.error('❌ No se obtuvieron artículos de NewsAPI');
-      process.exit(1);
+    const rawText  = await buscarConClaude();
+ 
+    if (!rawText.trim()) throw new Error('Claude no devolvió texto');
+ 
+    const noticias = parsearNoticias(rawText);
+ 
+    if (!Array.isArray(noticias) || !noticias.length) {
+      throw new Error('El JSON está vacío o no es un array');
     }
-
-    // 2. Filtrar con Claude (con fallback si falla)
-    let noticias;
-    try {
-      noticias = await filterWithClaude(articles);
-    } catch (e) {
-      console.warn(`⚠️  Claude falló (${e.message}), usando fallback...`);
-      noticias = classifyFallback(articles);
-    }
-
-    // 3. Guardar
-    saveNews(noticias);
-    console.log('\n✅ Listo. El frontend ya puede leer news.json');
-
-  } catch (e) {
-    console.error('❌ Error fatal:', e.message);
+ 
+    const output = { generado: new Date().toISOString(), noticias };
+    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), 'utf8');
+    console.log(`\n💾 Guardado: ${noticias.length} noticias en news.json`);
+    console.log('✅ Listo.');
+ 
+  } catch(e) {
+    console.error('❌ Error:', e.message);
     process.exit(1);
   }
 })();
