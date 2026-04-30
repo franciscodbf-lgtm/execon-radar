@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Execon — Radar Comercial</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Lora:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --red: #8B2319; --red-mid: #A52B1E;
+    --gray1: #1A1A1A; --gray2: #4A4A4A; --gray3: #7A7A7A;
+    --gray4: #B8B8B8; --gray5: #E8E8E8; --gray6: #F4F4F4;
+    --white: #FFFFFF; --border: #E0E0E0;
+    --mono: 'Montserrat', sans-serif; --serif: 'Lora', serif;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:var(--gray6); color:var(--gray1); font-family:var(--serif); min-height:100vh; }
+
+  header {
+    background:var(--white); border-bottom:1px solid var(--border);
+    padding:0 40px; height:68px;
+    display:flex; align-items:center; justify-content:space-between;
+    position:sticky; top:0; z-index:100;
+    box-shadow:0 1px 4px rgba(0,0,0,0.06);
+  }
+  .logo-area { display:flex; align-items:center; gap:20px; }
+  .logo-txt { font-family:var(--mono); font-size:22px; font-weight:800; letter-spacing:2px; color:var(--gray1); }
+  .logo-divider { width:1px; height:28px; background:var(--border); }
+  .logo-label { font-family:var(--mono); font-size:9px; font-weight:600; letter-spacing:3px; text-transform:uppercase; color:var(--gray3); }
+  .header-right { display:flex; align-items:center; gap:12px; }
+  .date-chip { font-family:var(--mono); font-size:10px; font-weight:500; color:var(--gray3); letter-spacing:1px; padding:5px 12px; border:1px solid var(--border); background:var(--gray6); }
+  .refresh-btn {
+    background:var(--red); color:white; border:none;
+    padding:9px 24px; font-family:var(--mono); font-size:10px; font-weight:600;
+    letter-spacing:2px; text-transform:uppercase; cursor:pointer; transition:background 0.2s;
+  }
+  .refresh-btn:hover { background:var(--red-mid); }
+
+  .main { padding:32px 40px; max-width:1400px; margin:0 auto; }
+
+  .stats-bar { display:grid; grid-template-columns:repeat(4,1fr); gap:16px; margin-bottom:28px; }
+  .stat { background:var(--white); border:1px solid var(--border); border-top:3px solid var(--red); padding:20px 24px; }
+  .stat-num { font-family:var(--mono); font-size:38px; font-weight:700; color:var(--red); line-height:1; }
+  .stat-label { font-family:var(--mono); font-size:9px; font-weight:600; color:var(--gray3); letter-spacing:2px; text-transform:uppercase; margin-top:6px; }
+
+  .filter-row { display:flex; align-items:center; gap:6px; margin-bottom:24px; flex-wrap:wrap; }
+  .filter-label { font-family:var(--mono); font-size:9px; font-weight:600; color:var(--gray3); letter-spacing:2px; text-transform:uppercase; margin-right:6px; }
+  .filter-btn { background:var(--white); border:1px solid var(--border); color:var(--gray3); padding:5px 14px; font-family:var(--mono); font-size:9px; font-weight:600; letter-spacing:1.5px; text-transform:uppercase; cursor:pointer; transition:all 0.15s; }
+  .filter-btn:hover { border-color:var(--gray4); color:var(--gray1); }
+  .filter-btn.active { border-color:var(--red); color:var(--red); background:rgba(139,35,25,0.04); }
+
+  .error-banner { border:1px solid rgba(139,35,25,0.3); background:rgba(139,35,25,0.05); padding:12px 18px; font-family:var(--mono); font-size:11px; color:var(--red); margin-bottom:20px; display:none; }
+
+  .news-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(380px,1fr)); gap:16px; }
+  .news-card {
+    background:var(--white); border:1px solid var(--border); border-top:3px solid transparent;
+    padding:22px 24px; display:flex; flex-direction:column; gap:12px;
+    transition:all 0.2s; animation:rise 0.4s ease forwards; opacity:0; cursor:pointer;
+  }
+  .news-card:hover { border-top-color:var(--red); box-shadow:0 4px 16px rgba(0,0,0,0.08); }
+  .news-card.seen { background:var(--gray6); border-color:var(--gray5); border-top-color:transparent; }
+  .news-card.seen:hover { border-top-color:var(--gray4); box-shadow:none; }
+  .news-card.seen .card-title { color:var(--gray3); }
+  .news-card.seen .card-body { color:var(--gray4); }
+  .news-card.seen .sector-tag { opacity:0.5; }
+  .news-card.seen .rdot.on { background:var(--gray4); }
+  @keyframes rise { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+
+  .card-top { display:flex; align-items:flex-start; justify-content:space-between; gap:8px; }
+  .sector-tag { font-family:var(--mono); font-size:8px; font-weight:600; letter-spacing:2px; text-transform:uppercase; padding:3px 8px; border:1px solid; white-space:nowrap; }
+  .tag-banco      { color:#1565C0; border-color:rgba(21,101,192,0.25); background:rgba(21,101,192,0.04); }
+  .tag-gastronomia{ color:#E65100; border-color:rgba(230,81,0,0.25); background:rgba(230,81,0,0.04); }
+  .tag-retail     { color:#2E7D32; border-color:rgba(46,125,50,0.25); background:rgba(46,125,50,0.04); }
+  .tag-logistica  { color:#6A1B9A; border-color:rgba(106,27,154,0.25); background:rgba(106,27,154,0.04); }
+  .tag-industrial { color:var(--red); border-color:rgba(139,35,25,0.25); background:rgba(139,35,25,0.04); }
+  .tag-energia    { color:#F57F17; border-color:rgba(245,127,23,0.25); background:rgba(245,127,23,0.04); }
+  .tag-oficinas   { color:#00695C; border-color:rgba(0,105,92,0.25); background:rgba(0,105,92,0.04); }
+  .tag-salud      { color:#880E4F; border-color:rgba(136,14,79,0.25); background:rgba(136,14,79,0.04); }
+  .tag-educacion  { color:#1A237E; border-color:rgba(26,35,126,0.25); background:rgba(26,35,126,0.04); }
+  .tag-default    { color:var(--gray3); border-color:var(--border); }
+
+  .relevance { display:flex; gap:4px; flex-shrink:0; align-items:center; }
+  .rdot { width:8px; height:8px; border-radius:50%; }
+  .rdot.on { background:var(--red); } .rdot.off { background:var(--gray5); }
+
+  .card-title { font-family:var(--mono); font-size:13px; font-weight:600; line-height:1.4; color:var(--gray1); }
+  .card-body { font-family:var(--serif); font-size:13px; color:var(--gray2); line-height:1.7; }
+  .card-footer { display:flex; align-items:center; justify-content:space-between; padding-top:12px; border-top:1px solid var(--gray5); margin-top:auto; }
+  .province-tag { font-family:var(--mono); font-size:9px; font-weight:500; color:var(--gray3); letter-spacing:1.5px; text-transform:uppercase; display:flex; align-items:center; gap:5px; }
+  .province-tag::before { content:''; width:4px; height:4px; background:var(--gray4); border-radius:50%; flex-shrink:0; }
+  .opp-tag { font-family:var(--mono); font-size:9px; font-weight:600; color:var(--red); letter-spacing:1.5px; text-transform:uppercase; display:flex; align-items:center; gap:5px; }
+  .opp-tag::before { content:''; width:5px; height:5px; background:var(--red); border-radius:50%; flex-shrink:0; animation:blink 1.5s infinite; }
+  .seen-badge { font-family:var(--mono); font-size:8px; font-weight:600; color:var(--gray4); letter-spacing:1.5px; text-transform:uppercase; display:flex; align-items:center; gap:4px; }
+  .seen-badge::before { content:''; width:6px; height:6px; border-radius:50%; border:1.5px solid var(--gray4); flex-shrink:0; }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.3} }
+
+  .state-wrap { grid-column:1/-1; display:flex; flex-direction:column; align-items:center; justify-content:center; padding:90px 20px; gap:16px; background:var(--white); border:1px solid var(--border); }
+  .spinner { width:36px; height:36px; border:2px solid var(--gray5); border-top-color:var(--red); border-radius:50%; animation:spin 0.7s linear infinite; }
+  @keyframes spin { to{transform:rotate(360deg)} }
+  .state-label { font-family:var(--mono); font-size:11px; font-weight:600; color:var(--gray2); letter-spacing:3px; text-transform:uppercase; }
+  .state-sub { font-family:var(--serif); font-size:13px; color:var(--gray3); }
+  .last-line { font-family:var(--mono); font-size:9px; font-weight:500; color:var(--gray4); text-align:right; margin-top:20px; letter-spacing:1px; }
+
+  @media (max-width:700px) {
+    header, .main { padding-left:18px; padding-right:18px; }
+    .stats-bar { grid-template-columns:repeat(2,1fr); }
+    .news-grid { grid-template-columns:1fr; }
+    .date-chip { display:none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo-area">
+    <div class="logo-txt">EXECON</div>
+    <div class="logo-divider"></div>
+    <div class="logo-label">Radar Comercial</div>
+  </div>
+  <div class="header-right">
+    <div class="date-chip" id="currentDate"></div>
+    <button class="refresh-btn" onclick="loadNews()">⟳ Actualizar</button>
+  </div>
+</header>
+
+<div class="main">
+  <div class="stats-bar">
+    <div class="stat"><div class="stat-num" id="totalCount">—</div><div class="stat-label">Noticias</div></div>
+    <div class="stat"><div class="stat-num" id="highCount">—</div><div class="stat-label">Alta relevancia</div></div>
+    <div class="stat"><div class="stat-num" id="sectorCount">—</div><div class="stat-label">Sectores</div></div>
+    <div class="stat"><div class="stat-num" id="provCount">—</div><div class="stat-label">Provincias</div></div>
+  </div>
+
+  <div class="filter-row">
+    <span class="filter-label">Sector</span>
+    <button class="filter-btn active" onclick="filterNews('all',this)">Todas</button>
+    <button class="filter-btn" onclick="filterNews('banco',this)">Bancos</button>
+    <button class="filter-btn" onclick="filterNews('gastronomia',this)">Gastronomía</button>
+    <button class="filter-btn" onclick="filterNews('retail',this)">Retail</button>
+    <button class="filter-btn" onclick="filterNews('logistica',this)">Logística</button>
+    <button class="filter-btn" onclick="filterNews('industrial',this)">Industrial</button>
+    <button class="filter-btn" onclick="filterNews('energia',this)">Energía</button>
+    <button class="filter-btn" onclick="filterNews('oficinas',this)">Oficinas</button>
+    <button class="filter-btn" onclick="filterNews('salud',this)">Salud</button>
+  </div>
+
+  <div class="error-banner" id="errorBanner"></div>
+  <div class="news-grid" id="newsGrid">
+    <div class="state-wrap">
+      <div class="spinner"></div>
+      <div class="state-label">Cargando noticias</div>
+      <div class="state-sub">Leyendo radar del día...</div>
+    </div>
+  </div>
+  <div class="last-line" id="lastUpdate"></div>
+</div>
+
+<script>
+  // ─── NO HAY API KEYS AQUÍ ───────────────────────────────────────────────────
+  // El frontend solo lee news.json generado por el backend (update-news.js)
+  // ────────────────────────────────────────────────────────────────────────────
+
+  const SEEN_KEY = 'execon_seen_v2';
+  let allNews = [];
+  let currentFilter = 'all';
+
+  const SECTOR_CLASS = {
+    banco:'tag-banco', gastronomia:'tag-gastronomia', retail:'tag-retail',
+    logistica:'tag-logistica', industrial:'tag-industrial', energia:'tag-energia',
+    oficinas:'tag-oficinas', salud:'tag-salud', educacion:'tag-educacion'
+  };
+  const SECTOR_LABEL = {
+    banco:'Banco / Finanzas', gastronomia:'Gastronomía', retail:'Retail / Comercio',
+    logistica:'Logística', industrial:'Industrial', energia:'Energía',
+    oficinas:'Oficinas / Corp.', salud:'Salud', educacion:'Educación', otros:'Otros'
+  };
+
+  // ─── Fecha en header ────────────────────────────────────────────────────────
+  document.getElementById('currentDate').textContent =
+    new Date().toLocaleDateString('es-AR', {weekday:'short', day:'2-digit', month:'short', year:'numeric'}).toUpperCase();
+
+  // ─── Seen / leídas ──────────────────────────────────────────────────────────
+  function getSeenIds() {
+    try { return new Set(JSON.parse(localStorage.getItem(SEEN_KEY) || '[]')); }
+    catch { return new Set(); }
+  }
+  function markSeen(id) {
+    const s = getSeenIds(); s.add(id);
+    localStorage.setItem(SEEN_KEY, JSON.stringify([...s]));
+  }
+  function newsId(item) { return item.url || item.titulo.substring(0, 50); }
+
+  // ─── Render ─────────────────────────────────────────────────────────────────
+  function renderCards(news) {
+    const grid = document.getElementById('newsGrid');
+    if (!news.length) {
+      grid.innerHTML = '<div class="state-wrap"><div class="state-label">Sin resultados</div><div class="state-sub">No hay noticias para este filtro.</div></div>';
+      return;
+    }
+    const seen = getSeenIds();
+    grid.innerHTML = news.map((item, i) => {
+      const cls   = SECTOR_CLASS[item.sector] || 'tag-default';
+      const lbl   = SECTOR_LABEL[item.sector] || 'General';
+      const dots  = [1,2,3].map(n => `<div class="rdot ${n <= item.relevancia ? 'on' : 'off'}"></div>`).join('');
+      const isSeen = seen.has(newsId(item));
+      const safeId  = newsId(item).replace(/'/g, "\\'");
+      const safeUrl = (item.url||'').replace(/'/g, '');
+      return `
+        <div class="news-card ${isSeen ? 'seen' : ''}" style="animation-delay:${i*0.04}s"
+             onclick="openNews('${safeId}','${safeUrl}')">
+          <div class="card-top">
+            <span class="sector-tag ${cls}">${lbl}</span>
+            <div class="relevance">${dots}</div>
+          </div>
+          <div class="card-title">${item.titulo}</div>
+          <div class="card-body">${item.resumen}</div>
+          <div class="card-footer">
+            <span class="province-tag">${item.provincia}</span>
+            ${isSeen
+              ? '<span class="seen-badge">Ya vista</span>'
+              : (item.relevancia >= 3 ? '<span class="opp-tag">Oportunidad</span>' : '')
+            }
+          </div>
+        </div>`;
+    }).join('');
+  }
+
+  function openNews(id, url) {
+    markSeen(id);
+    document.querySelectorAll('.news-card').forEach(card => {
+      const t = card.querySelector('.card-title');
+      if (t && newsId({titulo: t.textContent, url}) === id) {
+        card.classList.add('seen');
+        const opp = card.querySelector('.opp-tag');
+        if (opp) opp.outerHTML = '<span class="seen-badge">Ya vista</span>';
+        card.querySelectorAll('.rdot.on').forEach(d => { d.classList.replace('on','off'); });
+        const st = card.querySelector('.sector-tag');
+        if (st) st.style.opacity = '0.5';
+      }
+    });
+    if (url) window.open(url, '_blank');
+  }
+
+  function updateStats(news) {
+    document.getElementById('totalCount').textContent  = news.length;
+    document.getElementById('highCount').textContent   = news.filter(n => n.relevancia >= 3).length;
+    document.getElementById('sectorCount').textContent = new Set(news.map(n => n.sector)).size;
+    document.getElementById('provCount').textContent   = new Set(news.map(n => n.provincia)).size;
+  }
+
+  function filterNews(sector, btn) {
+    currentFilter = sector;
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    renderCards(sector === 'all' ? allNews : allNews.filter(n => n.sector === sector));
+  }
+
+  // ─── Carga principal: lee news.json ─────────────────────────────────────────
+  async function loadNews() {
+    const grid = document.getElementById('newsGrid');
+    const err  = document.getElementById('errorBanner');
+    err.style.display = 'none';
+    grid.innerHTML = `<div class="state-wrap"><div class="spinner"></div><div class="state-label">Cargando noticias</div><div class="state-sub">Leyendo radar del día...</div></div>`;
+
+    try {
+      // Agrega timestamp para evitar caché del browser
+      const res = await fetch(`news.json?t=${Date.now()}`);
+      if (!res.ok) throw new Error(`No se pudo cargar news.json (${res.status})`);
+      const data = await res.json();
+
+      // Acepta { noticias: [...], generado: "..." } o un array directo
+      const noticias = Array.isArray(data) ? data : (data.noticias || []);
+      const generado = data.generado || null;
+
+      if (!noticias.length) throw new Error('El archivo news.json está vacío.');
+
+      allNews = noticias;
+      updateStats(allNews);
+      renderCards(currentFilter === 'all' ? allNews : allNews.filter(n => n.sector === currentFilter));
+
+      document.getElementById('lastUpdate').textContent =
+        generado
+          ? `ÚLTIMA GENERACIÓN: ${new Date(generado).toLocaleString('es-AR')} — ${allNews.length} NOTICIAS`
+          : `${allNews.length} NOTICIAS CARGADAS`;
+
+    } catch(e) {
+      err.textContent = `Error: ${e.message}`;
+      err.style.display = 'block';
+      grid.innerHTML = `<div class="state-wrap">
+        <div class="state-label">Sin datos</div>
+        <div class="state-sub">No se encontró news.json. Ejecutá update-news.js primero.</div>
+      </div>`;
+    }
+  }
+
+  // ─── Arranque ───────────────────────────────────────────────────────────────
+  loadNews();
+</script>
+</body>
+</html>
