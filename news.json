@@ -1,4 +1,165 @@
 {
-  "generado": "2026-04-30T18:58:45.835Z",
-  "noticias": []
+  "generado": "2026-04-30T19:29:49.944Z",
+  "noticias": [
+    {
+      "titulo": "Carrefour expande atención 24 horas en hipermercados argentinos",
+      "resumen": "Carrefour suma cinco hipermercados a su operación 24 horas, totalizando 31 locales sin cierre nocturno en Argentina. Los nuevos incluyen San Justo, Lomas de Zamora, Quilmes, Temperley y Mar del Plata.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 2,
+      "url": "https://www.infobae.com/economia/2026/04/29/revolucion-en-supermercados-carrefour-expande-la-atencion-24-horas-para-permitir-compras-en-cualquier-momento-del-dia/"
+    },
+    {
+      "titulo": "Carrefour abre nueva tienda Express en Caballito",
+      "resumen": "Carrefour Argentina inaugura sucursal formato Express en Caballito, continuando estrategia de tiendas de cercanía en CABA en abril 2026.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 2,
+      "url": "https://americaretail-malls.com/paises/argentina/carrefour-acelera-su-crecimiento-con-una-nueva-tienda-express-en-caballito/"
+    },
+    {
+      "titulo": "Miniso abre primer local oficial en Argentina con furor",
+      "resumen": "Cadena china Miniso inaugura primer local en Florida, CABA, con filas de 5 cuadras y acampe nocturno. Forma parte de desembarco de marcas internacionales en abril 2026.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 3,
+      "url": "https://www.infobae.com/economia/2026/04/23/furor-por-la-apertura-del-primer-local-de-una-cadena-internacional-en-la-argentina-hasta-5-cuadras-de-cola-y-acampe-de-madrugada/"
+    },
+    {
+      "titulo": "H&M negocia aperturas en shoppings porteños",
+      "resumen": "Cadena sueca H&M en conversaciones avanzadas para abrir locales en Alto Palermo, Dot, Abasto y Alto Avellaneda. Apertura prevista segundo semestre 2026.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 3,
+      "url": "https://www.infobae.com/economia/2026/04/19/empresas-en-caida-marcas-internacionales-en-expansion-e-inversiones-record-radiografia-de-la-economia-en-dos-velocidades/"
+    },
+    {
+      "titulo": "Dolce & Gabbana abrirá primera tienda en Patio Bullrich",
+      "resumen": "Firma italiana Dolce & Gabbana en negociaciones para abrir en Patio Bullrich, primera vez en Argentina. Apertura prevista antes de fin de 2026.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 3,
+      "url": "https://www.rionegro.com.ar/redes/que-marcas-internacionales-llegan-al-pais-en-2026-el-mapa-del-lujo-y-nuevas-aperturas-4538039/"
+    },
+    {
+      "titulo": "Carter's inicia plan de expansión con 30 locales proyectados",
+      "resumen": "Marca de ropa infantil Carter's abre en Galerías Pacífico el 8 de mayo, primera de 30 tiendas previstas en 5 años en Argentina tras asociación uruguaya.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 3,
+      "url": "https://www.infobae.com/economia/2026/04/11/ola-de-arribo-de-marcas-a-la-argentina-de-lujo-pero-tambien-para-bolsillos-menos-profundos/"
+    },
+    {
+      "titulo": "Indian abrirá megalocal en Rosario",
+      "resumen": "Cadena uruguaya Indian instala megalocal en peatonal Córdoba 1000, Rosario. Es parte de plan para alcanzar 20 locales en Argentina, actualmente con 9 tiendas.",
+      "sector": "retail",
+      "provincia": "Santa Fe",
+      "relevancia": 3,
+      "url": "https://www.lacapital.com.ar/negocios/la-lista-marcas-extranjeras-que-llegan-rosario-dar-pelea-al-consumo-n10253476.html"
+    },
+    {
+      "titulo": "La Anónima expande a San Juan tras compra de Libertad",
+      "resumen": "La Anónima suma presencia en San Juan, Córdoba, Rosario, Tucumán y Salta tras adquisición de 12 hipermercados de Grupo Libertad. Alcanza 100+ sucursales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 2,
+      "url": "https://www.tiempodesanjuan.com/economia/tras-comprar-un-supermercado-sede-san-juan-la-anonima-rompio-el-mercado-n428128"
+    },
+    {
+      "titulo": "Decathlon abre en Abasto Shopping mediados 2026",
+      "resumen": "Decathlon inaugura segundo local argentino en Abasto Shopping, 2700 m², inversión US$5 millones, más de 60 empleos. Apertura mediados 2026.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 3,
+      "url": "https://www.lanacion.com.ar/economia/negocios/decathlon-confirma-dos-nuevas-aperturas-en-buenos-aires-abasto-y-alto-palermo-se-suman-al-local-de-nid30092025/"
+    },
+    {
+      "titulo": "Decathlon abre en Alto Palermo segundo semestre 2026",
+      "resumen": "Decathlon llega a Alto Palermo con local de 1400 m², inversión US$4 millones, 50 empleos. Apertura segundo semestre 2026, parte de plan 100 millones.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 3,
+      "url": "https://www.lanacion.com.ar/economia/donde-abriran-los-locales-de-decathlon-en-buenos-aires-nid30092025/"
+    },
+    {
+      "titulo": "Mercado Libre reabre oficinas en Villa Allende, Córdoba",
+      "resumen": "Mercado Libre invierte US$3 millones en nuevas oficinas 2000 m² en Villa Allende tras cerrar por tasas municipales en Córdoba capital. Abril 2026.",
+      "sector": "oficinas",
+      "provincia": "Córdoba",
+      "relevancia": 3,
+      "url": "https://www.lanacion.com.ar/economia/tras-la-polemica-mercado-libre-invertira-us3-millones-para-radicarse-en-villa-allende-nid28042026/"
+    },
+    {
+      "titulo": "Correo Argentino construye centro logístico en Las Higueras, Córdoba",
+      "resumen": "Correo Argentino firma convenio para construir planta logística en Parque Industrial Las Higueras, zona sur Córdoba, cerca de Río Cuarto. Primera empresa confirmada del parque.",
+      "sector": "logistica",
+      "provincia": "Córdoba",
+      "relevancia": 3,
+      "url": "https://www.correoargentino.com.ar/cordoba-convenio-para-la-instalacion-de-un-centro-logistico-en-el-nuevo-parque-industrial-de-las"
+    },
+    {
+      "titulo": "Correo Argentino inauguró nuevo centro logístico en Córdoba capital",
+      "resumen": "Correo Argentino abre Centro Logístico Región Centro de 6360 m² en Córdoba, segunda planta más grande del país. Inversión incluye 121 vehículos sustentables.",
+      "sector": "logistica",
+      "provincia": "Córdoba",
+      "relevancia": 3,
+      "url": "https://www.correoargentino.com.ar/correo-argentino-inauguro-el-nuevo-centro-logistico-de-cordoba-para-potenciar-la-distribucion-de"
+    },
+    {
+      "titulo": "Andreani invierte US$30 millones en automatización logística",
+      "resumen": "Andreani invierte US$30 millones en automatización de plantas Pacheco, Tigre y Córdoba. Capacidad 26.000 paquetes/hora. Prepara hub Miami y llegada Amazon.",
+      "sector": "logistica",
+      "provincia": "Buenos Aires",
+      "relevancia": 2,
+      "url": "https://www.visionsustentable.com/2026/04/28/inversion-logistica-andreani-automatizacion-inteligente/"
+    },
+    {
+      "titulo": "Santander invierte US$230 millones en infraestructura digital",
+      "resumen": "Santander Argentina anuncia inversión US$230 millones en 2026 para potenciar infraestructura tecnológica, IA y plataformas digitales tras cierre de sucursales físicas.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 2,
+      "url": "https://www.iproup.com/finanzas/65120-cierre-de-sucursales-bancarias-en-argentina-el-ranking-de-los-4-grandes"
+    },
+    {
+      "titulo": "Galicia absorbe 100+ sucursales HSBC en integración",
+      "resumen": "Banco Galicia completa absorción de más de 100 sucursales HSBC rebautizadas Galicia Más, incorpora 600.000 clientes y 1.000 empleados en expansión de red.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 2,
+      "url": "https://www.bloomberglinea.com/latinoamerica/argentina/santander-lidera-recorte-de-sucursales-en-bancos-argentinos-que-pasa-con-macro-galicia-y-bbva/"
+    },
+    {
+      "titulo": "Pfizer lanza Centro Global de Datos Clínicos en Argentina",
+      "resumen": "Pfizer inaugura Centro Global de Datos Clínicos y Ciencias de la Información en Argentina, único en Latinoamérica. Incremento 20% empleos investigación clínica.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 2,
+      "url": "https://www.argentina.gob.ar/noticias/el-ministerio-de-salud-impulsa-la-inversion-privada-en-investigacion-clinica"
+    },
+    {
+      "titulo": "OpenAI y Sur Energy proyectan mega datacenter Patagonia",
+      "resumen": "Sur Energy y OpenAI firman carta intención para datacenter 500 MW en Patagonia, inversión estimada US$25.000 millones. Construcción prevista 2026, operativo 2027.",
+      "sector": "otros",
+      "provincia": "Neuquén",
+      "relevancia": 3,
+      "url": "https://www.infobae.com/economia/2026/01/13/moodys-invertira-mas-de-usd-3-billones-en-ampliar-la-capacidad-de-los-centros-de-datos-por-que-elegiria-a-la-argentina/"
+    },
+    {
+      "titulo": "KPMG inaugura nuevas oficinas para 200 personas en CABA",
+      "resumen": "KPMG Argentina abre oficinas Alem 712 con concepto open space para 200 profesionales. Inversión en equipamiento tecnológico y espacios colaborativos 2025.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 2,
+      "url": "https://www.cronista.com/informacion-gral/kpmg-argentina-inauguro-nuevas-oficinas-para-200-personas/"
+    },
+    {
+      "titulo": "Industria automotriz moderniza plantas en Córdoba con US$350 millones",
+      "resumen": "Plantas automotrices Ferreyra y Santa Isabel en Córdoba modernizadas con inversiones combinadas US$350+ millones durante 2025 para adaptación de líneas producción.",
+      "sector": "industrial",
+      "provincia": "Córdoba",
+      "relevancia": 3,
+      "url": "https://reporteasia.com/autos/2026/04/28/industria-automotriz-argentina-impulsa-reactivacion-regional-2026/"
+    }
+  ]
 }
