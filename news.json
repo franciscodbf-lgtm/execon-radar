@@ -1,165 +1,165 @@
 {
-  "generado": "2026-05-01T14:22:02.091Z",
+  "generado": "2026-05-02T12:09:36.005Z",
   "noticias": [
     {
-      "titulo": "Mercado Libre construye su mayor centro logístico en Escobar por US$115 millones",
-      "resumen": "Mercado Libre anuncia la construcción de un centro de almacenamiento de 100.000 m² en Escobar con inversión de US$115 millones junto a Plaza Logística, generará 1.300 empleos directos.",
+      "titulo": "Mercado Libre construye mayor centro logístico del país en Escobar",
+      "resumen": "Inversión de USD 115 millones en depósito de 100.000 m2 en Escobar (Buenos Aires), con capacidad para 2 millones de productos y 1.300 empleos. Apertura noviembre 2026.",
       "sector": "logistica",
       "provincia": "Buenos Aires",
       "relevancia": 3,
-      "url": "https://www.infobae.com/america/agencias/2026/03/19/mercado-libre-invierte-995-millones-junto-a-plaza-logistica-en-un-centro-logistico-en-buenos-aires/"
+      "url": "https://www.lanoticiaweb.com.ar/mercado-libre-construira-un-mega-deposito-en-escobar-e-invertira-115-millones-de-dolares/"
     },
     {
-      "titulo": "Mercado Libre invierte US$3 millones en nuevas oficinas en Villa Allende, Córdoba",
-      "resumen": "La empresa construirá un espacio de 2.000 m² en Villa Allende (Córdoba) con inversión de US$3 millones, comenzará a operar en enero 2027.",
-      "sector": "oficinas",
-      "provincia": "Córdoba",
-      "relevancia": 2,
-      "url": "https://www.lanacion.com.ar/economia/tras-la-polemica-mercado-libre-invertira-us3-millones-para-radicarse-en-villa-allende-nid28042026/"
-    },
-    {
-      "titulo": "Miniso invierte US$50 millones y planea 100 locales en Argentina",
-      "resumen": "La cadena internacional Miniso abrió su primer local oficial en Buenos Aires y proyecta inversión de US$50 millones para abrir 100 tiendas en 5 años, generando 800-1.000 empleos.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 2,
-      "url": "https://www.infobae.com/economia/2026/04/23/furor-por-la-apertura-del-primer-local-de-una-cadena-internacional-en-la-argentina-hasta-5-cuadras-de-cola-y-acampe-de-madrugada/"
-    },
-    {
-      "titulo": "Córdoba Shopping amplía 3.000 m² y suma nuevas marcas en 2026",
-      "resumen": "IRSA invierte en ampliación de 3.000 m² de área bruta locativa en Córdoba Shopping entre planta baja y primer nivel, sumará al menos 10 nuevos locales y cambiará fachada.",
+      "titulo": "Córdoba Shopping amplía 3.000 m2 con nuevas marcas y KFC",
+      "resumen": "IRSA invierte en ampliación de Córdoba Shopping sumando 10 locales nuevos, incluyendo KFC (100 m2, apertura marzo 2026) y cambio de fachada.",
       "sector": "retail",
       "provincia": "Córdoba",
       "relevancia": 3,
       "url": "https://infonegocios.info/nota-principal/cordoba-shopping-el-mall-que-no-quiere-ser-masivo-va-por-mas-metros-en-2026-nuevas-marcas-y-nueva-fachada"
     },
     {
-      "titulo": "KFC abre segundo local en Córdoba Shopping en marzo-abril 2026",
-      "resumen": "KFC iniciará obras en enero 2026 para su segundo local en Córdoba dentro de Córdoba Shopping, con apertura prevista entre marzo y abril 2026.",
+      "titulo": "Mostaza invertirá USD 40 millones y abrirá 30 locales en 2026",
+      "resumen": "Cadena de comida rápida argentina anuncia plan de expansión con 30 nuevos locales en 2026, inversión de USD 40 millones y creación de 4.000 empleos.",
       "sector": "gastronomia",
-      "provincia": "Córdoba",
+      "provincia": "Nacional",
       "relevancia": 2,
-      "url": "https://www.perfil.com/noticias/cordoba/cordoba-shopping-suma-nuevas-marcas-internaciones-sera-la-nueva-casa-de-fkc.phtml"
+      "url": "https://derechadiario.com.ar/economia/mostaza-invertira-us-40-millones-abrira-30-locales-argentina-2026"
     },
     {
-      "titulo": "Musimundo abre 3 locales en Córdoba con inversión de $6 millones",
-      "resumen": "Musimundo invierte cerca de $2 millones por local en plan de expansión en Córdoba: abrió en Río Cuarto, Río Tercero y Villa Dolores.",
+      "titulo": "Carrefour invertirá USD 300 millones en 100 nuevos locales",
+      "resumen": "Carrefour planea abrir 100 nuevas sucursales (formatos Maxi y Express) durante 2026 con inversión superior a USD 300 millones, expandiendo red 24 horas.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 3,
+      "url": "https://www.infozona.com.ar/carrefour-24-horas-sucursales-argentina/"
+    },
+    {
+      "titulo": "Nike abre tienda de USD 1,5 millones en Nuevocentro Córdoba",
+      "resumen": "Southbay invierte USD 1,5 millones en nueva tienda Nike formato Rise de 800 m2 en Nuevocentro Shopping Córdoba, con 25 empleados.",
       "sector": "retail",
       "provincia": "Córdoba",
-      "relevancia": 2,
-      "url": "https://infonegocios.info/y-ademas/musimundo-sigue-creciendo-en-la-provincia-y-abre-tres-nuevos-locales"
+      "relevancia": 3,
+      "url": "https://www.cronista.com/informacion-gral/una-marca-internacional-abre-un-mega-local-en-un-shopping-del-centro-y-busca-expandirse-en-todo-el-pais/"
     },
     {
-      "titulo": "La Anónima adquiere 12 supermercados de Libertad en fusión millonaria",
-      "resumen": "La Anónima compra 12 sucursales y un centro de distribución de Grupo Libertad en Córdoba, Tucumán, Rosario, Salta, San Juan, Rafaela, Posadas y Santiago del Estero, alcanza 171 sucursales totales.",
+      "titulo": "Lumilagro abrirá 15 locales en Buenos Aires, Córdoba, Rosario y Mar del Plata",
+      "resumen": "Marca argentina de termos planea 15 aperturas progresivas incluyendo Buenos Aires, Rosario, Córdoba y Mar del Plata, con más de 100 contrataciones.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 2,
+      "url": "https://www.lanacion.com.ar/economia/negocios/tras-la-polemica-por-las-importaciones-lumilagro-anuncio-15-aperturas-y-mas-de-100-contrataciones-nid01052026/"
+    },
+    {
+      "titulo": "Alto Avellaneda amplía 8.000 m2 con inversión de USD 10 millones",
+      "resumen": "Shopping en zona sur Buenos Aires sumará 8.000 m2 en 2026 con inversión superior a USD 10 millones para nuevas marcas internacionales y gastronomía.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 3,
+      "url": "https://www.cronista.com/informacion-gral/amplian-uno-de-los-shoppings-mas-emblematicos-de-buenos-aires-con-una-inversion-de-us-10-millones/"
+    },
+    {
+      "titulo": "Dolce & Gabbana y Armani desembarcan en Argentina en 2026",
+      "resumen": "Dolce & Gabbana abrirá en Patio Bullrich y Armani en Unicenter (vacaciones invierno 2026), consolidando retail de lujo en Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 2,
+      "url": "https://www.rionegro.com.ar/redes/que-marcas-internacionales-llegan-al-pais-en-2026-el-mapa-del-lujo-y-nuevas-aperturas-4538039/"
+    },
+    {
+      "titulo": "JP Morgan expande oficinas en Núñez con 1.500 nuevos empleos",
+      "resumen": "Banco más grande del mundo invierte USD 55 millones en torre de 20 pisos en Núñez (Buenos Aires), plan de 1.500 contrataciones hasta 2026, alcanzando 5.000 empleados.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 3,
+      "url": "https://www.apfradio.com.ar/en-medio-del-cierre-de-empresas-el-banco-mas-grande-del-mundo-se-expande-y-busca-empleados-en-argentina/"
+    },
+    {
+      "titulo": "OpenAI y Sur Energy construirán datacenter de USD 25.000 millones en Patagonia",
+      "resumen": "Inversión de USD 25.000 millones en centro de datos IA de 500 MW en Patagonia (probable Neuquén), construcción desde 2026, primer Stargate de Latinoamérica.",
+      "sector": "industrial",
+      "provincia": "Neuquén",
+      "relevancia": 3,
+      "url": "https://www.bloomberglinea.com/latinoamerica/argentina/las-tres-empresas-detras-de-la-mega-inversion-de-data-centers-en-argentina-respaldada-por-openai/"
+    },
+    {
+      "titulo": "Claro invierte USD 30 millones en datacenter en Buenos Aires",
+      "resumen": "Claro construye nuevo datacenter de 1.300 m2 en Brasil 77 (CABA), inversión USD 30 millones entre 2024-2026, impulsará red 5G.",
+      "sector": "industrial",
+      "provincia": "Buenos Aires",
+      "relevancia": 3,
+      "url": "https://www.filo.news/noticia/2024/08/21/claro-avanza-en-la-construccion-de-un-nuevo-data-center-en-la-ciudad-de-buenos-aires"
+    },
+    {
+      "titulo": "Bestseller invertirá USD 50 millones y abrirá 30 locales de moda",
+      "resumen": "Grupo danés planea USD 50 millones para 30 locales de Jack & Jones, Only y Balmohk, comenzando en Unicenter, expansión a Córdoba y Rosario.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 2,
+      "url": "https://www.cronista.com/negocios/cuales-son-las-marcas-internacionales-que-llegan-a-la-argentina-en-los-proximos-meses/"
+    },
+    {
+      "titulo": "Mango regresa a Argentina con 5 locales en 5 años",
+      "resumen": "Cadena española vuelve tras 20 años con Grimoldi, primer local en Alto Palermo septiembre 2026, plan de 5 tiendas en 5 años.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 2,
+      "url": "https://www.mendozapost.com/economia/marcas-internacionales-ropa-vuelven-argentina-2026/"
+    },
+    {
+      "titulo": "La Anónima compra 12 hipermercados Libertad y centro logístico",
+      "resumen": "Cadena patagónica adquiere 12 hipermercados Libertad (4 en Córdoba, 2 Tucumán, otros en Rosario, Salta, San Juan, Posadas) más centro distribución y 1.600 empleados.",
       "sector": "retail",
       "provincia": "Nacional",
       "relevancia": 2,
       "url": "https://www.infobae.com/economia/2026/03/18/megafusion-entre-dos-cadenas-de-supermercados-12-sucursales-1600-empleados-y-un-centro-logistico-cambian-de-dueno/"
     },
     {
-      "titulo": "Carrefour invierte US$300 millones y planea 87 nuevas sucursales",
-      "resumen": "Carrefour Argentina anuncia inversión de US$300 millones para abrir 27 Maxi y 60 Express entre 2025-2026, generando 2.500 puestos de trabajo.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 3,
-      "url": "https://www.mdzol.com/dinero/2024/11/8/carrefour-abrira-87-nuevas-sucursales-con-inversiones-por-us-300-millones-1165147.html"
-    },
-    {
-      "titulo": "Alto Avellaneda invierte US$10 millones en ampliación de 8.000 m²",
-      "resumen": "Shopping Alto Avellaneda amplía 8.000 m² con inversión de US$10 millones, primera etapa prevista para primer trimestre 2026, sumará marcas internacionales.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 3,
-      "url": "https://www.cronista.com/negocios/con-una-inversion-de-us-10-millones-un-shopping-del-gran-buenos-aires-se-amplia-y-sumara-marcas-internacionales/"
-    },
-    {
-      "titulo": "Chicken Chill proyecta 100 aperturas en tres años en Argentina",
-      "resumen": "La cadena de pollo frito Chicken Chill del grupo DGSA pasó de 2 a 17 sucursales en 2024 y proyecta 100 aperturas en los próximos tres años.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 2,
-      "url": "https://www.lanacion.com.ar/economia/negocios/volver-a-las-pistas-las-cadenas-de-comida-rapida-apuestan-a-la-recuperacion-del-mercado-argentino-nid01022025/"
-    },
-    {
-      "titulo": "YPF invierte US$6.000 millones en 2026, la mayor inversión del país",
-      "resumen": "YPF anuncia inversión récord de US$6.000 millones en 2026, 70% destinado a Vaca Muerta, incluye transformación de red de estaciones de servicio con nuevos formatos.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 2,
-      "url": "https://www.ambito.com/energia/horacio-marin-anuncio-inversiones-ypf-us6000-millones-2026-n6250398"
-    },
-    {
-      "titulo": "Santa Fe: inversión de US$521 millones en puertos incluyendo primer RIGI",
-      "resumen": "Santa Fe anuncia inversiones por US$521 millones en infraestructura portuaria: US$276 millones en puerto multipropósito de Timbúes (primer RIGI) y US$245 millones de concesionarios.",
-      "sector": "logistica",
-      "provincia": "Santa Fe",
-      "relevancia": 3,
-      "url": "https://www.santafe.gob.ar/noticias/noticia/285029/"
-    },
-    {
-      "titulo": "Microvidas amplía 1.000 m² su planta de bioinsumos en Santa Fe",
-      "resumen": "La empresa Microvidas, del Parque Industrial Los Polígonos en Santa Fe, proyecta ampliar 1.000 m² cubiertos en 2026 para producción y depósito.",
-      "sector": "industrial",
-      "provincia": "Santa Fe",
-      "relevancia": 2,
-      "url": "https://puntobiz.com.ar/agro/fabrica-de-bioinsumos-acelera-inversiones-en-santa-fe-y-ampliara-planta-202647600"
-    },
-    {
-      "titulo": "Santander invierte US$230 millones en transformación digital en 2026",
-      "resumen": "Santander Argentina destinará US$230 millones en 2026 para infraestructura tecnológica, inteligencia artificial y plataformas digitales, ajusta red de sucursales.",
-      "sector": "banco",
-      "provincia": "Nacional",
-      "relevancia": 1,
-      "url": "https://www.bloomberglinea.com/latinoamerica/argentina/santander-lidera-recorte-de-sucursales-en-bancos-argentinos-que-pasa-con-macro-galicia-y-bbva/"
-    },
-    {
-      "titulo": "Pampa Energía invierte US$1.600 millones en Vaca Muerta",
-      "resumen": "Pampa Energía desarrolla plan de inversión récord de US$1.600 millones en Vaca Muerta para petróleo shale, posicionándose como actor clave del sector.",
-      "sector": "energia",
-      "provincia": "Neuquén",
-      "relevancia": 2,
-      "url": "https://www.bloomberglinea.com/latinoamerica/argentina/las-cinco-acciones-argentinas-mas-atractivas-para-comprar-de-cara-al-2026/"
-    },
-    {
-      "titulo": "Mercedes-Benz invirtió US$110 millones en nueva planta en Zárate",
-      "resumen": "Mercedes-Benz invirtió US$110 millones para construcción de nueva planta automotriz en Zárate, Buenos Aires (marzo 2024).",
-      "sector": "industrial",
-      "provincia": "Buenos Aires",
-      "relevancia": 3,
-      "url": "https://www.informesdeexpertos.com/informes/mercado-de-la-construccion-en-argentina"
-    },
-    {
-      "titulo": "Córdoba: Gobierno firma contrato para hospital en Bell Villa por US$19 millones",
-      "resumen": "Gobierno de Córdoba firmó contrato para construcción de hospital en Bell Villa con inversión de US$19 millones (julio 2024).",
+      "titulo": "Pfizer lanza Centro Global de Datos Clínicos en Argentina",
+      "resumen": "Empresa farmacéutica abre Centro CDIS en Argentina (único en Latinoamérica), inversión superior a USD 300 millones históricos en investigación, incremento 20% dotación personal.",
       "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 2,
+      "url": "https://www.argentina.gob.ar/noticias/el-ministerio-de-salud-impulsa-la-inversion-privada-en-investigacion-clinica"
+    },
+    {
+      "titulo": "Correo Argentino construye centro logístico en Las Higueras, Córdoba",
+      "resumen": "Correo Argentino firma convenio para construir planta logística en Parque Industrial Las Higueras (Córdoba zona sur), ubicación estratégica cerca Río Cuarto.",
+      "sector": "logistica",
       "provincia": "Córdoba",
       "relevancia": 3,
-      "url": "https://www.informesdeexpertos.com/informes/mercado-de-la-construccion-en-argentina"
+      "url": "https://www.correoargentino.com.ar/cordoba-convenio-para-la-instalacion-de-un-centro-logistico-en-el-nuevo-parque-industrial-de-las"
     },
     {
-      "titulo": "Nano Energy invierte US$230 millones en planta de uranio en Formosa",
-      "resumen": "La empresa estadounidense Nano Energy invertirá más de US$230 millones para finalizar Nueva Planta de Uranio de Dioxitek en Formosa, proyecto del sector nuclear.",
+      "titulo": "YPF construye estación de servicio más grande de Argentina en San Pedro",
+      "resumen": "YPF desarrolla mega estación de 10 hectáreas en Ruta 9 San Pedro (Buenos Aires), incluirá shopping, parador gourmet, operativa 2026-2027.",
       "sector": "energia",
-      "provincia": "Formosa",
-      "relevancia": 3,
-      "url": "https://www.infobae.com/economia/2026/04/19/empresas-en-caida-marcas-internacionales-en-expansion-e-inversiones-record-radiografia-de-la-economia-en-dos-velocidades/"
-    },
-    {
-      "titulo": "Compañía Mega invierte US$360 millones en planta de gas en Neuquén",
-      "resumen": "Compañía Mega (YPF 38%, Petrobras 34%, Dow 28%) presentó inversión de US$360 millones para ampliar capacidad de procesamiento de gas natural en Neuquén.",
-      "sector": "energia",
-      "provincia": "Neuquén",
-      "relevancia": 3,
-      "url": "https://www.infobae.com/economia/2026/04/19/empresas-en-caida-marcas-internacionales-en-expansion-e-inversiones-record-radiografia-de-la-economia-en-dos-velocidades/"
-    },
-    {
-      "titulo": "Techint invierte en fábrica de tubos tras debate con el gobierno",
-      "resumen": "Techint concreta inversión en producción de tubos para exportación de GNL tras debate público con el gobierno sobre provisión para Southern Energy.",
-      "sector": "industrial",
       "provincia": "Buenos Aires",
+      "relevancia": 3,
+      "url": "https://www.iprofesional.com/energia/448791-donde-estara-la-mega-estacion-de-servicio-de-ypf-que-sera-la-mas-grande-de-argentina"
+    },
+    {
+      "titulo": "Boom hotelero: 87 proyectos en desarrollo en todo el país",
+      "resumen": "Sector hotelero con 87 inversiones en desarrollo durante 2025-2026, incluye Howard Johnson, Hilton, Marriott, Accor en Patagonia, Litoral y NOA. 15 aperturas primer semestre.",
+      "sector": "otros",
+      "provincia": "Nacional",
       "relevancia": 2,
-      "url": "https://www.infobae.com/economia/2026/04/19/empresas-en-caida-marcas-internacionales-en-expansion-e-inversiones-record-radiografia-de-la-economia-en-dos-velocidades/"
+      "url": "https://www.argentina.gob.ar/noticias/boom-de-inversiones-hoteleras-en-todo-el-pais"
+    },
+    {
+      "titulo": "Radisson planea expansión hotelera en Argentina",
+      "resumen": "Cadena internacional Radisson evalúa inversiones y conversiones de hoteles independientes en Buenos Aires, Córdoba, Mendoza, Rosario. Radisson Red en Funes julio-agosto 2026.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 2,
+      "url": "https://www.noticiasnqn.com.ar/noticias/2026/03/28/330169-cadena-internacional-de-hoteles-evalua-nuevas-inversiones-en-argentina"
+    },
+    {
+      "titulo": "Santa Fe registra USD 1.380 millones en 531 proyectos de inversión privada",
+      "resumen": "Provincia de Santa Fe con 531 proyectos de inversión privada por USD 1.380 millones en 114 localidades, principalmente industria manufacturera, plantas y parques logísticos.",
+      "sector": "industrial",
+      "provincia": "Santa Fe",
+      "relevancia": 2,
+      "url": "https://www.puertonegocios.com/noticias/santa-fe-sumo-531-proyectos-de-inversiones-por-us-1380-millones"
     }
   ]
 }
