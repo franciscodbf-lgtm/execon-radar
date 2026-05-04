@@ -109,11 +109,16 @@ Respondé SOLO con un JSON array de exactamente 10 elementos, sin texto adiciona
     // 2. Buscar en Google News con varias queries
     console.log('🔍 Buscando en Google News...');
     const queries = [
-      'expansión apertura local empresa Argentina 2026',
-      'nueva sucursal tienda inversión Argentina',
-      'plan expansión construcción obra Argentina empresa',
-      'marca internacional desembarca llega Argentina',
-      'inauguración depósito planta oficina Argentina',
+      'expansión apertura local restaurant cadena Argentina 2026',
+      'nueva sucursal tienda retail shopping Argentina 2026',
+      'banco nueva sucursal inversión infraestructura Argentina 2026',
+      'estación servicio YPF Shell Axion nueva Argentina 2026',
+      'depósito logístico planta industrial obra Argentina 2026',
+      'clínica hospital sanatorio privado nuevo Argentina 2026',
+      'universidad colegio privado ampliación campus Argentina 2026',
+      'oficina corporativa edificio empresa inversión Argentina 2026',
+      'marca internacional desembarca expansión Argentina 2026',
+      'Mercado Libre Andreani centro distribución Argentina 2026',
     ];
 
     const resultados = await Promise.all(queries.map(q => buscarEnGoogle(q)));
