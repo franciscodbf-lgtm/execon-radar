@@ -1,6 +1,166 @@
 {
-  "generado": "2026-05-04T14:29:04.846Z",
+  "generado": "2026-05-04T14:34:57.485Z",
   "noticias": [
+    {
+      "titulo": "Decathlon abrió su primer local en la Argentina",
+      "resumen": "Cadena internacional de deportes abre su primera tienda en Argentina con planes de expansión a múltiples ciudades.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.rionegro.com.ar/economia/decathlon-abrio-su-primer-local-en-la-argentina-cuales-productos-ofrece-que-precios-y-donde-habria-otras-tiendas-4366322/"
+    },
+    {
+      "titulo": "Miniso apuesta por Argentina con ambicioso plan de expansión",
+      "resumen": "Cadena china abre su primer local oficial en Argentina generando demanda masiva y planea crear 100 locales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://americaretail-malls.com/paises/argentina/miniso-apuesta-por-argentina-con-un-ambicioso-plan-de-expansion/"
+    },
+    {
+      "titulo": "Mango regresa a Argentina tras 23 años de ausencia",
+      "resumen": "Marca española de moda reabre operaciones en Argentina con apertura de tienda en Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/america/agencias/2026/03/20/mango-regresa-este-ano-a-argentina-tras-23-anos-de-ausencia-con-la-apertura-de-una-tienda-en-buenos-aires/"
+    },
+    {
+      "titulo": "H&M llega a la Argentina con primer local",
+      "resumen": "Gigante sueco de moda desembarca en Argentina abriendo su primera sucursal.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://la100.cienradios.com/sociedad/llega-hm-a-la-argentina-donde-abrira-su-primer-local-y-cuando/"
+    },
+    {
+      "titulo": "Carrefour continúa expandiéndose pese a proceso de venta",
+      "resumen": "Supermercado multinacional abre nuevas sucursales en el interior del país incluyendo San Luis.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://fortuna.perfil.com/noticias/negocios/en-pleno-proceso-de-venta-carrefour-continua-expandiendose-por-el-pais.phtml"
+    },
+    {
+      "titulo": "Boom de marcas internacionales que llegan a Argentina",
+      "resumen": "Análisis comprensivo de múltiples marcas internacionales desembarcando con planes de expansión física en el país.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2025/08/08/boom-de-marcas-internacionales-que-llegan-a-la-argentina-una-por-una-cuales-son-y-donde-estaran-sus-locales/"
+    },
+    {
+      "titulo": "Cadena deportiva desembarcará en Argentina con 20 locales",
+      "resumen": "Marca internacional de deportes planea expansión agresiva abriendo 20 sucursales en el país.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.lmneuquen.com/pais/una-famosa-cadena-deportiva-desembarcara-argentina-y-abrira-20-locales-n1191915"
+    },
+    {
+      "titulo": "Mostaza elige Gualeguaychú para su expansión regional",
+      "resumen": "Cadena gastronómica argentina abre nuevo local en la provincia de Entre Ríos.",
+      "sector": "gastronomia",
+      "provincia": "Entre Ríos",
+      "relevancia": 8,
+      "url": "https://www.r2820.com/noticias/2026/02/05/102806-mostaza-eligio-gualeguaychu-y-su-apuesta-por-la-region"
+    },
+    {
+      "titulo": "Frisby fortalece plan de expansión con nuevos locales en 2026",
+      "resumen": "Empresa de entretenimiento acelera apertura de sucursales en múltiples ubicaciones.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://es-us.noticias.yahoo.com/frisby-fortalece-plan-expansi%C3%B3n-apertura-200000517.html"
+    },
+    {
+      "titulo": "Empresas internacionales apuestan por Argentina",
+      "resumen": "Análisis integral de inversiones extranjeras y aperturas de sucursales de marcas globales en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/427136-empresas-internacionales-apuestan-por-argentina-quienes-llegan-y-donde-abriran-locales"
+    },
+    {
+      "titulo": "La puja por Carrefour entra en tiempo de descuento: se define quién se quedará con el negocio en la Argentina",
+      "resumen": "Definición de comprador para operaciones de Carrefour en Argentina, mayor cadena de retail del país.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.infobae.com/economia/2025/12/15/la-puja-por-carrefour-entra-en-tiempo-de-descuento-se-define-quien-se-quedara-con-el-negocio-en-la-argentina/"
+    },
+    {
+      "titulo": "Carrefour inauguró cuatro nuevas sucursales en 24 horas y llegó a las 35 aperturas en 2024",
+      "resumen": "Carrefour abre 35 nuevas tiendas en 2024, acelerando expansión en proximidad.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/networking/2024/11/29/carrefour-inauguro-cuatro-nuevas-sucursales-en-24-horas-y-llego-a-las-35-aperturas-en-2024"
+    },
+    {
+      "titulo": "Decathlon confirmó dos tiendas más en Argentina: en qué shoppings estarán",
+      "resumen": "Decathlon abre dos nuevas tiendas en 2026 en shoppings de Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.lavoz.com.ar/negocios/decathlon-confirmo-dos-tiendas-mas-en-argentina-en-que-shoppings-estaran_0_G07zLU1bHG.html"
+    },
+    {
+      "titulo": "Con una inversión de más de USD 500 millones, se modernizarán 13 aeropuertos",
+      "resumen": "Modernización de infraestructura en 13 aeropuertos del país con inversión de más de USD 500 millones.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2025/12/02/con-una-inversion-de-mas-de-usd-500-millones-se-modernizaran-13-aeropuertos/"
+    },
+    {
+      "titulo": "Mientras cierra locales de Easy y Super Vea, Cencosud abre un mega supermercado",
+      "resumen": "Cencosud abre mega supermercado mientras reposiciona su estrategia retail.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.memo.com.ar/economia/supermercados-jumbo/"
+    },
+    {
+      "titulo": "Mega acelera con el RIGI: apuesta U$S 360 millones para exprimir el potencial de Vaca Muerta",
+      "resumen": "Mega invierte USD 360 millones en ampliación de capacidad de gas en Vaca Muerta.",
+      "sector": "energia",
+      "provincia": "Neuquén",
+      "relevancia": 9,
+      "url": "https://eleconomista.com.ar/energia/mega-acelera-rigi-apuesta-us-360-millones-exprimir-potencial-vaca-muerta-n93472"
+    },
+    {
+      "titulo": "Una empresa brasileña apuesta por Córdoba con su red de alquiler de herramientas de más de 800 locales",
+      "resumen": "Empresa brasileña expande red de alquiler de herramientas a Argentina con 800+ locales.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 8,
+      "url": "https://www.perfil.com/noticias/cordoba/una-empresa-brasilena-apuesta-por-cordoba-con-su-red-de-alquiler-de-herramientas-de-mas-de-800-locales.phtml"
+    },
+    {
+      "titulo": "Del boom en Brasil a la expansión en Argentina: Casa do Construtor, la red de franquicias que está cambiando las reglas en la construcción",
+      "resumen": "Casa do Construtor expande su red de franquicias de materiales de construcción desde Brasil a Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.ambito.com/negocios/del-boom-brasil-la-expansion-argentina-casa-do-construtor-la-red-franquicias-que-esta-cambiando-las-reglas-la-construccion-n6201357"
+    },
+    {
+      "titulo": "OneClick abre tres tiendas de Apple en la Argentina",
+      "resumen": "OneClick abre tres nuevos locales de Apple en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://dossiernet.com/articulo/oneclick-abre-tres-tiendas-de-apple-en-la-argentina/13779"
+    },
+    {
+      "titulo": "Arrancó la construcción de un nuevo parque industrial privado en Cipolletti cerca del Tercer Puente",
+      "resumen": "Construcción de nuevo parque industrial privado en Cipolletti, Río Negro.",
+      "sector": "industrial",
+      "provincia": "Río Negro",
+      "relevancia": 8,
+      "url": "https://www.rionegro.com.ar/politica/arranco-la-construccion-de-un-nuevo-parque-industrial-privado-en-cipolletti-cerca-del-tercer-puente-4511299/"
+    },
     {
       "titulo": "Miniso abrió su primer local en la Argentina: ubicación, inversión y planes de expansión",
       "resumen": "Miniso llega a Argentina con apertura de primer local y plan de 100 tiendas",
