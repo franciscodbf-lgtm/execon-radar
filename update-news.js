@@ -29,6 +29,7 @@ function guardarVistas(vistas) {
 
 // ─── Dominios spam a bloquear ─────────────────────────────────────────────────
 const DOMINIOS_BLOQUEADOS = ['infobea.com', 'infobaa.com'];
+const HACE_60_DIAS = new Date(Date.now() - 60 * 24 * 60 * 60 * 1000);
 
 // ─── Buscar en Google News via SerpApi ───────────────────────────────────────
 async function buscarEnGoogle(query) {
@@ -42,10 +43,15 @@ async function buscarEnGoogle(query) {
       resumen: r.snippet || '',
       url:     r.link || '',
       fuente:  r.source?.name || '',
+      fecha:   r.date || '',
     })).filter(r => {
       if (!r.titulo || !r.url) return false;
-      // Bloquear dominios spam
       if (DOMINIOS_BLOQUEADOS.some(d => r.url.includes(d))) return false;
+      // Descartar noticias con fecha parseable más vieja de 60 días
+      if (r.fecha) {
+        const f = new Date(r.fecha);
+        if (!isNaN(f) && f < HACE_60_DIAS) return false;
+      }
       return true;
     });
   } catch(e) {
@@ -72,7 +78,7 @@ NOTICIAS:
 ${lista}
 
 Respondé SOLO con un JSON array de exactamente 10 elementos, sin texto adicional:
-[{"titulo":"...","resumen":"1 oración corta: empresa y tipo de obra","sector":"banco|gastronomia|retail|logistica|industrial|energia|oficinas|salud|educacion|otros","provincia":"nombre o Nacional","relevancia":2,"url":"https://..."}]`;
+[{"titulo":"...","resumen":"1 oración corta: empresa y tipo de obra","sector":"banco|gastronomia|retail|logistica|industrial|energia|oficinas|salud|educacion|otros","provincia":"nombre o Nacional","relevancia":2,"url":"https://...","fecha":"YYYY-MM-DD"}]`;
 
   const res  = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
