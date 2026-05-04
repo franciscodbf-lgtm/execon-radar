@@ -1,4 +1,185 @@
 {
-  "generado": "2026-01-01T00:00:00.000Z",
-  "noticias": []
+  "generado": "2026-05-04T16:51:55.739Z",
+  "noticias": [
+    {
+      "titulo": "Monti inaugura su décimo local",
+      "resumen": "Cadena de fast food de pasta Monti expande su presencia física en Argentina con nueva apertura.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://fortuna.perfil.com/noticias/negocios/la-cadena-de-fast-food-de-pasta-monti-inaugura-su-decimo-local.phtml",
+      "fecha": "2026-03-27"
+    },
+    {
+      "titulo": "Heladería planea abrir 40 locales en Argentina",
+      "resumen": "Cadena de helados de alto nivel proyecta expansión masiva con apertura de 40 sucursales en el país.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/453593-mientras-otros-colapsan-esta-heladeria-top-planea-abrir-40-locales-en-argentina",
+      "fecha": "2026-03-27"
+    },
+    {
+      "titulo": "Ícono de los 90: gigante de pizzas regresa a Argentina",
+      "resumen": "Histórica cadena de pizzerías retorna al mercado argentino con planes de expansión territorial.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.0223.com.ar/nota/2026-3-27-11-26-0-vuelve-un-icono-de-los-90-el-gigante-de-las-pizzas-que-regresa-a-la-argentina-para-pelear-el-trono",
+      "fecha": "2026-03-27"
+    },
+    {
+      "titulo": "Miniso abrirá 100 tiendas en Argentina",
+      "resumen": "Cadena china Miniso desembarca en Argentina con plan de abrir 100 locales retail de precios bajos.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.infobaea.com/economia/2026/03/18/miniso-llega-la-argentina-la-cadena-viral-estilo-japones-que-es-furor-entre-la-generacion-z-abrira-100-tiendas-en-el-pais",
+      "fecha": "2026-03-18"
+    },
+    {
+      "titulo": "Nike invierte U$S 1,5 millones y reabre tienda icónica",
+      "resumen": "Nike realiza inversión significativa para reapertura de local emblemático y planea abrir cuatro tiendas más.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://fortuna.perfil.com/noticias/negocios/nike-invierte-us-15-millones-y-re-abre-su-iconica-tienda.phtml",
+      "fecha": "2026-03-27"
+    },
+    {
+      "titulo": "Megafusión de supermercados: 12 sucursales y centro logístico",
+      "resumen": "Operación entre cadenas de supermercados que involucra transferencia de 12 sucursales y infraestructura logística.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/03/18/megafusion-entre-dos-cadenas-de-supermercados-12-sucursales-1600-empleados-y-un-centro-logistico-cambian-de-dueno/",
+      "fecha": "2026-03-18"
+    },
+    {
+      "titulo": "Mercado Libre construirá mega depósito en Escobar por U$S 115 millones",
+      "resumen": "Mercado Libre invertirá 115 millones de dólares para construir su mayor centro de almacenamiento logístico en Escobar.",
+      "sector": "logistica",
+      "provincia": "Buenos Aires",
+      "relevancia": 10,
+      "url": "https://www.lanoticiaweb.com.ar/mercado-libre-construira-un-mega-deposito-en-escobar-e-invertira-115-millones-de-dolares/",
+      "fecha": "2026-03-27"
+    },
+    {
+      "titulo": "Miniso abre tienda en K50, Pilar",
+      "resumen": "Cadena Miniso inaugura sucursal en centro comercial K50 de Pilar como parte de expansión en Argentina.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://www.pilaradiario.com/informacion-general/el-fenomeno-miniso-llega-pilar-abrira-una-tienda-el-k50-y-busca-personal-n5469442",
+      "fecha": "2026-03-20"
+    },
+    {
+      "titulo": "TGS anuncia inversión de USD 3.000 millones en infraestructura de gas",
+      "resumen": "Transportista de Gas del Sur realiza obra histórica de 3.000 millones en líquidos de gas natural entre Neuquén y Bahía Blanca.",
+      "sector": "industrial",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/03/11/tgs-anuncio-la-mayor-inversion-historica-en-liquidos-de-gas-natural-usd-3000-millones-y-obras-de-neuquen-a-bahia-blanca/",
+      "fecha": "2026-03-11"
+    },
+    {
+      "titulo": "Ícono de los 90: marca regresa a Argentina y planea abrir locales",
+      "resumen": "Histórica marca retorna al mercado argentino con planes de apertura de múltiples sucursales físicas.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.0223.com.ar/nota/2026-3-20-14-53-0-regresa-un-icono-de-los-90-la-famosa-marca-que-vuelve-a-la-argentina-y-planea-abrir-locales",
+      "fecha": "2026-03-20"
+    },
+    {
+      "titulo": "Una gigante alimenticia inauguró un nuevo polo industrial en General Rodríguez",
+      "resumen": "Empresa alimenticia inaugura nuevo polo industrial en General Rodríguez con inversión de expansión física.",
+      "sector": "industrial",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/03/30/una-gigante-alimenticia-inauguro-un-nuevo-polo-industrial-en-general-rodriguez-y-busca-sumar-500-empleados/",
+      "fecha": "2026-03-30"
+    },
+    {
+      "titulo": "Mercado Libre construirá en Escobar su mayor centro de almacenamiento en Argentina",
+      "resumen": "Mercado Libre construye gigantesco centro de almacenamiento y logística en Escobar, Buenos Aires.",
+      "sector": "logistica",
+      "provincia": "Buenos Aires",
+      "relevancia": 10,
+      "url": "https://www.quepasaweb.com.ar/mercado-libre-construira-en-escobar-su-mayor-centro-de-almacenamiento-en-argentina/",
+      "fecha": "2026-03-15"
+    },
+    {
+      "titulo": "IRSA y Mercado Libre se asocian para construir edificio corporativo de US$50 millones en Polo DOT",
+      "resumen": "IRSA y Mercado Libre invierten US$50 millones en nuevo edificio corporativo en Polo DOT, Buenos Aires.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.forbesargentina.com/negocios/irsa-mercado-libre-asocian-buenos-aires-construir-nuevo-edificio-us-50-millones-polo-dot-n88284",
+      "fecha": "2026-03-20"
+    },
+    {
+      "titulo": "Avanza la construcción de clínica privada en Camet Norte",
+      "resumen": "Se continúa construcción de nueva clínica privada en zona de Camet Norte.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://ciudadanoweb.com.ar/nota_15292-07032026-avanza-la-construccion-de-la-clinica-privada-en-camet-norte",
+      "fecha": "2026-03-07"
+    },
+    {
+      "titulo": "H&M confirma llegada a Argentina y abrirá primera tienda en Alto Palermo",
+      "resumen": "Cadena internacional H&M desembarca en Argentina con apertura de tienda en shopping Alto Palermo en 2027.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.filo.news/noticia/2026/04/25/h-and-m-confirmo-su-llegada-a-la-argentina-y-abrira-su-primera-tienda-en-alto-palermo-en-2027",
+      "fecha": "2026-04-25"
+    },
+    {
+      "titulo": "Decathlon y Bestseller expanden operaciones en Argentina",
+      "resumen": "Cadenas de retail internacionales Decathlon y Bestseller anuncian planes de expansión física en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/argentina-atrae-inversiones-con-planes-de-expansion-de-bestseller-y-decathlon/",
+      "fecha": "2026-04-10"
+    },
+    {
+      "titulo": "Mumuso abrirá 6 tiendas en Argentina con inversión de US$2 millones",
+      "resumen": "Marca internacional Mumuso invierte US$2 millones para abrir 6 nuevas tiendas en Argentina durante 2026.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://infonegocios.biz/nota-principal/con-us-2-millones-mumuso-abrira-6-tiendas-en-2026-desembarca-en-brasil-y-argentina",
+      "fecha": "2026-04-05"
+    },
+    {
+      "titulo": "IRSA impulsa inversión de US$50 millones en Buenos Aires",
+      "resumen": "IRSA anuncia inversión de US$50 millones en proyectos de expansión retail y corporativo en Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/irsa-impulsa-una-inversion-de-us50-millones-en-buenos-aires/",
+      "fecha": "2026-03-18"
+    },
+    {
+      "titulo": "Marca de lencería italiana desembarca en Argentina con local en shopping porteño",
+      "resumen": "Cadena italiana de lencería abre su primer local en importante shopping de Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://www.cronista.com/negocios/una-marca-de-lenceria-italiana-desembarca-en-la-argentina-y-abrira-su-primer-local-en-un-importante-shopping-porteno/",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Mayor desembarco de marcas internacionales en historia comercial de Latinoamérica ocurre en Argentina",
+      "resumen": "Argentina experimenta récord de aperturas de marcas internacionales con múltiples inversiones en retail y gastronomía durante 2026.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://infonegocios.miami/plus-2/argentina-2026-el-mayor-desembarco-de-marcas-internacionales-en-la-historia-comercial-de-latinoamerica-por-que",
+      "fecha": "2026-04-20"
+    }
+  ]
 }
