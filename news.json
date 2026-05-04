@@ -1,6 +1,186 @@
 {
-  "generado": "2026-05-04T15:34:31.655Z",
+  "generado": "2026-05-04T15:51:15.392Z",
   "noticias": [
+    {
+      "titulo": "Miniso abrirá 100 tiendas en Argentina y generará hasta 1.000 empleos",
+      "resumen": "Cadena china de retail desembarca en Argentina con plan de expansión masiva de locales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.0223.com.ar/nota/2026-3-18-18-44-0-furor-por-la-cadena-china-que-desembarca-en-argentina-abrira-100-tiendas-y-generara-hasta-1-000-empleos",
+      "fecha": "2026-03-18"
+    },
+    {
+      "titulo": "Mercado Libre construirá mega depósito en Escobar con inversión de US$ 115 millones",
+      "resumen": "Mercado Libre invertirá 115 millones de dólares en construcción de su mayor centro de almacenamiento en Escobar.",
+      "sector": "logistica",
+      "provincia": "Buenos Aires",
+      "relevancia": 10,
+      "url": "https://www.lanoticiaweb.com.ar/mercado-libre-construira-un-mega-deposito-en-escobar-e-invertira-115-millones-de-dolares",
+      "fecha": "2026-03-20"
+    },
+    {
+      "titulo": "Nike planea abrir al menos cuatro locales en Argentina",
+      "resumen": "Marca internacional Nike abrirá cuatro tiendas en Argentina como parte de su estrategia de expansión.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/449903-nike-planea-abrir-cuatro-locales-y-vestira-a-grande-del-futbol-argentino",
+      "fecha": "2026-03-15"
+    },
+    {
+      "titulo": "Miniso llega a Pilar: abrirá tienda en shopping K50",
+      "resumen": "Cadena china Miniso abre sucursal en el shopping K50 de Pilar como parte de su expansión regional.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.pilaradiario.com/informacion-general/el-fenomeno-miniso-llega-pilar-abrira-una-tienda-el-k50-y-busca-personal-n5469442",
+      "fecha": "2026-03-20"
+    },
+    {
+      "titulo": "Icono de los 90 regresa a Argentina: planea abrir locales",
+      "resumen": "Marca histórica argentina retorna al mercado con plan de apertura de nuevas sucursales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.0223.com.ar/nota/2026-3-20-14-53-0-regresa-un-icono-de-los-90-la-famosa-marca-que-vuelve-a-la-argentina-y-planea-abrir-locales",
+      "fecha": "2026-03-20"
+    },
+    {
+      "titulo": "Dean & Dennys crece en Uruguay con ocho nuevos locales e inversión de US$ 1,5 millones",
+      "resumen": "Cadena gastronómica Dean & Dennys expande operaciones con apertura de sucursales en Canelones y Maldonado.",
+      "sector": "gastronomia",
+      "provincia": "Uruguay",
+      "relevancia": 7,
+      "url": "https://infonegocios.biz/nota-principal/ocho-nuevos-locales-aperturas-en-canelones-y-maldonado-e-inversion-de-us-1-5-millones-dean-dennys-crece-este-2026-en-uruguay",
+      "fecha": "2026-03-15"
+    },
+    {
+      "titulo": "KFC acelera expansión en Uruguay: abre en Portones y construye local en Bulevar Artigas",
+      "resumen": "KFC expande presencia en Uruguay con nuevas aperturas y construcción de primer local a la calle.",
+      "sector": "gastronomia",
+      "provincia": "Uruguay",
+      "relevancia": 7,
+      "url": "https://infonegocios.biz/nota-principal/kfc-acelera-su-expansion-en-uruguay-el-coronel-abrira-en-portones-y-construye-su-primer-local-a-la-calle-sobre-bulevar-artigas",
+      "fecha": "2026-03-10"
+    },
+    {
+      "titulo": "YPF y Santander lanzan remuneración de saldos en cuenta dentro de la App YPF",
+      "resumen": "Alianza entre YPF y Santander lanza nuevo servicio financiero integrado en aplicación móvil.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.rionegro.com.ar/energia/ypf-y-santander-lanzan-la-remuneracion-de-saldos-en-cuenta-dentro-de-la-app-ypf-4554853/",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Claro despliega nueva red de conectividad en sucursales de Banco do Brasil",
+      "resumen": "Claro implementa infraestructura de conectividad en red de sucursales bancarias.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://dplnews.com/claro-red-de-conectividad-sucursales-banco-do-brasil/",
+      "fecha": "2026-04-10"
+    },
+    {
+      "titulo": "Residencias médicas 2026: integración del sector privado y hospitales militares",
+      "resumen": "Sector salud abre preinscripción con nuevo régimen que integra hospitales privados y militares.",
+      "sector": "salud",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://curecompass.com.ar/residencias-2026-salud-abre-la-preinscripcion-con-un-giro-estrategico-que-integra-al-sector-privado-y-hospitales-militares/",
+      "fecha": "2026-03-15"
+    },
+    {
+      "titulo": "IRSA impulsa una inversión de US$50 millones en Buenos Aires",
+      "resumen": "IRSA invierte US$50 millones en desarrollo inmobiliario corporativo en Buenos Aires.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/paises/argentina/irsa-impulsa-una-inversion-de-us50-millones-en-buenos-aires/",
+      "fecha": "2026-03-15"
+    },
+    {
+      "titulo": "Mercado Libre anuncia un nuevo edificio corporativo con inversión de 50 millones de dólares",
+      "resumen": "Mercado Libre construye nuevo edificio corporativo con inversión de US$50 millones en Buenos Aires.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://pe.fashionnetwork.com/news/Mercado-libre-anuncia-un-nuevo-edificio-corporativo-con-una-inversion-de-50-millones-de-dolares,1819371.html",
+      "fecha": "2026-03-20"
+    },
+    {
+      "titulo": "Mercado Libre cambia la logística en Argentina con inversión récord y miles de empleos",
+      "resumen": "Mercado Libre realiza inversión récord en infraestructura logística con expansión de centros de distribución.",
+      "sector": "logistica",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/450528-mercado-libre-cambia-logistica-argentina-inversion-record-miles-empleos",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "H&M confirmó su desembarco en la Argentina: abrirá su primer local en Alto Palermo en 2027",
+      "resumen": "H&M abre su primera tienda en Argentina en Alto Palermo en 2027 como parte de expansión regional.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.filo.news/noticia/2026/04/25/h-and-m-confirmo-su-llegada-a-la-argentina-y-abrira-su-primera-tienda-en-alto-palermo-en-2027",
+      "fecha": "2026-04-25"
+    },
+    {
+      "titulo": "Una enorme cadena china desembarca en Argentina con U$S 50 millones y planea abrir 100 locales",
+      "resumen": "Cadena comercial china invierte US$50 millones para abrir 100 locales minoristas en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.lavoz.com.ar/negocios/enorme-cadena-china-desembarca-argentina-us-50-millones-planea-abrir-100-locales_0_eIVaueQHM3.html",
+      "fecha": "2026-04-20"
+    },
+    {
+      "titulo": "Miniso desembarca en Palmas del Pilar y acelera su expansión en Argentina",
+      "resumen": "Miniso abre nueva tienda en Palmas del Pilar como parte de aceleración de expansión retail.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://diarioresumen.com.ar/economia/miniso-desembarca-en-palmas-del-pilar-y-acelera-su-expansion-en-argentina-5056/",
+      "fecha": "2026-04-10"
+    },
+    {
+      "titulo": "Magma desembarca en Argentina: Una apuesta por el retail experiencial y la moda global",
+      "resumen": "Magma abre primer local en Argentina enfocado en retail experiencial de moda internacional.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/magma-desembarca-en-argentina-una-apuesta-por-el-retail-experiencial-y-la-moda-global/",
+      "fecha": "2026-04-18"
+    },
+    {
+      "titulo": "La nueva marca china que traerá Stellantis avanza en su desembarco argentino",
+      "resumen": "Stellantis trae nueva marca automotriz china a Argentina con planes de expansión comercial.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://tn.com.ar/autos/novedades/2026/04/21/la-nueva-marca-china-que-traera-stellantis-avanza-en-su-desembarco-argentino/",
+      "fecha": "2026-04-21"
+    },
+    {
+      "titulo": "Casi 9 de cada 10 empresas alemanas prevén invertir o sostener desembolsos en 2026",
+      "resumen": "Empresas alemanas mantienen planes de inversión fuerte en Argentina para 2026.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.perfil.com/noticias/economia/casi-9-de-cada-10-empresas-alemanas-preven-invertir-o-sostener-desembolsos-en-2026.phtml",
+      "fecha": "2026-03-12"
+    },
+    {
+      "titulo": "Ante el dominio de China, empresas estadounidenses buscan acelerar inversiones mineras en Argentina",
+      "resumen": "Empresas mineras estadounidenses aceleran proyectos de inversión en Argentina.",
+      "sector": "industrial",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.perfil.com/noticias/economia/ante-el-dominio-de-china-empresas-estadounidenses-buscan-acelerar-inversiones-mineras-en-la-argentina-a40.phtml",
+      "fecha": "2026-03-18"
+    },
     {
       "titulo": "Vuelve un ícono de los 90: el gigante de las pizzas que regresa a la Argentina para pelear el trono",
       "resumen": "Cadena de pizzerías icónica de los 90 regresa a Argentina con plan de expansión de locales.",
