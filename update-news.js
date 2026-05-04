@@ -136,7 +136,10 @@ Respondé SOLO con un JSON array de exactamente 10 elementos, sin texto adiciona
     )
     .replace(/,\s*([}\]])/g, '$1');
 
-  return JSON.parse(jsonStr);
+  const noticias = JSON.parse(jsonStr);
+  const limpias  = noticias.filter(n => n.url && esDominioConfiable(n.url));
+  console.log(`  ✅ ${limpias.length} noticias válidas de ${noticias.length}`);
+  return limpias;
 }
 
 // ─── Main ─────────────────────────────────────────────────────────────────────
