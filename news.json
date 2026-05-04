@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-04T14:17:27.865Z",
+  "generado": "2026-05-04T14:26:08.178Z",
   "noticias": [
     {
       "titulo": "Miniso abrió su primer local en la Argentina: ubicación, inversión y planes de expansión",
@@ -160,6 +160,166 @@
       "provincia": "Córdoba",
       "relevancia": 8,
       "url": "https://canalc.com.ar/casa-do-construtor-desembarco-en-cordoba-con-una-inversion-de-250-millones-y-mas-de-1-500-maquinas-disponibles/"
+    },
+    {
+      "titulo": "Miniso llega a Argentina con plan de 100 tiendas",
+      "resumen": "Cadena japonesa de retail abrirá 100 locales y creará 1000 empleos en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.infobae.com/economia/2026/03/18/miniso-llega-la-argentina-la-cadena-viral-estilo-japones-que-es-furor-entre-la-generacion-z-abrira-100-tiendas-en-el-pais/"
+    },
+    {
+      "titulo": "H&M confirma desembarco en Argentina",
+      "resumen": "Marca internacional de moda abrirá su primer local en Argentina en 2027 con socio regional.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.lavoz.com.ar/negocios/confirmado-hm-llegara-argentina-2027-abrira-primer-local-junto-socio-regional_0_tiuIvA91J5.html"
+    },
+    {
+      "titulo": "Decathlon abre sucursales en Argentina",
+      "resumen": "Cadena de deportes inaugurará tiendas en Buenos Aires y Córdoba durante 2026.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobea.com/economia/2025/05/22/decathlon-ya-tiene-fecha-para-la-apertura-de-su-primer-local-en-la-argentina-donde-sera-y-cuando-se-inaugura/"
+    },
+    {
+      "titulo": "Heladería top planea abrir 40 locales en Argentina",
+      "resumen": "Cadena gastronómica de helados ejecutará expansión de 40 sucursales en el país.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/453593-mientras-otros-colapsan-esta-heladeria-top-planea-abrir-40-locales-en-argentina"
+    },
+    {
+      "titulo": "Carrefour cancela venta y anuncia nuevo plan para Argentina",
+      "resumen": "Supermercado multinacional detiene proceso de venta y propone nuevo modelo de negocios.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/02/20/carrefour-cancelo-la-venta-de-la-cadena-en-argentina-y-anuncio-un-nuevo-plan-para-el-pais/"
+    },
+    {
+      "titulo": "Mango regresa a Argentina con apertura en Buenos Aires",
+      "resumen": "Marca española de moda reabre después de 23 años con primera tienda en CABA.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.infobea.com/america/agencias/2026/03/20/mango-regresa-este-ano-a-argentina-tras-23-anos-de-ausencia-con-la-apertura-de-una-tienda-en-buenos-aires/"
+    },
+    {
+      "titulo": "Nike abrirá locales en el interior del país",
+      "resumen": "Marca deportiva internacional desembarcará con sucursales en varias ciudades argentinas.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.cronista.com/informacion-gral/confirmado-nike-abrira-locales-en-el-interior-del-pais-en-que-ciudades-desembarcara-la-conocida-marca-deportiva/"
+    },
+    {
+      "titulo": "Juan Valdez abre locales en Córdoba y proyecta expansión",
+      "resumen": "Cadena de cafeterías inauguró dos locales en aeropuerto y planifica crecimiento nacional.",
+      "sector": "gastronomia",
+      "provincia": "Córdoba",
+      "relevancia": 7,
+      "url": "https://puntoapunto.com.ar/juan-valdez-aterrizo-en-cordoba-abrio-dos-locales-en-el-aeropuerto-y-proyecta-fuerte-expansion-en-argentina/"
+    },
+    {
+      "titulo": "Lumilagro apuesta a locales propios y expansión nacional",
+      "resumen": "Empresa argentina de iluminación abre tiendas propias y planifica crear 60 nuevos empleos.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.cronista.com/negocios/lumilagro-se-reinventa-apuesta-a-locales-propios-y-busca-consolidar-su-liderazgo-nacional/?outputType=amp-type"
+    },
+    {
+      "titulo": "Boom de marcas internacionales: el mayor desembarco en Latinoamérica",
+      "resumen": "Argentina 2026 registra récord histórico de llegada de marcas internacionales con múltiples aperturas.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://infonegocios.miami/plus-2/argentina-2026-el-mayor-desembarco-de-marcas-internacionales-en-la-historia-comercial-de-latinoamerica-por-que"
+    },
+    {
+      "titulo": "Decathlon abrirá en octubre su primer local en la Argentina y busca 90 empleados",
+      "resumen": "Decathlon, marca internacional de artículos deportivos, abre su primer local en Argentina en octubre con búsqueda de 90 empleados.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.infobae.com/economia/2025/08/22/decathlon-abrira-en-octubre-su-primer-local-en-la-argentina-y-busca-90-empleados-cuando-empieza-la-seleccion/"
+    },
+    {
+      "titulo": "Una marca china estilo japonés llega a la Argentina con 100 locales y inversión de US$50 millones",
+      "resumen": "Miniso invertirá US$50 millones para abrir 100 locales de retail en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://tn.com.ar/economia/2026/03/18/una-marca-china-estilo-japones-llega-a-la-argentina-con-100-locales-y-una-inversion-de-us50000000/"
+    },
+    {
+      "titulo": "Carrefour anunció una inversión en la Argentina por 300 millones de dólares",
+      "resumen": "Carrefour invertirá US$300 millones en expansión de supermercados en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.infobae.com/economia/2024/11/08/carrefour-anuncio-una-inversion-en-la-argentina-por-300-millones-de-dolares/"
+    },
+    {
+      "titulo": "Coto inauguró su nueva sucursal en Mar del Plata con 240 puestos de trabajo",
+      "resumen": "Coto inaugura nueva sucursal en Mar del Plata generando 240 empleos con tecnología innovadora.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.0223.com.ar/nota/2025-12-12-15-21-0-coto-inauguro-su-nueva-sucursal-en-mar-del-plata-240-puestos-de-trabajo-y-tecnologia-inedita"
+    },
+    {
+      "titulo": "Carrefour expansión récord: cuatro tiendas inauguradas en 24 horas",
+      "resumen": "Carrefour inaugura cuatro nuevas sucursales en 24 horas como parte de su estrategia de expansión.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.perfil.com/noticias/empresas-y-protagonistas/expansion-record-carrefour-inauguro-cuatro-tiendas-en-24-horas-y-sigue-apostando-al-crecimiento-en-argentina.phtml"
+    },
+    {
+      "titulo": "Farmacity celebra 20 años con inversión de $3.000 M y 200 locales nuevos",
+      "resumen": "Farmacity invertirá $3.000 millones para abrir 200 nuevas sucursales de farmacia.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://infonegocios.info/y-ademas/farmacity-cumplio-20-anos-y-festeja-con-todo-inversion-de-3-000-m-y-200-locales-nuevos"
+    },
+    {
+      "titulo": "Meller abrirá su local más grande en La Barra con inversión de US$150.000",
+      "resumen": "Meller abre su tienda más grande en La Barra con inversión de US$150.000 y expansión prevista para 2026.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://infonegocios.biz/nota-principal/con-una-inversion-de-us-150-000-meller-abrira-su-local-mas-grande-en-la-barra-y-proyecta-expansion-en-2026"
+    },
+    {
+      "titulo": "Makro inaugura sucursal en Benavídez con inversión de $850 millones",
+      "resumen": "Mayorista Makro invierte $850 millones en nueva sucursal en Benavídez.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://eleconomista.com.ar/negocios/mayorista-makro-inaugura-su-sucursal-benavidez-invirtio-850-millones-n39569"
+    },
+    {
+      "titulo": "Juan Valdez inaugura en Argentina la tienda más grande del mundo",
+      "resumen": "Juan Valdez abre su local más grande a nivel global en Argentina.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://fortuna.perfil.com/noticias/negocios/la-marca-de-cafe-juan-valdez-inaugura-en-argentina-su-tienda-mas-grande-a-nivel-global.phtml"
+    },
+    {
+      "titulo": "Adidas invirtió $500 millones en renovar sus tiendas incluida la de Patio Olmos",
+      "resumen": "Adidas invierte $500 millones en renovación de sus tiendas retail en Argentina.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 8,
+      "url": "https://www.lavoz.com.ar/negocios/adidas-invirtio-500-millones-en-renovar-sus-tiendas-incluida-la-de-patio-olmos_0_bjGiFf1qIZ.html"
     }
   ]
 }
