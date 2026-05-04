@@ -1,6 +1,159 @@
 {
-  "generado": "2026-05-04T17:10:35.141Z",
+  "generado": "2026-05-04T17:15:20.771Z",
   "noticias": [
+    {
+      "titulo": "Miniso llega al país: cadena de precios bajos creará 100 locales y mucho trabajo",
+      "resumen": "Cadena china Miniso desembarca en Argentina con plan de abrir 100 tiendas de retail.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.iprofesional.com/negocios/450538-cadena-china-miniso-precios-bajos-llega-argentina-100-locales-1000-puestos-de-trabajo",
+      "fecha": "2026-03-18"
+    },
+    {
+      "titulo": "Mercado Libre construirá en Escobar su mayor centro de almacenamiento del país",
+      "resumen": "Mercado Libre construye el mayor centro logístico de su red en Argentina en Escobar.",
+      "sector": "logistica",
+      "provincia": "Buenos Aires",
+      "relevancia": 10,
+      "url": "https://www.pilaradiario.com/mercado-libre-construira-escobar-su-mayor-centro-almacenamiento-del-pais-n5468520",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Una gigante alimenticia inauguró un nuevo polo industrial en General Rodríguez",
+      "resumen": "Empresa alimenticia inaugura nuevo polo industrial en General Rodríguez e incorporará 500 empleados.",
+      "sector": "industrial",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/03/30/una-gigante-alimenticia-inauguro-un-nuevo-polo-industrial-en-general-rodriguez-y-busca-sumar-500-empleados/",
+      "fecha": "2026-03-30"
+    },
+    {
+      "titulo": "Nike planea abrir al menos cuatro locales en Argentina",
+      "resumen": "Nike abre cuatro nuevos locales de retail en Argentina y acuerdos con fútbol profesional.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/449903-nike-planea-abrir-cuatro-locales-y-vestira-a-grande-del-futbol-argentino",
+      "fecha": "2026-03-15"
+    },
+    {
+      "titulo": "El fenómeno Miniso llega a Pilar: abrirá una tienda en el K50",
+      "resumen": "Miniso abre tienda de retail en centro comercial K50 de Pilar, Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.pilaradiario.com/informacion-general/el-fenomeno-miniso-llega-pilar-abrira-una-tienda-el-k50-y-busca-personal-n5469442",
+      "fecha": "2026-03-20"
+    },
+    {
+      "titulo": "Regresa un ícono de los 90: la famosa marca que vuelve a la Argentina",
+      "resumen": "Marca reconocida de los 90 regresa a Argentina con plan de abrir nuevos locales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.0223.com.ar/nota/2026-3-20-14-53-0-regresa-un-icono-de-los-90-la-famosa-marca-que-vuelve-a-la-argentina-y-planea-abrir-locales",
+      "fecha": "2026-03-20"
+    },
+    {
+      "titulo": "IRSA y Mercado Libre impulsan un nuevo modelo corporativo en Buenos Aires",
+      "resumen": "IRSA y Mercado Libre desarrollan proyecto de oficinas corporativas en Buenos Aires.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/irsa-y-mercado-libre-impulsan-un-nuevo-modelo-corporativo-en-buenos-aires/",
+      "fecha": "2026-03-25"
+    },
+    {
+      "titulo": "Casi 9 de cada 10 empresas alemanas prevén invertir o sostener desembolsos en 2026",
+      "resumen": "Empresas alemanas confirman inversiones de infraestructura y ampliaciones en Argentina para 2026.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.perfil.com/noticias/economia/casi-9-de-cada-10-empresas-alemanas-preven-invertir-o-sostener-desembolsos-en-2026.phtml",
+      "fecha": "2026-04-10"
+    },
+    {
+      "titulo": "Milei abre el Argentina Week con el objetivo de multiplicar las inversiones extranjeras",
+      "resumen": "Argentina Week busca atraer inversiones extranjeras en infraestructura, construcción y expansión física.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.infobae.com/politica/2026/03/10/milei-abre-el-argentina-week-con-el-objetivo-de-multiplicar-las-inversiones-extranjeras-en-la-argentina/",
+      "fecha": "2026-03-10"
+    },
+    {
+      "titulo": "Empresas alemanas apuestan a inversiones fuertes en Argentina",
+      "resumen": "Inversores alemanes confirman planes de expansión física y construcción en Argentina para 2026.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.perfil.com/noticias/economia/optimistas-empresas-alemanas-apuestan-a-inversiones-fuertes-en-argentina-con-preocupacion-por-la-actividad-a40.phtml",
+      "fecha": "2026-04-05"
+    },
+    {
+      "titulo": "Mercado Libre necesita más oficinas en el Polo DOT de Saavedra junto a IRSA",
+      "resumen": "Mercado Libre expande su presencia con nuevas oficinas corporativas en Buenos Aires.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://infonegocios.info/plus/mercado-libre-necesita-mas-oficinas-pero-no-en-cordoba-que-hara-en-el-polo-dot-de-saavedra-junto-a-irsa",
+      "fecha": "2026-04-19"
+    },
+    {
+      "titulo": "Qué marcas internacionales llegan al país en 2026: el mapa del lujo y nuevas aperturas",
+      "resumen": "Múltiples marcas de lujo internacionales anuncian desembarco físico en Argentina durante 2026.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.rionegro.com.ar/redes/que-marcas-internacionales-llegan-al-pais-en-2026-el-mapa-del-lujo-y-nuevas-aperturas-4538039/",
+      "fecha": "2026-04-19"
+    },
+    {
+      "titulo": "Del lujo francés al skincare coreano: la ola de marcas que desembarca en Argentina",
+      "resumen": "Nuevas marcas internacionales de moda y cosméticos abren locales físicos en Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://tn.com.ar/estilo/tendencias/2026/04/03/las-marcas-internacionales-vuelven-a-apostar-por-buenos-aires-y-cambian-el-mapa-de-la-moda/",
+      "fecha": "2026-04-03"
+    },
+    {
+      "titulo": "El diseño italiano de Alessi llega a la Argentina",
+      "resumen": "Marca de diseño italiano Alessi abre su presencia con tienda física en Argentina.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://fortuna.perfil.com/noticias/negocios/el-diseno-italiano-de-alessi-llega-a-la-argentina.phtml",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "La nueva marca china que traerá Stellantis avanza en su desembarco argentino",
+      "resumen": "Stellantis prepara la apertura de concesionarios y centro de distribución para nueva marca china en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://tn.com.ar/autos/novedades/2026/04/21/la-nueva-marca-china-que-traera-stellantis-avanza-en-su-desembarco-argentino/",
+      "fecha": "2026-04-21"
+    },
+    {
+      "titulo": "Nace una nueva marca que unifica el imperio del zar de la logística",
+      "resumen": "Importante grupo logístico argentino consolida operaciones con nueva marca unificada para expandir infraestructura.",
+      "sector": "logistica",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/450503-nace-una-nueva-marca-que-unifica-el-imperio-del-zar-de-la-logistica",
+      "fecha": "2026-04-20"
+    },
+    {
+      "titulo": "Leapmotor presenta su nueva gama y anticipa desembarco en Argentina",
+      "resumen": "Marca automotriz china Leapmotor anuncia planes de expansión con aperturas de concesionarios en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.lanacion.com.ar/autos/tendencias/leapmotor-acelera-su-expansion-global-y-muestra-su-potencial-en-auto-china-2026-nid30042026/",
+      "fecha": "2026-04-30"
+    },
     {
       "titulo": "Monti inaugura su décimo local",
       "resumen": "Cadena de fast food de pasta Monti expande su presencia con apertura de nuevo local en Argentina.",
