@@ -51,21 +51,18 @@ async function clasificarConClaude(articulos) {
   console.log(`🤖 Clasificando ${articulos.length} artículos con Claude...`);
  
   const lista = articulos.slice(0, 50).map((a, i) =>
-    `${i+1}. ${a.titulo} | ${a.resumen.substring(0, 120)} | URL: ${a.url}`
+    `${i+1}. ${a.titulo} | ${a.resumen.substring(0, 100)} | URL: ${a.url}`
   ).join('\n');
  
   const prompt = `Sos un analista para Execon SRL, constructora argentina de obras corporativas.
  
-De esta lista de noticias argentinas, seleccioná las 20 más relevantes sobre planes de expansión física, inversiones en construcción, aperturas planificadas o proyectos de infraestructura de empresas. Buscá: cadenas gastronómicas, retail, supermercados, bancos, logística, salud privada, educación privada, estaciones de servicio, industria, oficinas, marcas internacionales que llegan al país.
+De esta lista, seleccioná las 10 noticias más relevantes sobre expansión física, construcción, aperturas o inversiones de empresas en Argentina. Cadenas gastronómicas, retail, supermercados, bancos, logística, salud, educación privada, estaciones de servicio, industria, oficinas, marcas internacionales.
  
 NOTICIAS:
 ${lista}
  
-Respondé SOLO con un JSON array, sin texto adicional:
-[{"titulo":"...","resumen":"1-2 oraciones: empresa, tipo de inversión, ubicación","sector":"banco|gastronomia|retail|logistica|industrial|energia|oficinas|salud|educacion|otros","provincia":"nombre provincia o Nacional","relevancia":2,"url":"https://..."}]
- 
-Relevancia: 3=obra muy probable para constructora, 2=relevante, 1=informativo.
-Respondé SIEMPRE solo con el JSON array, sin excepciones.`;
+Respondé SOLO con un JSON array de exactamente 10 elementos, sin texto adicional:
+[{"titulo":"...","resumen":"1 oración corta: empresa y tipo de obra","sector":"banco|gastronomia|retail|logistica|industrial|energia|oficinas|salud|educacion|otros","provincia":"nombre o Nacional","relevancia":2,"url":"https://..."}]`;
  
   const res  = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
@@ -137,8 +134,10 @@ Respondé SIEMPRE solo con el JSON array, sin excepciones.`;
       process.exit(0);
     }
  
-    // 4. Clasificar con Claude
-    const noticias = await clasificarConClaude(articulos);
+    // 4. Clasificar con Claude — 2 llamadas de 10 para llegar a 20
+    const mitad1 = await clasificarConClaude(articulos.slice(0, 50));
+    const mitad2 = await clasificarConClaude(articulos.slice(50, 100));
+    const noticias = [...(mitad1 || []), ...(mitad2 || [])];
     if (!Array.isArray(noticias) || !noticias.length) throw new Error('Claude no devolvió noticias');
  
     // 5. Guardar URLs vistas
@@ -156,3 +155,4 @@ Respondé SIEMPRE solo con el JSON array, sin excepciones.`;
     process.exit(1);
   }
 })();
+ 
