@@ -137,17 +137,28 @@ Respondé SOLO con un JSON array de exactamente 10 elementos, sin texto adiciona
     // 4. Clasificar con Claude — 2 llamadas de 10 para llegar a 20
     const mitad1 = await clasificarConClaude(articulos.slice(0, 50));
     const mitad2 = await clasificarConClaude(articulos.slice(50, 100));
-    const noticias = [...(mitad1 || []), ...(mitad2 || [])];
-    if (!Array.isArray(noticias) || !noticias.length) throw new Error('Claude no devolvió noticias');
+    const nuevas = [...(mitad1 || []), ...(mitad2 || [])];
+    if (!Array.isArray(nuevas) || !nuevas.length) throw new Error('Claude no devolvió noticias');
+    console.log(`  ✅ ${nuevas.length} noticias nuevas clasificadas`);
  
     // 5. Guardar URLs vistas
-    noticias.forEach(n => vistas.add(n.url));
+    nuevas.forEach(n => vistas.add(n.url));
     guardarVistas(vistas);
  
-    // 6. Guardar news.json
+    // 6. Acumular hasta 100 noticias — rotar las más viejas
+    let acumuladas = [];
+    try {
+      const anterior = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf8'));
+      acumuladas = anterior.noticias || [];
+    } catch { acumuladas = []; }
+ 
+    const combinadas = [...acumuladas, ...nuevas];
+    const noticias   = combinadas.slice(-100); // Mantener las últimas 100
+ 
+    // 7. Guardar news.json
     const output = { generado: new Date().toISOString(), noticias };
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), 'utf8');
-    console.log(`\n💾 Guardado: ${noticias.length} noticias`);
+    console.log(`\n💾 Guardado: ${noticias.length} noticias en total (${nuevas.length} nuevas)`);
     console.log('✅ Listo.');
  
   } catch(e) {
@@ -155,4 +166,3 @@ Respondé SOLO con un JSON array de exactamente 10 elementos, sin texto adiciona
     process.exit(1);
   }
 })();
- 
