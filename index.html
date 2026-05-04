@@ -215,7 +215,7 @@
           <div class="card-title">${item.titulo}</div>
           <div class="card-body">${item.resumen}</div>
           <div class="card-footer">
-            <span class="province-tag">${item.provincia}</span>
+            <span class="province-tag">${item.provincia}${item.fecha ? ' · ' + new Date(item.fecha).toLocaleDateString('es-AR', {day:'2-digit', month:'short', year:'numeric'}) : ''}</span>
             ${isSeen
               ? '<span class="seen-badge">Ya vista</span>'
               : (item.relevancia >= 3 ? '<span class="opp-tag">Oportunidad</span>' : '')
