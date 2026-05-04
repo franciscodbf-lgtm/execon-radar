@@ -29,7 +29,7 @@ function guardarVistas(vistas) {
 
 // ─── Buscar en Google News via SerpApi ───────────────────────────────────────
 async function buscarEnGoogle(query) {
-  const url = `https://serpapi.com/search.json?engine=google_news&q=${encodeURIComponent(query)}&gl=ar&hl=es&api_key=${SERPAPI_KEY}`;
+  const url = `https://serpapi.com/search.json?engine=google_news&q=${encodeURIComponent(query)}&gl=ar&hl=es&tbs=qdr:m2&api_key=${SERPAPI_KEY}`;
   try {
     const res  = await fetch(url, { signal: AbortSignal.timeout(10000) });
     const data = await res.json();
