@@ -1,6 +1,166 @@
 {
-  "generado": "2026-05-04T14:34:57.485Z",
+  "generado": "2026-05-04T14:43:08.731Z",
   "noticias": [
+    {
+      "titulo": "Tras un 2025 con números récord, Milanga prepara su expansión en 2026",
+      "resumen": "Cadena argentina de sándwiches de milanesas planea expandir su red de sucursales tras cerrar 2025 con 12 locales operativos.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://fortuna.perfil.com/noticias/negocios/tras-un-2025-con-numeros-record-milanga-prepara-su-expansion-en-2026.phtml"
+    },
+    {
+      "titulo": "Vuelve un ícono de los 90: el gigante de las pizzas que regresa a la Argentina para pelear el trono",
+      "resumen": "Marca internacional de pizzas planea regresar al mercado argentino con nueva estrategia comercial.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.0223.com.ar/nota/2026-3-27-11-26-0-vuelve-un-icono-de-los-90-el-gigante-de-las-pizzas-que-regresa-a-la-argentina-para-pelear-el-trono"
+    },
+    {
+      "titulo": "Las tortas más famosas de EEUU llegan a Buenos Aires: The Cheesecake Factory",
+      "resumen": "Reconocida cadena estadounidense de restaurantes desembarca en Buenos Aires con su primer local.",
+      "sector": "gastronomia",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.infobea.com/economia/2025/08/28/las-tortas-mas-famosas-de-eeuu-llegan-a-buenos-aires-todo-lo-que-hay-que-saber-sobre-el-desembarco-de-the-cheesecake-factory/"
+    },
+    {
+      "titulo": "H&M confirmó que abrirá su primer local en Argentina en 2027",
+      "resumen": "Gigante sueco de retail de moda confirma apertura de primera tienda en Argentina para 2027.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://mendoza24.com.ar/negocios_empresas/28346-H&M-confirmo-que-abrira-su-primer-local-en-Argentina-en-2027"
+    },
+    {
+      "titulo": "KFC abre 41 nuevos locales en Argentina",
+      "resumen": "Cadena de fast food KFC anuncia apertura masiva de 41 nuevas sucursales en territorio argentino.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://mercado.com.ar/negocios/kfc-abre-41-nuevos-locales-en-argentina"
+    },
+    {
+      "titulo": "La estrategia de Mostaza para liderar el negocio del fast food: inversión de US$ 25 millones y apertura de 30 tiendas en 2025",
+      "resumen": "Cadena argentina Mostaza invierte US$ 25 millones para abrir 30 nuevos locales y liderar el segmento.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.forbesargentina.com/negocios/la-estrategia-mostaza-liderar-negocio-fast-food-inversion-us-25-millones-apertura-30-tiendas-2025-n63030"
+    },
+    {
+      "titulo": "Dean & Dennys proyecta alcanzar los 120 locales en América Latina",
+      "resumen": "Cadena argentina planea triplicar su red de franquicias en cinco años con 120 locales en Latinoamérica.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.forbesargentina.com/negocios/la-estrategia-fast-good-busca-triplicar-su-red-cinco-anos-dean-dennys-proyecta-alcanzar-120-locales-america-latina-n81134"
+    },
+    {
+      "titulo": "McDonald's sumó su local 227 en Argentina y Burger King reubicó y amplió sucursal en Mar del Plata",
+      "resumen": "McDonald's continúa expansión con nuevo local mientras Burger King amplía presencia en Mar del Plata.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.lavoz.com.ar/negocios/mcdonalds-sumo-su-local-227-en-argentina-y-burger-king-reubico-y-amplio-sucursal-en-mar-del-plata_0_r8smaPLIxW.html"
+    },
+    {
+      "titulo": "Le Pain Quotidien llega a Mendoza y abre su primer local fuera de Buenos Aires",
+      "resumen": "Cadena internacional de panaderías abre su primer sucursal en el interior del país en Mendoza.",
+      "sector": "gastronomia",
+      "provincia": "Mendoza",
+      "relevancia": 7,
+      "url": "https://eldescorchediario.com/le-pain-quotidien-llega-a-mendoza-y-abre-su-primer-local-fuera-de-buenos-aires/"
+    },
+    {
+      "titulo": "Con más de 50 locales en Argentina, El Desembarco eligió Paraguay para su expansión regional",
+      "resumen": "Cadena argentina de gastronomía expande operaciones hacia Paraguay con apertura de primer local.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://infonegocios.com.py/infogourmet/con-mas-de-50-locales-en-argentina-el-desembarco-eligio-paraguay-para-su-expansion-regional-y-abrio-su-local-en-las-mercedes"
+    },
+    {
+      "titulo": "Miniso llega a Argentina: abrirá 100 tiendas y generará hasta 1.000 empleos",
+      "resumen": "Cadena china de retail desembarca en Argentina con plan de expansión masiva de locales comerciales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.iprofesional.com/negocios/450538-cadena-china-miniso-precios-bajos-llega-argentina-100-locales-1000-puestos-de-trabajo"
+    },
+    {
+      "titulo": "Decathlon abrirá 20 locales en Argentina y confirmó tercera tienda",
+      "resumen": "Cadena deportiva internacional inaugura sucursales en Argentina con proyección de expansión de 20 locales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.losandes.com.ar/economia/la-cadena-deportiva-decathlon-abrira-20-locales-en-la-argentina-cuando-inaugurara-su-primera-sucursal"
+    },
+    {
+      "titulo": "Megafusión entre cadenas de supermercados: 12 sucursales y centro logístico cambian de dueño",
+      "resumen": "Operación de consolidación en sector supermercadista con transferencia de 12 sucursales y 1.600 empleados.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobea.com/economia/2026/03/18/megafusion-entre-dos-cadenas-de-supermercados-12-sucursales-1600-empleados-y-un-centro-logistico-cambian-de-dueno/"
+    },
+    {
+      "titulo": "Nike planea abrir al menos cuatro locales en Argentina",
+      "resumen": "Marca deportiva estadounidense expande presencia retail en el país con apertura de múltiples sucursales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/449903-nike-planea-abrir-cuatro-locales-y-vestira-a-grande-del-futbol-argentino"
+    },
+    {
+      "titulo": "Cadena uruguaya de moda abrirá 9 tiendas en Argentina",
+      "resumen": "Mayor cadena de moda de Uruguay llega a Córdoba e inicia expansión retail en Argentina.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 8,
+      "url": "https://www.lavoz.com.ar/negocios/la-mayor-cadena-de-moda-de-uruguay-llego-a-cordoba-y-abrira-9-tiendas-en-argentina_0_wVdqvcn5xG.html"
+    },
+    {
+      "titulo": "Cetrogar expande su presencia en Salta con nueva apertura estratégica",
+      "resumen": "Cadena de electrodomésticos expande operaciones retail en la provincia de Salta.",
+      "sector": "retail",
+      "provincia": "Salta",
+      "relevancia": 7,
+      "url": "https://americaretail-malls.com/paises/argentina/cetrogar-expande-su-presencia-en-salta-con-una-nueva-apertura-estrategica/"
+    },
+    {
+      "titulo": "Skechers acelera su expansión en Argentina",
+      "resumen": "Marca de calzado deportivo acelera plan de aperturas de tiendas en el país.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://eloccidental.com.ar/destacadas/12/01/2026/skechers-acelera-su-expansion-en-la-argentina/"
+    },
+    {
+      "titulo": "Marca de moda francesa abrirá seis locales en Argentina",
+      "resumen": "Empresa francesa de moda desembarca en Argentina con plan de seis tiendas físicas.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://radiomitre.cienradios.com/sociedad/una-marca-de-moda-francesa-llega-a-argentina-y-abrira-seis-locales-en-todo-el-pais-cual-es-y-que-productos-ofrecera/"
+    },
+    {
+      "titulo": "Santander Argentina invertirá US$ 230 millones en tecnología y funcionalidades digitales",
+      "resumen": "Banco Santander destina inversión significativa para expandir servicios digitales y mejorar infraestructura tecnológica.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://infonegocios.info/y-ademas/santander-argentina-apuesta-a-la-tecnologia-invertira-us-230-millones-en-2026-para-ampliar-funcionalidades-eficiencia-y-experiencia-digital"
+    },
+    {
+      "titulo": "Locales tecnológicos se expanden en Argentina con foco en experiencia del usuario",
+      "resumen": "Expansión de tiendas tecnológicas especializadas con énfasis en experiencia de compra del consumidor.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.infobea.com/inhouse/2026/03/31/locales-tecnologicos-se-expanden-en-la-argentina-con-foco-en-la-experiencia-del-usuario/"
+    },
     {
       "titulo": "Decathlon abrió su primer local en la Argentina",
       "resumen": "Cadena internacional de deportes abre su primera tienda en Argentina con planes de expansión a múltiples ciudades.",
