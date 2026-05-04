@@ -1,6 +1,51 @@
 {
-  "generado": "2026-05-04T17:15:20.771Z",
+  "generado": "2026-05-04T17:24:24.244Z",
   "noticias": [
+    {
+      "titulo": "Cadena china desembarca en Argentina: abrirá 100 tiendas y generará hasta 1.000 empleos",
+      "resumen": "Importante marca china inicia expansión retail en Argentina con apertura de 100 locales comerciales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.0223.com.ar/nota/2026-3-18-18-44-0-furor-por-la-cadena-china-que-desembarca-en-argentina-abrira-100-tiendas-y-generara-hasta-1-000-empleos",
+      "fecha": "2026-03-18"
+    },
+    {
+      "titulo": "Mercado Libre construirá en Escobar su mayor centro de almacenamiento en Argentina",
+      "resumen": "Mercado Libre desarrolla su centro logístico más grande del país en Escobar con inversión en infraestructura física.",
+      "sector": "logistica",
+      "provincia": "Buenos Aires",
+      "relevancia": 10,
+      "url": "https://www.quepasaweb.com.ar/mercado-libre-construira-en-escobar-su-mayor-centro-de-almacenamiento-en-argentina/",
+      "fecha": "2026-04-28"
+    },
+    {
+      "titulo": "H&M confirmó su desembarco en la Argentina: cuándo y dónde abrirá su primer local",
+      "resumen": "Multinacional H&M anuncia apertura de primer local físico en Argentina con planes de expansión retail.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/04/24/hm-confirmo-su-desembarco-en-la-argentina-cuando-y-donde-abrira-su-primer-local/",
+      "fecha": "2026-04-24"
+    },
+    {
+      "titulo": "Cuáles son las marcas internacionales que llegan a la Argentina: mapa de aperturas en 2026",
+      "resumen": "Análisis de múltiples marcas globales abriendo locales físicos en Argentina durante 2026.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.forbesargentina.com/negocios/cuales-son-marcas-internacionales-llegan-argentina-mapa-aperturas-2026-n89064",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Una por una: todas las marcas de moda que llegan al país en 2026",
+      "resumen": "Detalle de cadenas de moda internacionales abriendo locales comerciales en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.lanacion.com.ar/economia/negocios/una-por-una-todas-las-marcas-de-moda-que-llegan-al-pais-en-2026-nid09042026/",
+      "fecha": "2026-04-09"
+    },
     {
       "titulo": "Miniso llega al país: cadena de precios bajos creará 100 locales y mucho trabajo",
       "resumen": "Cadena china Miniso desembarca en Argentina con plan de abrir 100 tiendas de retail.",
