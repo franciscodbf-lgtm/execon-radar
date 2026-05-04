@@ -28,7 +28,22 @@ function guardarVistas(vistas) {
 }
 
 // ─── Dominios spam a bloquear ─────────────────────────────────────────────────
-const DOMINIOS_BLOQUEADOS = ['infobea.com', 'infobaa.com'];
+// ─── Lista blanca de dominios confiables ─────────────────────────────────────
+const DOMINIOS_CONFIABLES = [
+  'infobae.com', 'lanacion.com.ar', 'clarin.com', 'cronista.com', 'ambito.com',
+  'iprofesional.com', 'perfil.com', 'forbesargentina.com', 'lavoz.com.ar',
+  'losandes.com.ar', 'telam.com.ar', 'pagina12.com.ar', 'eldestape.com.ar',
+  'minutouno.com', 'lmneuquen.com', 'rionegro.com.ar', '0223.com.ar',
+  'americaretail-malls.com', 'infonegocios.info', 'infonegocios.biz',
+  'mercado.com.ar', 'eleconomista.com.ar', 'bloomberglinea.com',
+  'laverdadonline.com.ar', 'mendoza24.com.ar', 'canalc.com.ar',
+  'puntoapunto.com.ar', 'pilaradiario.com', 'quepasaweb.com.ar',
+  'ciudadanoweb.com.ar', 'filo.news', 'tn.com.ar', 'lanoticiaweb.com.ar',
+];
+
+function esDominioConfiable(url) {
+  return DOMINIOS_CONFIABLES.some(d => url.includes(d));
+}
 const HACE_60_DIAS = new Date(Date.now() - 60 * 24 * 60 * 60 * 1000);
 
 // ─── Buscar en Google News via SerpApi ───────────────────────────────────────
@@ -47,7 +62,7 @@ async function buscarEnGoogle(query) {
     })).filter(r => {
       if (!r.titulo || !r.url) return false;
       // Bloquear dominios spam
-      if (DOMINIOS_BLOQUEADOS.some(d => r.url.includes(d))) return false;
+      if (!esDominioConfiable(r.url)) return false;
       // Descartar noticias más viejas de 60 días
       if (r.fecha) {
         const f = new Date(r.fecha);
