@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-04T14:26:08.178Z",
+  "generado": "2026-05-04T14:29:04.846Z",
   "noticias": [
     {
       "titulo": "Miniso abrió su primer local en la Argentina: ubicación, inversión y planes de expansión",
@@ -320,6 +320,166 @@
       "provincia": "Córdoba",
       "relevancia": 8,
       "url": "https://www.lavoz.com.ar/negocios/adidas-invirtio-500-millones-en-renovar-sus-tiendas-incluida-la-de-patio-olmos_0_bjGiFf1qIZ.html"
+    },
+    {
+      "titulo": "H&M confirmó su desembarco en la Argentina: cuándo y dónde abrirá su primer local",
+      "resumen": "La marca internacional de moda H&M abre su primer local en Argentina tras años de ausencia.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.infobae.com/economia/2026/04/24/hm-confirmo-su-desembarco-en-la-argentina-cuando-y-donde-abrira-su-primer-local/"
+    },
+    {
+      "titulo": "Cuántos Decathlon abrirán en la Argentina",
+      "resumen": "Decathlon planifica múltiples aperturas de tiendas de deportes en Argentina con expansión nacional.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.lanacion.com.ar/economia/cuantos-decathlon-abriran-en-la-argentina-nid04112025/"
+    },
+    {
+      "titulo": "Miniso abre su primer local en Argentina y promete mil nuevos empleos en Calle Florida",
+      "resumen": "La cadena china Miniso inaugura en Argentina con plan de 100 locales y creación de empleos.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.0223.com.ar/nota/2026-4-23-16-57-24-miniso-inaugura-su-primer-local-en-argentina-con-oferta-de-mil-empleos-y-reapertura-en-florida"
+    },
+    {
+      "titulo": "Mango regresa este año a Argentina tras 23 años de ausencia con la apertura de una tienda en Buenos Aires",
+      "resumen": "La marca española Mango retorna a Argentina con apertura de tienda tras más de dos décadas.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.infobea.com/america/agencias/2026/03/20/mango-regresa-este-ano-a-argentina-tras-23-anos-de-ausencia-con-la-apertura-de-una-tienda-en-buenos-aires/"
+    },
+    {
+      "titulo": "Una marca internacional de zapatillas abre su segundo local y avanza con un ambicioso plan de expansión",
+      "resumen": "Marca de zapatillas internacionales expande presencia con múltiples locales en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.cronista.com/negocios/una-marca-internacional-de-zapatillas-abre-su-segundo-local-y-avanza-con-un-ambicioso-plan-de-expansion-en-la-argentina/"
+    },
+    {
+      "titulo": "Carrefour 24 horas en Argentina 2026: qué sucursales abren sin cierre y la expansión que acaba de anunciar",
+      "resumen": "Carrefour expande su presencia con nuevas sucursales de formato 24 horas en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infozona.com.ar/carrefour-24-horas-sucursales-argentina/"
+    },
+    {
+      "titulo": "Burger King refuerza su expansión en Argentina con una nueva sucursal en Alcorta Shopping",
+      "resumen": "Burger King abre nueva sucursal en shopping de Buenos Aires continuando expansión gastronómica.",
+      "sector": "gastronomia",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/burger-king-refuerza-su-expansion-en-argentina-con-una-nueva-sucursal-en-alcorta-shopping/"
+    },
+    {
+      "titulo": "Lumilagro anunció un plan de expansión con 60 nuevos empleos y apertura de locales",
+      "resumen": "Marca argentina Lumilagro expande con nuevas aperturas y generación de empleos locales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://infodelestero.com/2026/05/01/lumilagro-anuncio-un-plan-de-expansion-con-60-nuevos-empleos-y-apertura-de-locales/"
+    },
+    {
+      "titulo": "Convirtió sus recuerdos de infancia en una cadena que ya opera 26 locales y adquirió Pani",
+      "resumen": "Cadena argentina con 26 locales operativos adquiere otra marca y anuncia expansión 2026.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.forbesargentina.com/negocios/convirtio-sus-recuerdos-infancia-una-cadena-ya-opera-26-locales-adquirio-pani-su-ambicioso-plan-expansion-2026-n83241"
+    },
+    {
+      "titulo": "Cuáles son las marcas internacionales que llegan a la Argentina: mapa de aperturas en 2026",
+      "resumen": "Análisis comprensivo de múltiples marcas internacionales con planes de apertura en Argentina 2026.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.forbesargentina.com/negocios/cuales-son-marcas-internacionales-llegan-argentina-mapa-aperturas-2026-n89064"
+    },
+    {
+      "titulo": "Decathlon abre su primer local en Buenos Aires el 8 de noviembre",
+      "resumen": "Decathlon, cadena internacional de deportes, abre primer local en Argentina con tres sucursales confirmadas para 2025-2026.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 10,
+      "url": "https://www.infobae.com/economia/2025/10/28/decathlon-abre-su-primer-local-en-buenos-aires-el-8-de-noviembre-que-se-llevaran-los-primeros-visitantes/"
+    },
+    {
+      "titulo": "Carrefour anunció una inversión en Argentina por US$300 millones",
+      "resumen": "Carrefour invierte US$300 millones en expansión y reposicionamiento estratégico en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.borderperiodismo.com/actualidad/carrefour-anuncio-una-inversion-en-argentina-por-us300-millones/"
+    },
+    {
+      "titulo": "Miniso en Argentina: dónde está el primer local y plan de 100 sucursales",
+      "resumen": "Miniso desembarca en Argentina con inversión de US$50 millones y planes de abrir 100 locales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://viapais.com.ar/informacion-general/abre-vendera-miniso-argentina-100-locales-inversion-us50-millones_0_pGA28GUvoU.html"
+    },
+    {
+      "titulo": "La puja por Carrefour entra en tiempo de descuento: se define quién se quedará con el negocio",
+      "resumen": "Proceso de venta de Carrefour Argentina genera estrategia de múltiples adquisiciones de cadenas locales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobea.com/economia/2025/12/15/la-puja-por-carrefour-entra-en-tiempo-de-descuento-se-define-quien-se-quedara-con-el-negocio-en-la-argentina/"
+    },
+    {
+      "titulo": "Una tienda favorita de los argentinos en Chile desembarca en Argentina: planea 30 locales",
+      "resumen": "Cadena chilena de retail planea abrir 30 sucursales en Argentina como expansión regional.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.lavoz.com.ar/negocios/empresas/una-tienda-favorita-de-los-argentinos-en-chile-desembarca-en-argentina-planea-30-locales_0_urdUA1aeJS.html"
+    },
+    {
+      "titulo": "Carrefour inauguró cuatro nuevas sucursales en 24 horas y llegó a las 35 aperturas en 2024",
+      "resumen": "Carrefour ejecuta plan agresivo de expansión con 35 nuevas sucursales abiertas durante 2024.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobea.com/economia/networking/2024/11/29/carrefour-inauguro-cuatro-nuevas-sucursales-en-24-horas-y-llego-a-las-35-aperturas-en-2024/"
+    },
+    {
+      "titulo": "Easy invierte $750 millones en seis nuevas tiendas",
+      "resumen": "Easy planea inversión de $750 millones en apertura de seis nuevas sucursales en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.cronista.com/negocios/easy-invierte-750-millones-en-seis-nuevas-tiendas-donde-abrira/"
+    },
+    {
+      "titulo": "Makro hace triplete en Córdoba e invierte $100M en nueva sucursal",
+      "resumen": "Makro expande operaciones en Córdoba con inversión de $100 millones para duplicar red de almaceneros.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 7,
+      "url": "https://infonegocios.info/nota-principal/makro-hace-triplete-en-cordoba-y-apunta-a-duplicar-su-red-de-almaceneros-inversion-de-100-m-en-nueva-sucursal"
+    },
+    {
+      "titulo": "Casa do Construtor llegó a la Argentina: primera franquicia en Córdoba",
+      "resumen": "Empresa brasileña de alquiler de herramientas desembarca en Argentina con franquicia en Córdoba.",
+      "sector": "otros",
+      "provincia": "Córdoba",
+      "relevancia": 7,
+      "url": "https://www.lavoz.com.ar/negocios/casa-constructor-casa-do-construtor-franquicia-construccion-maquinaria-construccion_0_NBJ1U1ey9s.html"
+    },
+    {
+      "titulo": "Café Martínez cumple 90 años y lo celebra con una ambiciosa inversión hasta 2027",
+      "resumen": "Café Martínez anuncia inversión significativa para expansión de sucursales hasta 2027.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.forbesargentina.com/negocios/cafe-martinez-cumple-90-anos-lo-celebra-una-ambiciosa-inversion-2027-n39117"
     }
   ]
 }
