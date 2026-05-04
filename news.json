@@ -1,165 +1,165 @@
 {
-  "generado": "2026-05-02T12:09:36.005Z",
+  "generado": "2026-05-04T14:17:27.865Z",
   "noticias": [
     {
-      "titulo": "Mercado Libre construye mayor centro logístico del país en Escobar",
-      "resumen": "Inversión de USD 115 millones en depósito de 100.000 m2 en Escobar (Buenos Aires), con capacidad para 2 millones de productos y 1.300 empleos. Apertura noviembre 2026.",
-      "sector": "logistica",
-      "provincia": "Buenos Aires",
-      "relevancia": 3,
-      "url": "https://www.lanoticiaweb.com.ar/mercado-libre-construira-un-mega-deposito-en-escobar-e-invertira-115-millones-de-dolares/"
-    },
-    {
-      "titulo": "Córdoba Shopping amplía 3.000 m2 con nuevas marcas y KFC",
-      "resumen": "IRSA invierte en ampliación de Córdoba Shopping sumando 10 locales nuevos, incluyendo KFC (100 m2, apertura marzo 2026) y cambio de fachada.",
+      "titulo": "Miniso abrió su primer local en la Argentina: ubicación, inversión y planes de expansión",
+      "resumen": "Miniso llega a Argentina con apertura de primer local y plan de 100 tiendas",
       "sector": "retail",
-      "provincia": "Córdoba",
-      "relevancia": 3,
-      "url": "https://infonegocios.info/nota-principal/cordoba-shopping-el-mall-que-no-quiere-ser-masivo-va-por-mas-metros-en-2026-nuevas-marcas-y-nueva-fachada"
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.lanacion.com.ar/economia/negocios/miniso-abrio-su-primer-local-en-la-argentina-ubicacion-inversion-y-planes-de-expansion-nid23042026/"
     },
     {
-      "titulo": "Mostaza invertirá USD 40 millones y abrirá 30 locales en 2026",
-      "resumen": "Cadena de comida rápida argentina anuncia plan de expansión con 30 nuevos locales en 2026, inversión de USD 40 millones y creación de 4.000 empleos.",
+      "titulo": "Decathlon llega a Argentina con inversión de 100 millones de dólares",
+      "resumen": "Decathlon abre primer local en Argentina con inversión de USD 100 millones y expansión regional",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.rionegro.com.ar/economia/decathlon-llega-a-argentina-en-noviembre-abre-su-primer-local-con-una-inversion-de-100-millones-de-dolares-4346019/"
+    },
+    {
+      "titulo": "Mostaza invierte u$s 40 millones para abrir 30 locales este año",
+      "resumen": "Cadena gastronómica Mostaza invierte USD 40 millones en expansión de 30 nuevos locales",
       "sector": "gastronomia",
       "provincia": "Nacional",
-      "relevancia": 2,
-      "url": "https://derechadiario.com.ar/economia/mostaza-invertira-us-40-millones-abrira-30-locales-argentina-2026"
+      "relevancia": 10,
+      "url": "https://www.cronista.com/negocios/mostaza-invierte-us-40-millones-para-abrir-30-locales-este-ano/"
     },
     {
-      "titulo": "Carrefour invertirá USD 300 millones en 100 nuevos locales",
-      "resumen": "Carrefour planea abrir 100 nuevas sucursales (formatos Maxi y Express) durante 2026 con inversión superior a USD 300 millones, expandiendo red 24 horas.",
+      "titulo": "Giro para Carrefour en Argentina: anuncia ambicioso plan de expansión",
+      "resumen": "Carrefour cancela venta y anuncia plan de expansión de supermercados en Argentina",
       "sector": "retail",
       "provincia": "Nacional",
-      "relevancia": 3,
-      "url": "https://www.infozona.com.ar/carrefour-24-horas-sucursales-argentina/"
+      "relevancia": 10,
+      "url": "https://www.forbesargentina.com/negocios/giro-carrefour-argentina-tras-frenar-su-venta-pais-anuncia-ambicioso-plan-expansion-n86550"
     },
     {
-      "titulo": "Nike abre tienda de USD 1,5 millones en Nuevocentro Córdoba",
-      "resumen": "Southbay invierte USD 1,5 millones en nueva tienda Nike formato Rise de 800 m2 en Nuevocentro Shopping Córdoba, con 25 empleados.",
+      "titulo": "H&M confirmó su desembarco en la Argentina",
+      "resumen": "Marca internacional H&M confirma apertura de primer local en Argentina",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.infobaa.com/economia/2026/04/24/hm-confirmo-su-desembarco-en-la-argentina-cuando-y-donde-abrira-su-primer-local/"
+    },
+    {
+      "titulo": "Argentina atrae inversiones con planes de expansión de Bestseller y Decathlon",
+      "resumen": "Bestseller y Decathlon anuncian planes de expansión en Argentina con inversiones significativas",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/paises/argentina/argentina-atrae-inversiones-con-planes-de-expansion-de-bestseller-y-decathlon/"
+    },
+    {
+      "titulo": "Freddo acelera su expansión regional y proyecta hasta 29 nuevas aperturas para 2026",
+      "resumen": "Cadena heladería Freddo abre 29 nuevos locales en plan de expansión regional",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/paises/argentina/freddo-acelera-su-expansion-regional-y-proyecta-hasta-29-nuevas-aperturas-para-2026/"
+    },
+    {
+      "titulo": "Juan Valdez aterrizó en Córdoba con proyectos de fuerte expansión en Argentina",
+      "resumen": "Cadena Juan Valdez abre locales en aeropuerto de Córdoba e impulsa expansión nacional",
+      "sector": "gastronomia",
+      "provincia": "Córdoba",
+      "relevancia": 8,
+      "url": "https://puntoapunto.com.ar/juan-valdez-aterrizo-en-cordoba-abrio-dos-locales-en-el-aeropuerto-y-proyecta-fuerte-expansion-en-argentina"
+    },
+    {
+      "titulo": "La marca británica de ropa elige a Argentina como puerta de entrada a la región",
+      "resumen": "Marca británica abre 10 locales anuales en Argentina con inversión superior a USD 40 millones",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.forbesargentina.com/negocios/la-marca-britanica-ropa-elige-argentina-como-puerta-entrada-region-10-locales-ano-e-inversion-mas-us-40-millones-n83763"
+    },
+    {
+      "titulo": "Café Martínez acelera su expansión en el interior buscando abrir 25 franquicias en 2026",
+      "resumen": "Cadena Café Martínez expande operaciones con 25 nuevos locales de franquicia en interior del país",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.noticiasd.com/nota/cafe-martinez-acelera-su-expansion-en-el-interior-y-busca-abrir-mas-de-franquicias-en-201299740"
+    },
+    {
+      "titulo": "Una enorme cadena china desembarca en Argentina con U$S 50 millones y planea abrir 100 locales",
+      "resumen": "Marca china de retail abre 100 locales con inversión de U$S 50 millones.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.lavoz.com.ar/negocios/enorme-cadena-china-desembarca-argentina-us-50-millones-planea-abrir-100-locales_0_eIVaueQHM3.html"
+    },
+    {
+      "titulo": "Decathlon abrirá 20 locales en la Argentina",
+      "resumen": "Cadena deportiva francesa Decathlon planea abrir 20 sucursales con empleos directos.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.infobae.com/economia/2025/01/17/la-cadena-deportiva-francesa-decathlon-abrira-20-locales-en-la-argentina/"
+    },
+    {
+      "titulo": "Carrefour anuncia una inversión en Argentina por US$300 millones",
+      "resumen": "Carrefour invierte U$S 300 millones en expansión de supermercados y nuevos formatos.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.clarin.com/economia/carrefour-anuncia-inversion-argentina-us300-millones_0_HJfnISz5ZF.html"
+    },
+    {
+      "titulo": "Easy inaugura su segunda sucursal en Tucumán con inversión de US$ 4,8 millones",
+      "resumen": "Easy abre segunda tienda en Tucumán con inversión de U$S 4,8 millones en retail de construcción.",
+      "sector": "retail",
+      "provincia": "Tucumán",
+      "relevancia": 9,
+      "url": "https://mercado.com.ar/negocios/easy-inaugura-su-segunda-sucursal-en-tucuman-con-inversion-de-us-48-millones"
+    },
+    {
+      "titulo": "Coto inauguró su nueva sucursal en Mar del Plata con inversión de US$ 50 millones",
+      "resumen": "Coto abre sucursal en Mar del Plata con inversión de U$S 50 millones y 240 empleos.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.clarin.com/economia/coto-inauguro-nueva-sucursal-mar-plata-inversion-us-50-millones_0_u4veebDWw7.html"
+    },
+    {
+      "titulo": "Nike abrirá seis nuevas tiendas en la Argentina",
+      "resumen": "Nike abre 6 nuevas sucursales de retail deportivo en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.cronista.com/negocios/nike-abrira-seis-nuevas-tiendas-en-la-argentina-para-pelearle-la-cima-al-lider-del-sector/"
+    },
+    {
+      "titulo": "Indian Market llega al microcentro de Buenos Aires con inversión de 18 millones de dólares",
+      "resumen": "Indian Market abre local de 3 pisos en microcentro con inversión de U$S 18 millones.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://infonegocios.biz/nota-principal/indian-market-llega-al-microcentro-de-argentina-con-una-inversion-de-18-000-000-de-dolares-chic-parisien-abre-local-de-tres-pisos-donde-funcionaba-falabella"
+    },
+    {
+      "titulo": "La cadena argentina de sándwiches de milanesa invierte US$ 2 millones y acelera su expansión",
+      "resumen": "Cadena argentina de gastronomía invierte U$S 2 millones para expandirse a México y Chile.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.forbesargentina.com/negocios/la-cadena-argentina-sandwiches-milanesa-invierte-us-2-millones-acelera-su-expansion-llegar-mexico-chile-n81061"
+    },
+    {
+      "titulo": "ChangoMás desembarcó en Campana con una inversión de $600 millones",
+      "resumen": "ChangoMás abre supermercado en Campana con inversión de $600 millones.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.cronista.com/negocios/changomas-desembarco-en-campana-con-una-inversion-de-600-millones/"
+    },
+    {
+      "titulo": "Casa do Construtor desembarcó en Córdoba con inversión de $250 millones",
+      "resumen": "Casa do Construtor abre tienda de materiales de construcción en Córdoba con inversión de $250 millones.",
       "sector": "retail",
       "provincia": "Córdoba",
-      "relevancia": 3,
-      "url": "https://www.cronista.com/informacion-gral/una-marca-internacional-abre-un-mega-local-en-un-shopping-del-centro-y-busca-expandirse-en-todo-el-pais/"
-    },
-    {
-      "titulo": "Lumilagro abrirá 15 locales en Buenos Aires, Córdoba, Rosario y Mar del Plata",
-      "resumen": "Marca argentina de termos planea 15 aperturas progresivas incluyendo Buenos Aires, Rosario, Córdoba y Mar del Plata, con más de 100 contrataciones.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 2,
-      "url": "https://www.lanacion.com.ar/economia/negocios/tras-la-polemica-por-las-importaciones-lumilagro-anuncio-15-aperturas-y-mas-de-100-contrataciones-nid01052026/"
-    },
-    {
-      "titulo": "Alto Avellaneda amplía 8.000 m2 con inversión de USD 10 millones",
-      "resumen": "Shopping en zona sur Buenos Aires sumará 8.000 m2 en 2026 con inversión superior a USD 10 millones para nuevas marcas internacionales y gastronomía.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 3,
-      "url": "https://www.cronista.com/informacion-gral/amplian-uno-de-los-shoppings-mas-emblematicos-de-buenos-aires-con-una-inversion-de-us-10-millones/"
-    },
-    {
-      "titulo": "Dolce & Gabbana y Armani desembarcan en Argentina en 2026",
-      "resumen": "Dolce & Gabbana abrirá en Patio Bullrich y Armani en Unicenter (vacaciones invierno 2026), consolidando retail de lujo en Buenos Aires.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 2,
-      "url": "https://www.rionegro.com.ar/redes/que-marcas-internacionales-llegan-al-pais-en-2026-el-mapa-del-lujo-y-nuevas-aperturas-4538039/"
-    },
-    {
-      "titulo": "JP Morgan expande oficinas en Núñez con 1.500 nuevos empleos",
-      "resumen": "Banco más grande del mundo invierte USD 55 millones en torre de 20 pisos en Núñez (Buenos Aires), plan de 1.500 contrataciones hasta 2026, alcanzando 5.000 empleados.",
-      "sector": "oficinas",
-      "provincia": "Buenos Aires",
-      "relevancia": 3,
-      "url": "https://www.apfradio.com.ar/en-medio-del-cierre-de-empresas-el-banco-mas-grande-del-mundo-se-expande-y-busca-empleados-en-argentina/"
-    },
-    {
-      "titulo": "OpenAI y Sur Energy construirán datacenter de USD 25.000 millones en Patagonia",
-      "resumen": "Inversión de USD 25.000 millones en centro de datos IA de 500 MW en Patagonia (probable Neuquén), construcción desde 2026, primer Stargate de Latinoamérica.",
-      "sector": "industrial",
-      "provincia": "Neuquén",
-      "relevancia": 3,
-      "url": "https://www.bloomberglinea.com/latinoamerica/argentina/las-tres-empresas-detras-de-la-mega-inversion-de-data-centers-en-argentina-respaldada-por-openai/"
-    },
-    {
-      "titulo": "Claro invierte USD 30 millones en datacenter en Buenos Aires",
-      "resumen": "Claro construye nuevo datacenter de 1.300 m2 en Brasil 77 (CABA), inversión USD 30 millones entre 2024-2026, impulsará red 5G.",
-      "sector": "industrial",
-      "provincia": "Buenos Aires",
-      "relevancia": 3,
-      "url": "https://www.filo.news/noticia/2024/08/21/claro-avanza-en-la-construccion-de-un-nuevo-data-center-en-la-ciudad-de-buenos-aires"
-    },
-    {
-      "titulo": "Bestseller invertirá USD 50 millones y abrirá 30 locales de moda",
-      "resumen": "Grupo danés planea USD 50 millones para 30 locales de Jack & Jones, Only y Balmohk, comenzando en Unicenter, expansión a Córdoba y Rosario.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 2,
-      "url": "https://www.cronista.com/negocios/cuales-son-las-marcas-internacionales-que-llegan-a-la-argentina-en-los-proximos-meses/"
-    },
-    {
-      "titulo": "Mango regresa a Argentina con 5 locales en 5 años",
-      "resumen": "Cadena española vuelve tras 20 años con Grimoldi, primer local en Alto Palermo septiembre 2026, plan de 5 tiendas en 5 años.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 2,
-      "url": "https://www.mendozapost.com/economia/marcas-internacionales-ropa-vuelven-argentina-2026/"
-    },
-    {
-      "titulo": "La Anónima compra 12 hipermercados Libertad y centro logístico",
-      "resumen": "Cadena patagónica adquiere 12 hipermercados Libertad (4 en Córdoba, 2 Tucumán, otros en Rosario, Salta, San Juan, Posadas) más centro distribución y 1.600 empleados.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 2,
-      "url": "https://www.infobae.com/economia/2026/03/18/megafusion-entre-dos-cadenas-de-supermercados-12-sucursales-1600-empleados-y-un-centro-logistico-cambian-de-dueno/"
-    },
-    {
-      "titulo": "Pfizer lanza Centro Global de Datos Clínicos en Argentina",
-      "resumen": "Empresa farmacéutica abre Centro CDIS en Argentina (único en Latinoamérica), inversión superior a USD 300 millones históricos en investigación, incremento 20% dotación personal.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 2,
-      "url": "https://www.argentina.gob.ar/noticias/el-ministerio-de-salud-impulsa-la-inversion-privada-en-investigacion-clinica"
-    },
-    {
-      "titulo": "Correo Argentino construye centro logístico en Las Higueras, Córdoba",
-      "resumen": "Correo Argentino firma convenio para construir planta logística en Parque Industrial Las Higueras (Córdoba zona sur), ubicación estratégica cerca Río Cuarto.",
-      "sector": "logistica",
-      "provincia": "Córdoba",
-      "relevancia": 3,
-      "url": "https://www.correoargentino.com.ar/cordoba-convenio-para-la-instalacion-de-un-centro-logistico-en-el-nuevo-parque-industrial-de-las"
-    },
-    {
-      "titulo": "YPF construye estación de servicio más grande de Argentina en San Pedro",
-      "resumen": "YPF desarrolla mega estación de 10 hectáreas en Ruta 9 San Pedro (Buenos Aires), incluirá shopping, parador gourmet, operativa 2026-2027.",
-      "sector": "energia",
-      "provincia": "Buenos Aires",
-      "relevancia": 3,
-      "url": "https://www.iprofesional.com/energia/448791-donde-estara-la-mega-estacion-de-servicio-de-ypf-que-sera-la-mas-grande-de-argentina"
-    },
-    {
-      "titulo": "Boom hotelero: 87 proyectos en desarrollo en todo el país",
-      "resumen": "Sector hotelero con 87 inversiones en desarrollo durante 2025-2026, incluye Howard Johnson, Hilton, Marriott, Accor en Patagonia, Litoral y NOA. 15 aperturas primer semestre.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 2,
-      "url": "https://www.argentina.gob.ar/noticias/boom-de-inversiones-hoteleras-en-todo-el-pais"
-    },
-    {
-      "titulo": "Radisson planea expansión hotelera en Argentina",
-      "resumen": "Cadena internacional Radisson evalúa inversiones y conversiones de hoteles independientes en Buenos Aires, Córdoba, Mendoza, Rosario. Radisson Red en Funes julio-agosto 2026.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 2,
-      "url": "https://www.noticiasnqn.com.ar/noticias/2026/03/28/330169-cadena-internacional-de-hoteles-evalua-nuevas-inversiones-en-argentina"
-    },
-    {
-      "titulo": "Santa Fe registra USD 1.380 millones en 531 proyectos de inversión privada",
-      "resumen": "Provincia de Santa Fe con 531 proyectos de inversión privada por USD 1.380 millones en 114 localidades, principalmente industria manufacturera, plantas y parques logísticos.",
-      "sector": "industrial",
-      "provincia": "Santa Fe",
-      "relevancia": 2,
-      "url": "https://www.puertonegocios.com/noticias/santa-fe-sumo-531-proyectos-de-inversiones-por-us-1380-millones"
+      "relevancia": 8,
+      "url": "https://canalc.com.ar/casa-do-construtor-desembarco-en-cordoba-con-una-inversion-de-250-millones-y-mas-de-1-500-maquinas-disponibles/"
     }
   ]
 }
