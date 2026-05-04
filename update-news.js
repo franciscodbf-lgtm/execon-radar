@@ -50,7 +50,7 @@ async function buscarEnGoogle(query) {
 async function clasificarConClaude(articulos) {
   console.log(`🤖 Clasificando ${articulos.length} artículos con Claude...`);
  
-  const lista = articulos.map((a, i) =>
+  const lista = articulos.slice(0, 50).map((a, i) =>
     `${i+1}. ${a.titulo} | ${a.resumen.substring(0, 120)} | URL: ${a.url}`
   ).join('\n');
  
