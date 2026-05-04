@@ -46,8 +46,9 @@ async function buscarEnGoogle(query) {
       fecha:   r.date || '',
     })).filter(r => {
       if (!r.titulo || !r.url) return false;
+      // Bloquear dominios spam
       if (DOMINIOS_BLOQUEADOS.some(d => r.url.includes(d))) return false;
-      // Descartar noticias con fecha parseable más vieja de 60 días
+      // Descartar noticias más viejas de 60 días
       if (r.fecha) {
         const f = new Date(r.fecha);
         if (!isNaN(f) && f < HACE_60_DIAS) return false;
@@ -70,15 +71,24 @@ async function clasificarConClaude(articulos) {
 
   const prompt = `Sos un analista para Execon SRL, constructora argentina de obras corporativas.
 
-De esta lista, seleccioná las 10 noticias más relevantes sobre expansión física, construcción, aperturas o inversiones de empresas en Argentina. Cadenas gastronómicas, retail, supermercados, bancos, logística, salud, educación privada, estaciones de servicio, industria, oficinas, marcas internacionales.
+De esta lista, seleccioná las 10 noticias más relevantes sobre expansión física, construcción, aperturas o inversiones de empresas EN ARGENTINA. 
 
-IMPORTANTE: No repitas la misma empresa más de 1 vez. Si hay 5 noticias de Decathlon, elegí solo la más reciente. Priorizá variedad de empresas y sectores.
+INCLUIR: cadenas gastronómicas, retail, supermercados, bancos, logística, salud privada, educación privada, estaciones de servicio, industria, oficinas, marcas internacionales que llegan a Argentina.
+
+EXCLUIR:
+- Noticias de otros países (Uruguay, España, Brasil, etc.)
+- Inversiones digitales, apps, tecnología, software
+- Noticias de recursos humanos o empleo
+- Minería o energía extractiva
+- Noticias que no impliquen construcción u obra física
+
+IMPORTANTE: No repitas la misma empresa más de 1 vez. Priorizá variedad de empresas y sectores. Solo noticias de Argentina.
 
 NOTICIAS:
 ${lista}
 
 Respondé SOLO con un JSON array de exactamente 10 elementos, sin texto adicional:
-[{"titulo":"...","resumen":"1 oración corta: empresa y tipo de obra","sector":"banco|gastronomia|retail|logistica|industrial|energia|oficinas|salud|educacion|otros","provincia":"nombre o Nacional","relevancia":2,"url":"https://...","fecha":"YYYY-MM-DD"}]`;
+[{"titulo":"...","resumen":"1 oración corta: empresa y tipo de obra en Argentina","sector":"banco|gastronomia|retail|logistica|industrial|energia|oficinas|salud|educacion|otros","provincia":"nombre o Nacional","relevancia":2,"url":"https://...","fecha":"YYYY-MM-DD"}]`;
 
   const res  = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
@@ -157,7 +167,10 @@ Respondé SOLO con un JSON array de exactamente 10 elementos, sin texto adiciona
 
     // 4. Clasificar con Claude — 2 llamadas de 10 para llegar a 20
     const mitad1 = await clasificarConClaude(articulos.slice(0, 50));
-    const mitad2 = await clasificarConClaude(articulos.slice(50, 100));
+    // Excluir URLs ya elegidas en la primera llamada
+    const urlsElegidas = new Set((mitad1 || []).map(n => n.url));
+    const restantes = articulos.slice(50, 100).filter(a => !urlsElegidas.has(a.url));
+    const mitad2 = restantes.length >= 5 ? await clasificarConClaude(restantes) : [];
     const nuevas = [...(mitad1 || []), ...(mitad2 || [])];
     if (!Array.isArray(nuevas) || !nuevas.length) throw new Error('Claude no devolvió noticias');
     console.log(`  ✅ ${nuevas.length} noticias nuevas clasificadas`);
