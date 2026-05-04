@@ -27,6 +27,9 @@ function guardarVistas(vistas) {
   fs.writeFileSync(SEEN_FILE, JSON.stringify(arr), 'utf8');
 }
 
+// ─── Dominios spam a bloquear ─────────────────────────────────────────────────
+const DOMINIOS_BLOQUEADOS = ['infobea.com', 'infobaa.com'];
+
 // ─── Buscar en Google News via SerpApi ───────────────────────────────────────
 async function buscarEnGoogle(query) {
   const url = `https://serpapi.com/search.json?engine=google_news&q=${encodeURIComponent(query)}&gl=ar&hl=es&tbs=qdr:m2&api_key=${SERPAPI_KEY}`;
@@ -39,7 +42,12 @@ async function buscarEnGoogle(query) {
       resumen: r.snippet || '',
       url:     r.link || '',
       fuente:  r.source?.name || '',
-    })).filter(r => r.titulo && r.url);
+    })).filter(r => {
+      if (!r.titulo || !r.url) return false;
+      // Bloquear dominios spam
+      if (DOMINIOS_BLOQUEADOS.some(d => r.url.includes(d))) return false;
+      return true;
+    });
   } catch(e) {
     console.warn(`  ⚠️ Error buscando "${query}": ${e.message}`);
     return [];
@@ -57,6 +65,8 @@ async function clasificarConClaude(articulos) {
   const prompt = `Sos un analista para Execon SRL, constructora argentina de obras corporativas.
 
 De esta lista, seleccioná las 10 noticias más relevantes sobre expansión física, construcción, aperturas o inversiones de empresas en Argentina. Cadenas gastronómicas, retail, supermercados, bancos, logística, salud, educación privada, estaciones de servicio, industria, oficinas, marcas internacionales.
+
+IMPORTANTE: No repitas la misma empresa más de 1 vez. Si hay 5 noticias de Decathlon, elegí solo la más reciente. Priorizá variedad de empresas y sectores.
 
 NOTICIAS:
 ${lista}
