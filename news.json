@@ -1,6 +1,96 @@
 {
-  "generado": "2026-05-04T17:24:24.244Z",
+  "generado": "2026-05-06T13:36:15.858Z",
   "noticias": [
+    {
+      "titulo": "El ambicioso plan de Starbucks para crecer en el negocio del café en Argentina",
+      "resumen": "Starbucks acelera su expansión física con nuevas sucursales en Argentina.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/449788-el-ambicioso-plan-de-starbucks-para-crecer-en-el-negocio-del-cafe-en-argentina",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Supermercados de cercanía: La expansión estratégica de Super 2000 en Ingeniero Maschwitz",
+      "resumen": "Super 2000 abre nueva sucursal de supermercado en Ingeniero Maschwitz.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/supermercados-de-cercania-la-expansion-estrategica-de-super-2000-en-ingeniero-maschwitz/",
+      "fecha": "2026-04-10"
+    },
+    {
+      "titulo": "La marca de ropa de niños más conocida del mundo anunció un fuerte plan de expansión en el país",
+      "resumen": "Marca internacional de ropa infantil anuncia plan de aperturas de locales en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/04/10/la-marca-de-ropa-de-ninos-mas-conocida-del-mundo-anuncio-un-fuerte-plan-de-expansion-en-el-pais-donde-abrira-los-locales/",
+      "fecha": "2026-04-10"
+    },
+    {
+      "titulo": "Maxiconsumo impulsa su crecimiento con una nueva sucursal en Trelew",
+      "resumen": "Maxiconsumo abre nueva sucursal de supermercado en Trelew.",
+      "sector": "retail",
+      "provincia": "Chubut",
+      "relevancia": 7,
+      "url": "https://americaretail-malls.com/paises/argentina/maxiconsumo-impulsa-su-crecimiento-con-una-nueva-sucursal-en-trelew/",
+      "fecha": "2026-04-05"
+    },
+    {
+      "titulo": "Mercado Libre acelera en CABA: megaobra con IRSA en Polo DOT",
+      "resumen": "Mercado Libre ejecuta megaobra conjunta con IRSA en Polo DOT de CABA.",
+      "sector": "oficinas",
+      "provincia": "CABA",
+      "relevancia": 9,
+      "url": "https://eleconomista.com.ar/negocios/mercado-libre-acelera-caba-megaobra-irsa-polo-dot-n93608",
+      "fecha": "2026-04-20"
+    },
+    {
+      "titulo": "Furor por la apertura del primer local de una cadena internacional en la Argentina",
+      "resumen": "Cadena gastronómica internacional abre su primer local en Argentina con gran demanda.",
+      "sector": "gastronomia",
+      "provincia": "CABA",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/04/23/furor-por-la-apertura-del-primer-local-de-una-cadena-internacional-en-la-argentina-hasta-5-cuadras-de-cola-y-acampe-de-madrugada/",
+      "fecha": "2026-04-23"
+    },
+    {
+      "titulo": "Crisis en la salud privada: clínicas de Córdoba advierten sobre un sistema al límite",
+      "resumen": "Clínicas privadas de Córdoba alertan sobre presiones financieras en el sector salud.",
+      "sector": "salud",
+      "provincia": "Córdoba",
+      "relevancia": 7,
+      "url": "https://puntoapunto.com.ar/crisis-en-la-salud-privada-clinicas-de-cordoba-advierten-sobre-un-sistema-al-limite-por-el-financiamiento-del-pami",
+      "fecha": "2026-04-25"
+    },
+    {
+      "titulo": "Empresas en caída, marcas internacionales en expansión e inversiones récord",
+      "resumen": "Radiografía de expansión acelerada de marcas internacionales en Argentina con inversiones récord.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/04/19/empresas-en-caida-marcas-internacionales-en-expansion-e-inversiones-record-radiografia-de-la-economia-en-dos-velocidades/",
+      "fecha": "2026-04-19"
+    },
+    {
+      "titulo": "Cuenta DNI suma plazos fijos en dólares",
+      "resumen": "Banco Provincia habilita nuevos servicios financieros en plataforma de Cuenta DNI.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.perfil.com/noticias/economia/inversion-en-dolares-por-cuenta-dni-banco-provincia-habilita-los-plazos-fijos-desde-la-aplicacion-a40.phtml",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Lanzaron descuentos del 30% y $40.000 de reintegro en nafta y gasoil",
+      "resumen": "Estaciones de servicio lanzan promociones competitivas para combustibles en marzo 2026.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://tn.com.ar/autos/novedades/2026/03/09/lanzaron-descuentos-del-30-y-40000-de-reintegro-en-nafta-y-gasoil-en-marzo-de-2026/",
+      "fecha": "2026-03-09"
+    },
     {
       "titulo": "Cadena china desembarca en Argentina: abrirá 100 tiendas y generará hasta 1.000 empleos",
       "resumen": "Importante marca china inicia expansión retail en Argentina con apertura de 100 locales comerciales.",
