@@ -1,6 +1,33 @@
 {
-  "generado": "2026-05-06T13:36:15.858Z",
+  "generado": "2026-05-06T16:16:25.350Z",
   "noticias": [
+    {
+      "titulo": "Un supermercado presenta nueva campaña promocional",
+      "resumen": "Cadena de supermercados lanza iniciativa de expansión y modernización con nuevas promociones en sus sucursales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.perfil.com/noticias/economia/su-supermercado-lanza-dale-mas-pelota-esta-promo-premios-por-hora-y-regalos-directos-a35.phtml",
+      "fecha": "2026-03-15"
+    },
+    {
+      "titulo": "Crisis en PAMI Marcos Juárez: tras el conflicto con el Sanatorio Sudeste",
+      "resumen": "Sanatorio privado en Córdoba anuncia cambios operativos y ampliación de infraestructura para servicios de salud.",
+      "sector": "salud",
+      "provincia": "Córdoba",
+      "relevancia": 6,
+      "url": "https://www.perfil.com/noticias/cordoba/crisis-en-pami-marcos-juarez-tras-el-conflicto-con-el-sanatorio-sudeste-anuncian-como-sera-la-nueva-atencion-desde-abril.phtml",
+      "fecha": "2026-04-01"
+    },
+    {
+      "titulo": "Las clínicas están al límite: advierten riesgo de cierres por la deuda y los cambios del PAMI en Córdoba",
+      "resumen": "Clínicas privadas en Córdoba evalúan inversiones y reestructuraciones operativas frente a cambios en sistema de financiamiento.",
+      "sector": "salud",
+      "provincia": "Córdoba",
+      "relevancia": 6,
+      "url": "https://www.perfil.com/noticias/cordoba/las-clinicas-estan-al-limite-advierten-riesgo-de-cierres-por-la-deuda-y-los-cambios-del-pami-en-cordoba.phtml",
+      "fecha": "2026-04-15"
+    },
     {
       "titulo": "El ambicioso plan de Starbucks para crecer en el negocio del café en Argentina",
       "resumen": "Starbucks acelera su expansión física con nuevas sucursales en Argentina.",
