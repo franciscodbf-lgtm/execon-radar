@@ -1,6 +1,60 @@
 {
-  "generado": "2026-05-06T16:16:25.350Z",
+  "generado": "2026-05-08T15:11:12.051Z",
   "noticias": [
+    {
+      "titulo": "McDonald's abrirá su décimo local en Mendoza y empleará a 40 nuevos talentos",
+      "resumen": "McDonald's expande su presencia en Argentina con apertura de nuevo local en Mendoza",
+      "sector": "gastronomia",
+      "provincia": "Mendoza",
+      "relevancia": 9,
+      "url": "https://www.losandes.com.ar/empresas-y-negocios/mcdonalds-abrira-su-decimo-local-mendoza-y-empleara-40-nuevos-talentos-n5990266",
+      "fecha": "2026-04-28"
+    },
+    {
+      "titulo": "Después de cancelar la venta de la cadena, Carrefour anunció un nuevo CEO local que buscará crecer",
+      "resumen": "Carrefour confirma su expansión en Argentina con nuevo CEO tras cancelar venta de operaciones",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/04/01/despues-de-cancelar-la-venta-de-la-cadena-en-argentina-carrefour-anuncio-un-nuevo-ceo-local/",
+      "fecha": "2026-04-01"
+    },
+    {
+      "titulo": "H&M confirma su llegada a la Argentina: por qué le cuesta tanto a las marcas instalarse",
+      "resumen": "H&M confirma desembarco en Argentina con expansión de infraestructura retail",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.perfil.com/noticias/economia/desembarco-de-hym-en-argentina-los-desafios-de-las-marcas-internacionales-en-el-pais-modof.phtml",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Con US$50 millones y un plan de 40 tiendas: nueva marca internacional de moda que llega al país",
+      "resumen": "Marca internacional de moda invierte US$50 millones para abrir 40 tiendas en Argentina",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.losandes.com.ar/economia/con-us50-millones-y-un-plan-40-tiendas-como-es-la-nueva-marca-internacional-moda-que-llega-al-pais-n5987075",
+      "fecha": "2026-04-20"
+    },
+    {
+      "titulo": "El regreso del lujo a Argentina: Reconocida joyería internacional redefine el mercado premium",
+      "resumen": "Joyería internacional de lujo abre operaciones en Argentina con enfoque en mercado premium",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/el-regreso-del-lujo-a-argentina-reconocida-joyeria-internacional-redefine-el-mercado-premium/",
+      "fecha": "2026-04-25"
+    },
+    {
+      "titulo": "El mercado inmobiliario corporativo muestra señales dispares en oficinas e industrial",
+      "resumen": "Análisis del mercado inmobiliario corporativo argentino con proyecciones en oficinas e industrial",
+      "sector": "oficinas",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://mercado.com.ar/ladrillos-y-proyectos/el-mercado-inmobiliario-corporativo-muestra-senales-dispares-en-oficinas-e-industrial",
+      "fecha": "2026-05-01"
+    },
     {
       "titulo": "Un supermercado presenta nueva campaña promocional",
       "resumen": "Cadena de supermercados lanza iniciativa de expansión y modernización con nuevas promociones en sus sucursales.",
