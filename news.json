@@ -1,6 +1,96 @@
 {
-  "generado": "2026-05-08T15:11:12.051Z",
+  "generado": "2026-05-11T17:35:03.642Z",
   "noticias": [
+    {
+      "titulo": "Con una inversión de US$ 300.000, Dean & Dennys abre su segundo local en Córdoba",
+      "resumen": "Cadena gastronómica Dean & Dennys invierte US$300.000 en la apertura de su segundo local en Córdoba con planes de expansión.",
+      "sector": "gastronomia",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://infonegocios.info/nota-principal/con-una-inversion-de-us-300-000-dean-dennys-abre-su-segundo-local-en-cordoba-y-va-por-mas-nueva-cordoba-y-otro-spot-en-definicion",
+      "fecha": "2026-03-15"
+    },
+    {
+      "titulo": "Desembarco masivo de marcas europeas y asiáticas en Argentina transforma los shoppings",
+      "resumen": "Múltiples marcas internacionales llegan a Argentina y abren locales en shoppings del país.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/452994-desembarco-masivo-de-marcas-europeas-y-asiaticas-en-argentina-transforma-los-shoppings",
+      "fecha": "2026-04-11"
+    },
+    {
+      "titulo": "Indian apuesta a los shoppings: abre un megalocal en Unicenter",
+      "resumen": "Marca de retail Indian inaugura un gran local en el shopping Unicenter de Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.forbesargentina.com/negocios/indian-apuesta-shoppings-abre-megalocal-unicenter-n88999",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "La cadena de ropa sueca H&M pone el foco en la Argentina y negocia abrir locales en distintos shoppings porteños",
+      "resumen": "H&M, cadena internacional de ropa, negocia la apertura de múltiples locales en shoppings de Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/04/10/la-cadena-de-ropa-sueca-hm-pone-el-foco-en-la-argentina-y-negocia-abrir-locales-en-distintos-shoppings-portenos/",
+      "fecha": "2026-04-10"
+    },
+    {
+      "titulo": "Una reconocida marca internacional de ropa de lujo abrirá su primer local en la Argentina",
+      "resumen": "Marca internacional de lujo ingresa al mercado argentino con la apertura de su primer local físico.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/05/07/una-reconocida-marca-internacional-de-ropa-de-lujo-abrira-su-primer-local-en-la-argentina/",
+      "fecha": "2026-05-07"
+    },
+    {
+      "titulo": "Una histórica marca de lujo y reconocida a nivel mundial, que vistió a Messi, llegará pronto a la Argentina",
+      "resumen": "Marca histórica de lujo internacional se prepara para abrir sus primeros locales en Argentina.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.lmneuquen.com/pais/una-historica-marca-lujo-y-reconocida-nivel-mundial-que-vistio-messi-llegara-pronto-la-argentina-n1237921",
+      "fecha": "2026-05-01"
+    },
+    {
+      "titulo": "Una inversión millonaria impulsa la industria automotriz",
+      "resumen": "Inversión significativa en el sector industrial automotriz con obras de expansión en Argentina.",
+      "sector": "industrial",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/inhouse/2026/05/05/una-inversion-millonaria-impulsa-la-industria-automotriz/",
+      "fecha": "2026-05-05"
+    },
+    {
+      "titulo": "Del hormigón al acero: el cambio que impacta en la logística de obra",
+      "resumen": "Cambios en sistemas constructivos que afectan la logística de proyectos de obra en Argentina.",
+      "sector": "logistica",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.infobae.com/movant/2026/04/28/del-hormigon-al-acero-el-cambio-que-impacta-en-la-logistica-de-obra/",
+      "fecha": "2026-04-28"
+    },
+    {
+      "titulo": "Ola de arribos de marcas a la Argentina: de lujo, pero también para bolsillos menos profundos",
+      "resumen": "Múltiples marcas internacionales tanto de lujo como accesibles abren locales físicos en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/04/11/ola-de-arribo-de-marcas-a-la-argentina-de-lujo-pero-tambien-para-bolsillos-menos-profundos/",
+      "fecha": "2026-04-11"
+    },
+    {
+      "titulo": "Nafta y gasoil: las rebajas de hasta 30% que dan YPF, Shell, Axion y Puma en mayo 2026",
+      "resumen": "Grandes cadenas de estaciones de servicio implementan promociones en sus locales.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-30-dan-ypf-shell-axion-puma-mayo-2026_0_h0yjitYzRm.html",
+      "fecha": "2026-05-01"
+    },
     {
       "titulo": "McDonald's abrirá su décimo local en Mendoza y empleará a 40 nuevos talentos",
       "resumen": "McDonald's expande su presencia en Argentina con apertura de nuevo local en Mendoza",
