@@ -1,6 +1,87 @@
 {
-  "generado": "2026-05-13T17:37:17.088Z",
+  "generado": "2026-05-15T16:28:39.994Z",
   "noticias": [
+    {
+      "titulo": "Inversores ven oportunidades en oficinas de Buenos Aires y buscan espacios más inteligentes",
+      "resumen": "Inversores apuestan por la expansión y modernización de espacios de oficinas corporativas en Buenos Aires.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.forbesargentina.com/negocios/inversores-ven-oportunidades-oficinas-buenos-aires-buscan-espacios-mas-inteligentes-n88166",
+      "fecha": "2026-04-08"
+    },
+    {
+      "titulo": "Adidas refuerza su expansión en Rosario con una nueva tienda",
+      "resumen": "Adidas abre una nueva tienda física en Rosario como parte de su estrategia de expansión en Argentina.",
+      "sector": "retail",
+      "provincia": "Santa Fe",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/adidas-refuerza-su-expansion-en-rosario-con-una-nueva-tienda/",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "HONOR acelera su expansión en Argentina con su primera tienda física",
+      "resumen": "HONOR inaugura su primera tienda física en Argentina como parte de su plan de expansión retail.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/honor-acelera-su-expansion-en-argentina-con-su-primera-tienda-fisica/",
+      "fecha": "2026-04-20"
+    },
+    {
+      "titulo": "Marriott desembarca en Rosario con un innovador formato hotelero",
+      "resumen": "Marriott inaugura un nuevo hotel en Rosario con un formato hotelero innovador.",
+      "sector": "otros",
+      "provincia": "Santa Fe",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/marriott-desembarca-en-rosario-con-un-innovador-formato-hotelero/",
+      "fecha": "2026-04-18"
+    },
+    {
+      "titulo": "Llega a la Argentina una marca de lencería italiana que busca competir con Victoria's Secret",
+      "resumen": "Una marca de lencería italiana abre sus primeras tiendas físicas en Argentina.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://www.forbesargentina.com/negocios/llega-argentina-una-marca-lenceria-italiana-busca-competir-victorias-secret-n89545",
+      "fecha": "2026-04-25"
+    },
+    {
+      "titulo": "El desembarco de Dolce & Gabbana en Argentina: lujo internacional",
+      "resumen": "Dolce & Gabbana abre tiendas físicas en Argentina como parte de su expansión en Latinoamérica.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://americaretail-malls.com/paises/argentina/el-desembarco-de-dolce-gabbana-en-argentina-lujo-internacional/",
+      "fecha": "2026-04-22"
+    },
+    {
+      "titulo": "Grupo Leuru apuesta por marcas internacionales y planea duplicar su red en Argentina",
+      "resumen": "Grupo Leuru anuncia planes de expansión para duplicar su red de tiendas de marcas internacionales en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/grupo-leuru-apuesta-por-marcas-internacionales-y-planea-duplicar-su-red-en-argentina/",
+      "fecha": "2026-04-19"
+    },
+    {
+      "titulo": "Importar a tiempo: el desafío logístico detrás de los sistemas que nadie ve",
+      "resumen": "Análisis de la infraestructura logística y sistemas de importación en Argentina para la operación de empresas.",
+      "sector": "logistica",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.infobae.com/movant/2026/04/20/importar-a-tiempo-el-desafio-logistico-detras-de-los-sistemas-que-nadie-ve/",
+      "fecha": "2026-04-20"
+    },
+    {
+      "titulo": "AmCham Summit 2026: la sustentabilidad marca el nuevo horizonte de crecimiento para Argentina",
+      "resumen": "Cumbre empresarial que analiza oportunidades de inversión y expansión física de empresas en Argentina con enfoque sustentable.",
+      "sector": "otros",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://www.infobae.com/america/ciencia-america/2026/04/14/amcham-summit-2026-la-sustentabilidad-marca-el-nuevo-horizonte-de-crecimiento-para-argentina/",
+      "fecha": "2026-04-14"
+    },
     {
       "titulo": "El gigante chino Miniso llega al país: planea abrir 100 tiendas en cinco años",
       "resumen": "Miniso, retailer chino, planea expandir su presencia física con 100 nuevas tiendas en Argentina durante los próximos cinco años.",
