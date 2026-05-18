@@ -1,6 +1,78 @@
 {
-  "generado": "2026-05-15T16:28:39.994Z",
+  "generado": "2026-05-18T17:48:40.055Z",
   "noticias": [
+    {
+      "titulo": "Nueva tienda de Decathlon en Argentina: donde queda, apertura y promociones con descuentos",
+      "resumen": "Decathlon abre nueva tienda en Córdoba con inversión en retail deportivo e infraestructura comercial.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/455066-decathlon-cordoba-regala-400-mil-pesos-primeros-clientes.amp",
+      "fecha": "2026-03-15"
+    },
+    {
+      "titulo": "Adidas expande su presencia en la Patagonia con una nueva tienda oficial",
+      "resumen": "Adidas inaugura nueva tienda oficial en Patagonia ampliando su red de retail en Argentina.",
+      "sector": "retail",
+      "provincia": "Patagonia",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/retail-lujo-moda/deportivo/adidas-expande-su-presencia-en-la-patagonia-con-una-nueva-tienda-oficial/",
+      "fecha": "2026-03-20"
+    },
+    {
+      "titulo": "Mercado Libre apuesta fuerte con un edificio que transformará Saavedra y el Polo DOT",
+      "resumen": "Mercado Libre construye edificio corporativo millonario en Saavedra para expandir infraestructura de oficinas en Buenos Aires.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/realestate/451048-mercado-libre-edificio-millonario-saavedra-como-sera-cambia-inversion",
+      "fecha": "2026-04-10"
+    },
+    {
+      "titulo": "Alcorta Shopping refuerza su perfil premium con la llegada de marcas internacionales",
+      "resumen": "Centro comercial Alcorta Shopping expande su infraestructura retail con nuevas marcas internacionales de lujo.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/alcorta-shopping-refuerza-su-perfil-premium-con-la-llegada-de-marcas-internacionales/",
+      "fecha": "2026-04-05"
+    },
+    {
+      "titulo": "Pese a la caída del consumo interno, marcas internacionales llegan a la Argentina con planes de largo plazo",
+      "resumen": "Múltiples marcas internacionales desembarcan en Argentina con inversiones en construcción y apertura de comercios físicos.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/05/02/el-desembarco-de-marcas-internacionales-se-acelera-pese-a-la-caida-del-consumo-interno/",
+      "fecha": "2026-05-02"
+    },
+    {
+      "titulo": "Marca francesa de ropa low cost desembarca en Argentina con indumentaria a precios bajos",
+      "resumen": "Kiabi abre nuevas tiendas en Argentina expandiendo su presencia retail en el mercado local.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.iprofesional.com/actualidad/451833-kiabi-desembarca-argentina-indumentaria-accesible-toda-familia-precios-bajos",
+      "fecha": "2026-04-28"
+    },
+    {
+      "titulo": "Gigante español desembarca en Argentina con una millonaria inversión en cerdos",
+      "resumen": "Empresa española realiza inversión en infraestructura industrial para producción ganadera en Argentina.",
+      "sector": "industrial",
+      "provincia": "Neuquén",
+      "relevancia": 8,
+      "url": "https://masp.lmneuquen.com/ganaderia/gigante-espanol-desembarca-argentina-una-millonaria-inversion-cerdos-n1238822",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Cerró la única clínica privada de Marcos Juárez que atiende Pami",
+      "resumen": "Clínica privada de salud en Marcos Juárez cierra operaciones, reduciendo infraestructura sanitaria local.",
+      "sector": "salud",
+      "provincia": "Córdoba",
+      "relevancia": 6,
+      "url": "https://www.lavoz.com.ar/ciudadanos/cerro-unica-clinica-privada-marcos-juarez-atiende-pami-nadie-quiere-hacer-cargo_0_Nh3cDDJrxN.html",
+      "fecha": "2026-04-20"
+    },
     {
       "titulo": "Inversores ven oportunidades en oficinas de Buenos Aires y buscan espacios más inteligentes",
       "resumen": "Inversores apuestan por la expansión y modernización de espacios de oficinas corporativas en Buenos Aires.",
