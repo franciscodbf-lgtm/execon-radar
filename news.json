@@ -1,6 +1,69 @@
 {
-  "generado": "2026-05-18T17:48:40.055Z",
+  "generado": "2026-05-20T18:36:33.955Z",
   "noticias": [
+    {
+      "titulo": "Nueva tienda de Decathlon en Argentina: donde queda, apertura y promociones con descuentos",
+      "resumen": "Decathlon abre nueva sucursal en Córdoba con inversión en retail deportivo e infraestructura física.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/455066-decathlon-cordoba-regala-400-mil-pesos-primeros-clientes",
+      "fecha": "2026-03-31"
+    },
+    {
+      "titulo": "Miniso vuelve a Argentina: cuándo abre, qué vende y dónde estarán sus locales",
+      "resumen": "Miniso regresa al mercado argentino con apertura de múltiples locales de retail de productos variados.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/451320-miniso-vuelve-a-argentina-cuando-abre-que-vende-y-donde-estaran-sus-locales",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Personal renovó su apuesta tecnológica en Córdoba: así será la nueva tienda en Nuevocentro Shopping",
+      "resumen": "Personal renueva y expande su presencia con nueva tienda moderna en shopping de Córdoba.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 8,
+      "url": "https://www.lavoz.com.ar/negocios/personal-renovo-apuesta-tecnologica-cordoba-nueva-tienda-nuevocentro-shopping_0_MSwVrOpB92.html",
+      "fecha": "2026-04-20"
+    },
+    {
+      "titulo": "Mercado Libre invertirá US$ 3 millones y abrirá nuevas oficinas en Villa Allende",
+      "resumen": "Mercado Libre invierte en expansión con apertura de nuevas oficinas corporativas en Córdoba.",
+      "sector": "oficinas",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.perfil.com/noticias/cordoba/mercado-libre-invertira-us-3-millones-y-abrira-nuevas-oficinas-en-villa-allende.phtml",
+      "fecha": "2026-05-10"
+    },
+    {
+      "titulo": "Salud. Nuevo prestador: los afiliados de Apross podrán atenderse en la clínica privada Humana",
+      "resumen": "Clínica Humana expande su red de prestadores en el sector salud privado en la región.",
+      "sector": "salud",
+      "provincia": "Córdoba",
+      "relevancia": 7,
+      "url": "https://www.lavoz.com.ar/ciudadanos/nuevo-prestador-afiliados-apross-podran-atenderse-clinica-privada-humana_0_bX8PTzrceC.html",
+      "fecha": "2026-05-05"
+    },
+    {
+      "titulo": "Hot Sale 2026: Almundo creció 12% en facturación y concentró ventas en tiendas",
+      "resumen": "Almundo expande su presencia física con nuevas tiendas para concentrar ventas offline en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://mercado.com.ar/negocios/hot-sale-2026-almundo-crecio-12-en-facturacion-y-concentro-ventas-en-tiendas",
+      "fecha": "2026-04-25"
+    },
+    {
+      "titulo": "Optimismo empresarial: el mercado medio argentino sostuvo 64% en el primer trimestre de 2026",
+      "resumen": "Crecimiento del optimismo empresarial con expansiones en el sector de empresas medianas en Argentina.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://mercado.com.ar/tendencias/optimismo-empresarial-el-mercado-medio-argentino-sostuvo-64-en-el-primer-trimestre-de-2026",
+      "fecha": "2026-04-10"
+    },
     {
       "titulo": "Nueva tienda de Decathlon en Argentina: donde queda, apertura y promociones con descuentos",
       "resumen": "Decathlon abre nueva tienda en Córdoba con inversión en retail deportivo e infraestructura comercial.",
@@ -837,24 +900,6 @@
       "relevancia": 7,
       "url": "https://www.cronista.com/negocios/una-marca-de-lenceria-italiana-desembarca-en-la-argentina-y-abrira-su-primer-local-en-un-importante-shopping-porteno/",
       "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "Magma desembarca en Argentina: Una apuesta por el retail experiencial y la moda global",
-      "resumen": "Magma abre su primer local de retail experiencial en Argentina con inversión en construcción de espacios comerciales.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://americaretail-malls.com/paises/argentina/magma-desembarca-en-argentina-una-apuesta-por-el-retail-experiencial-y-la-moda-global/",
-      "fecha": "2026-04-14"
-    },
-    {
-      "titulo": "IRSA impulsa una inversión de US$50 millones en Buenos Aires",
-      "resumen": "IRSA anuncia inversión de US$50 millones en desarrollo inmobiliario y construcción de espacios corporativos en Buenos Aires.",
-      "sector": "oficinas",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/irsa-impulsa-una-inversion-de-us50-millones-en-buenos-aires/",
-      "fecha": "2026-04-08"
     }
   ]
 }
