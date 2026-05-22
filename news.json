@@ -1,6 +1,78 @@
 {
-  "generado": "2026-05-20T18:36:33.955Z",
+  "generado": "2026-05-22T17:19:51.999Z",
   "noticias": [
+    {
+      "titulo": "McDonald's abre una nueva sucursal y busca contratar 80 personas",
+      "resumen": "McDonald's expande su presencia en Argentina con la apertura de una nueva sucursal.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.cronista.com/informacion-gral/confirmado-mcdonalds-abre-una-nueva-sucursal-y-busca-contratar-80-personas-muchos-puestos-no-requieren-experiencia-previa/?outputType=amp-type",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Clínica Universitaria Reina Fabiola presentó Sede Norte, el primer smart hospital de Argentina",
+      "resumen": "Clínica Reina Fabiola construye el primer smart hospital de Argentina en Córdoba con inversión significativa.",
+      "sector": "salud",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.lavoz.com.ar/espacio-publicidad/clinica-universitaria-reina-fabiola-presento-sede-norte-primer-smart-hospital-argentina_0_HblBQ7Debi.html",
+      "fecha": "2026-05-15"
+    },
+    {
+      "titulo": "Decathlon desembarca en Córdoba a fines de mayo",
+      "resumen": "La marca de deportes Decathlon abre su primera tienda en Córdoba, expandiendo su presencia en Argentina.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 8,
+      "url": "https://fortuna.perfil.com/noticias/negocios/decathlon-desembarca-en-cordoba-a-fines-de-mayo.phtml",
+      "fecha": "2026-05-01"
+    },
+    {
+      "titulo": "Altaviación aterriza en FAdeA: nuevo hub aeronáutico cordobés con $250 millones de inversión",
+      "resumen": "Altaviación desarrolla un hub aeronáutico en Córdoba con inversión de $250 millones en infraestructura.",
+      "sector": "industrial",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://infonegocios.info/plus/altaviacion-aterriza-en-fadea-de-que-trata-y-para-quien-el-nuevo-hub-aeronautico-cordobes-250-millones-de-inversion",
+      "fecha": "2026-04-20"
+    },
+    {
+      "titulo": "La mayor universidad privada recibe millonario préstamo para acelerar su expansión",
+      "resumen": "Universidad privada obtiene préstamo para expandir sus instalaciones y capacidad física en Argentina.",
+      "sector": "educacion",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/453815-la-mayor-universidad-privada-recibe-millonario-prestamo-para-acelerar-su-expansion",
+      "fecha": "2026-05-10"
+    },
+    {
+      "titulo": "Marcas internacionales apuestan por Argentina con nuevas aperturas pese a caída del consumo",
+      "resumen": "Cadenas internacionales continúan con planes de expansión física en Argentina con nuevas sucursales y locales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.losandes.com.ar/economia/marcas-internacionales-apuestan-argentina-pese-la-caida-del-consumo-que-dicen-los-datos-n5989735",
+      "fecha": "2026-04-25"
+    },
+    {
+      "titulo": "YPF expande su infraestructura con alianza Santander en App YPF",
+      "resumen": "YPF moderniza sus estaciones de servicio con nuevas funcionalidades de pago integradas en su aplicación.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.rionegro.com.ar/energia/ypf-y-santander-lanzan-la-remuneracion-de-saldos-en-cuenta-dentro-de-la-app-ypf-4554853/",
+      "fecha": "2026-04-10"
+    },
+    {
+      "titulo": "Banco Santander expande presencia con nuevas sucursales en Argentina",
+      "resumen": "Banco Santander continúa su plan de expansión de sucursales físicas en diferentes regiones de Argentina.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.bloomberglinea.com/mercados/jpmorgan-bofa-y-morgan-stanley-ven-oportunidad-en-america-latina-en-que-acciones-invierten/?outputType=amp",
+      "fecha": "2026-04-15"
+    },
     {
       "titulo": "Nueva tienda de Decathlon en Argentina: donde queda, apertura y promociones con descuentos",
       "resumen": "Decathlon abre nueva sucursal en Córdoba con inversión en retail deportivo e infraestructura física.",
@@ -828,78 +900,6 @@
       "relevancia": 7,
       "url": "https://ciudadanoweb.com.ar/nota_15292-07032026-avanza-la-construccion-de-la-clinica-privada-en-camet-norte",
       "fecha": "2026-03-07"
-    },
-    {
-      "titulo": "TGS invierte USD 3.000 millones en infraestructura de gas natural",
-      "resumen": "TGS anuncia mayor inversión histórica en líquidos de gas natural con obras desde Neuquén a Bahía Blanca.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/economia/2026/03/11/tgs-anuncio-la-mayor-inversion-historica-en-liquidos-de-gas-natural-usd-3000-millones-y-obras-de-neuquen-a-bahia-blanca/",
-      "fecha": "2026-03-11"
-    },
-    {
-      "titulo": "IRSA y Mercado Libre se asocian en Buenos Aires para construir un nuevo edificio de U$S 50 millones en el Polo DOT",
-      "resumen": "IRSA y Mercado Libre invierten US$50 millones en la construcción de un nuevo edificio corporativo en el Polo DOT de Buenos Aires.",
-      "sector": "oficinas",
-      "provincia": "Buenos Aires",
-      "relevancia": 10,
-      "url": "https://www.forbesargentina.com/negocios/irsa-mercado-libre-asocian-buenos-aires-construir-nuevo-edificio-us-50-millones-polo-dot-n88284",
-      "fecha": "2026-04-09"
-    },
-    {
-      "titulo": "H&M confirmó su llegada a la Argentina y abrirá su primera tienda en Alto Palermo en 2027",
-      "resumen": "La multinacional sueca H&M abre su primer local de retail en Argentina en el shopping Alto Palermo.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.filo.news/noticia/2026/04/25/h-and-m-confirmo-su-llegada-a-la-argentina-y-abrira-su-primera-tienda-en-alto-palermo-en-2027",
-      "fecha": "2026-04-25"
-    },
-    {
-      "titulo": "Una enorme cadena china desembarca en la Argentina con U$S 50 millones y planea abrir 100 locales",
-      "resumen": "Cadena retail china invierte US$50 millones para abrir 100 sucursales de comercios físicos en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.lavoz.com.ar/negocios/enorme-cadena-china-desembarca-argentina-us-50-millones-planea-abrir-100-locales_0_eIVaueQHM3.html",
-      "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "Mercado Libre cambia la logística en Argentina con inversión récord y miles de empleos",
-      "resumen": "Mercado Libre realiza inversión récord en infraestructura logística y construcción de centros de distribución en Argentina.",
-      "sector": "logistica",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/negocios/450528-mercado-libre-cambia-logistica-argentina-inversion-record-miles-empleos",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Con US$ 2 millones Mumuso abrirá 6 tiendas en 2026 en Argentina",
-      "resumen": "Cadena internacional Mumuso invierte US$2 millones para construir 6 locales de retail en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://infonegocios.biz/nota-principal/con-us-2-millones-mumuso-abrira-6-tiendas-en-2026-desembarca-en-brasil-y-argentina",
-      "fecha": "2026-04-18"
-    },
-    {
-      "titulo": "Argentina atrae inversiones con planes de expansión de Bestseller y Decathlon",
-      "resumen": "Bestseller y Decathlon anuncian expansión física con nuevas aperturas de locales de retail en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/argentina-atrae-inversiones-con-planes-de-expansion-de-bestseller-y-decathlon/",
-      "fecha": "2026-04-12"
-    },
-    {
-      "titulo": "Una marca de lencería italiana desembarca en la Argentina y abrirá su primer local en un importante shopping porteño",
-      "resumen": "Marca italiana de lencería abre su primer local físico de retail en un shopping de Buenos Aires.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 7,
-      "url": "https://www.cronista.com/negocios/una-marca-de-lenceria-italiana-desembarca-en-la-argentina-y-abrira-su-primer-local-en-un-importante-shopping-porteno/",
-      "fecha": "2026-04-20"
     }
   ]
 }
