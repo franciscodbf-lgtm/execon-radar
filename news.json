@@ -1,6 +1,51 @@
 {
-  "generado": "2026-05-22T17:19:51.999Z",
+  "generado": "2026-05-25T17:17:44.438Z",
   "noticias": [
+    {
+      "titulo": "El nuevo mapa corporativo de Buenos Aires: menos metros, más experiencia y un corredor norte en expansión",
+      "resumen": "Expansión de espacios corporativos en Buenos Aires con enfoque en el corredor norte y nuevos modelos de oficinas.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/opinion/2026/05/20/el-nuevo-mapa-corporativo-de-buenos-aires-menos-metros-mas-experiencia-y-un-corredor-norte-en-expansion/",
+      "fecha": "2026-05-20"
+    },
+    {
+      "titulo": "La cadena argentina de comida de la que Messi es socio llega al nuevo estadio del Inter Miami y planea expandirse por Europa",
+      "resumen": "Cadena gastronómica argentina planea expansión física con aperturas internacionales desde su base en Argentina.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/03/31/la-cadena-argentina-de-comida-de-la-que-messi-es-socio-llega-al-nuevo-estadio-del-inter-miami-y-planea-expandirse-por-europa/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "titulo": "Nafta y gasoil: las rebajas de hasta 30% que dan YPF, Shell, Axion y Puma en abril 2026",
+      "resumen": "Principales cadenas de estaciones de servicio implementan estrategias comerciales con promociones en Argentina.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-30-dan-ypf-shell-axion-puma-abril-2026_0_SChopTvQYb.html",
+      "fecha": "2026-04-20"
+    },
+    {
+      "titulo": "El Sanatorio Finochietto cerró sus servicios de obstetricia y neonatología",
+      "resumen": "Sanatorio privado de Buenos Aires restructura su infraestructura de servicios médicos.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 6,
+      "url": "https://www.pagina12.com.ar/2026/05/21/el-sanatorio-finochietto-cerro-sus-servicios-de-obstetricia-y-neonatologia-la-preocupacion-de-los-trabajadores/",
+      "fecha": "2026-05-21"
+    },
+    {
+      "titulo": "VIDEO ¿Por qué cierra locales una de las empresas textiles más rentables de la Argentina?",
+      "resumen": "Empresa textil argentina reestructura su presencia física con cierre de locales comerciales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.iprofesional.com/negocios/452291-por-que-cierra-locales-una-de-las-empresas-textiles-mas-rentables-de-la-argentina",
+      "fecha": "2026-04-15"
+    },
     {
       "titulo": "McDonald's abre una nueva sucursal y busca contratar 80 personas",
       "resumen": "McDonald's expande su presencia en Argentina con la apertura de una nueva sucursal.",
@@ -855,51 +900,6 @@
       "relevancia": 8,
       "url": "https://www.0223.com.ar/nota/2026-3-27-11-26-0-vuelve-un-icono-de-los-90-el-gigante-de-las-pizzas-que-regresa-a-la-argentina-para-pelear-el-trono",
       "fecha": "2026-03-27"
-    },
-    {
-      "titulo": "Miniso llega a Argentina: 100 tiendas y 1.000 empleos",
-      "resumen": "Cadena china Miniso desembarca en Argentina con plan de 100 locales de retail.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/economia/2026/03/18/miniso-llega-la-argentina-la-cadena-viral-estilo-japones-que-es-furor-entre-la-generacion-z-abrira-100-tiendas-en-el-pais/",
-      "fecha": "2026-03-18"
-    },
-    {
-      "titulo": "Nike invierte u$s 1,5 millones y reabre tienda icónica",
-      "resumen": "Nike realiza inversión significativa y reapertura de local estratégico con nueva infraestructura.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://fortuna.perfil.com/noticias/negocios/nike-invierte-us-15-millones-y-re-abre-su-iconica-tienda.phtml",
-      "fecha": "2026-03-20"
-    },
-    {
-      "titulo": "Megafusión de supermercados: 12 sucursales y centro logístico",
-      "resumen": "Operación de fusión de cadenas de supermercados que incluye transferencia de 12 locales e infraestructura logística.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/economia/2026/03/18/megafusion-entre-dos-cadenas-de-supermercados-12-sucursales-1600-empleados-y-un-centro-logistico-cambian-de-dueno/",
-      "fecha": "2026-03-18"
-    },
-    {
-      "titulo": "Mercado Libre construirá mega depósito en Escobar",
-      "resumen": "Mercado Libre invierte USD 115 millones en construcción de mayor centro de almacenamiento logístico del país.",
-      "sector": "logistica",
-      "provincia": "Buenos Aires",
-      "relevancia": 10,
-      "url": "https://www.lanoticiaweb.com.ar/mercado-libre-construira-un-mega-deposito-en-escobar-e-invertira-115-millones-de-dolares/",
-      "fecha": "2026-03-28"
-    },
-    {
-      "titulo": "Clínica privada en construcción en Camet Norte",
-      "resumen": "Avance de obra de nueva clínica privada en Camet Norte ampliando infraestructura de salud.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 7,
-      "url": "https://ciudadanoweb.com.ar/nota_15292-07032026-avanza-la-construccion-de-la-clinica-privada-en-camet-norte",
-      "fecha": "2026-03-07"
     }
   ]
 }
