@@ -1,6 +1,69 @@
 {
-  "generado": "2026-05-25T17:17:44.438Z",
+  "generado": "2026-05-27T18:36:46.401Z",
   "noticias": [
+    {
+      "titulo": "Locales tecnológicos se expanden en la Argentina con foco en la experiencia del usuario",
+      "resumen": "Cadenas de locales tecnológicos abren nuevas sucursales físicas en Argentina enfocadas en mejorar la experiencia del usuario.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/inhouse/2026/03/31/locales-tecnologicos-se-expanden-en-la-argentina-con-foco-en-la-experiencia-del-usuario/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "titulo": "Magma acelera su expansión regional con su desembarco comercial en Buenos Aires",
+      "resumen": "Magma expande su presencia física en Argentina con apertura de locales comerciales en Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/uruguay/magma-acelera-su-expansion-regional-con-su-desembarco-comercial-en-buenos-aires/",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Mercado Libre comenzó la búsqueda laboral para su planta en Escobar",
+      "resumen": "Mercado Libre construye nueva planta de operaciones en Escobar, Buenos Aires, iniciando búsqueda de personal.",
+      "sector": "logistica",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.pilaradiario.com/economia/mercado-libre-comenzo-la-busqueda-laboral-su-planta-escobar-n5469437",
+      "fecha": "2026-04-20"
+    },
+    {
+      "titulo": "Los bancos aceleran su transformación con Inteligencia Artificial",
+      "resumen": "Bancos argentinos invierten en modernización de sucursales físicas e infraestructura con tecnología avanzada.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.lmneuquen.com/pais/los-bancos-aceleran-su-transformacion-inteligencia-artificial-n1239807",
+      "fecha": "2026-05-01"
+    },
+    {
+      "titulo": "La AFA acelera su expansión global con inteligencia artificial, nuevos sponsors y presencia internacional",
+      "resumen": "AFA invierte en infraestructura moderna y espacios físicos para preparar la presencia argentina en Mundial 2026.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://eleconomista.com.ar/deportes/afa-ia-google-expansion-global-mundial-2026-n93788",
+      "fecha": "2026-04-25"
+    },
+    {
+      "titulo": "El dueño del ex Sanatorio San Carlos irá a la cárcel por mal manejo de la Covid-19",
+      "resumen": "Proceso judicial sobre infraestructura de salud privada en Argentina, reflejando dinamismo del sector sanitario.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 5,
+      "url": "https://www.pagina12.com.ar/2026/05/20/escobar-condenaron-a-10-anos-de-prision-al-dueno-del-ex-sanatorio-san-carlos/",
+      "fecha": "2026-05-20"
+    },
+    {
+      "titulo": "En qué bonos y acciones de Argentina invertir en abril del 2026, según expertos",
+      "resumen": "Recomendaciones de inversión en empresas constructoras y de infraestructura argentinas con potencial de expansión.",
+      "sector": "oficinas",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.bloomberglinea.com/latinoamerica/argentina/en-que-bonos-y-acciones-de-argentina-invertir-en-abril-del-2026-segun-expertos/",
+      "fecha": "2026-04-12"
+    },
     {
       "titulo": "El nuevo mapa corporativo de Buenos Aires: menos metros, más experiencia y un corredor norte en expansión",
       "resumen": "Expansión de espacios corporativos en Buenos Aires con enfoque en el corredor norte y nuevos modelos de oficinas.",
@@ -837,69 +900,6 @@
       "relevancia": 8,
       "url": "https://tn.com.ar/estilo/tendencias/2026/04/03/las-marcas-internacionales-vuelven-a-apostar-por-buenos-aires-y-cambian-el-mapa-de-la-moda/",
       "fecha": "2026-04-03"
-    },
-    {
-      "titulo": "El diseño italiano de Alessi llega a la Argentina",
-      "resumen": "Marca de diseño italiano Alessi abre su presencia con tienda física en Argentina.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 7,
-      "url": "https://fortuna.perfil.com/noticias/negocios/el-diseno-italiano-de-alessi-llega-a-la-argentina.phtml",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "La nueva marca china que traerá Stellantis avanza en su desembarco argentino",
-      "resumen": "Stellantis prepara la apertura de concesionarios y centro de distribución para nueva marca china en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://tn.com.ar/autos/novedades/2026/04/21/la-nueva-marca-china-que-traera-stellantis-avanza-en-su-desembarco-argentino/",
-      "fecha": "2026-04-21"
-    },
-    {
-      "titulo": "Nace una nueva marca que unifica el imperio del zar de la logística",
-      "resumen": "Importante grupo logístico argentino consolida operaciones con nueva marca unificada para expandir infraestructura.",
-      "sector": "logistica",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.iprofesional.com/negocios/450503-nace-una-nueva-marca-que-unifica-el-imperio-del-zar-de-la-logistica",
-      "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "Leapmotor presenta su nueva gama y anticipa desembarco en Argentina",
-      "resumen": "Marca automotriz china Leapmotor anuncia planes de expansión con aperturas de concesionarios en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.lanacion.com.ar/autos/tendencias/leapmotor-acelera-su-expansion-global-y-muestra-su-potencial-en-auto-china-2026-nid30042026/",
-      "fecha": "2026-04-30"
-    },
-    {
-      "titulo": "Monti inaugura su décimo local",
-      "resumen": "Cadena de fast food de pasta Monti expande su presencia con apertura de nuevo local en Argentina.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://fortuna.perfil.com/noticias/negocios/la-cadena-de-fast-food-de-pasta-monti-inaugura-su-decimo-local.phtml",
-      "fecha": "2026-03-27"
-    },
-    {
-      "titulo": "Heladería top planea abrir 40 locales en Argentina",
-      "resumen": "Importante cadena de heladerías planifica expansión masiva con 40 nuevos locales en el país.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/negocios/453593-mientras-otros-colapsan-esta-heladeria-top-planea-abrir-40-locales-en-argentina",
-      "fecha": "2026-03-18"
-    },
-    {
-      "titulo": "Regresa ícono de los 90: gigante de pizzas vuelve a Argentina",
-      "resumen": "Marca histórica de pizzerías retorna al mercado argentino con planes de apertura de locales.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.0223.com.ar/nota/2026-3-27-11-26-0-vuelve-un-icono-de-los-90-el-gigante-de-las-pizzas-que-regresa-a-la-argentina-para-pelear-el-trono",
-      "fecha": "2026-03-27"
     }
   ]
 }
