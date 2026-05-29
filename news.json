@@ -1,6 +1,87 @@
 {
-  "generado": "2026-05-27T18:36:46.401Z",
+  "generado": "2026-05-29T19:39:14.472Z",
   "noticias": [
+    {
+      "titulo": "La tienda china más conocida llega a Argentina",
+      "resumen": "Tienda retail internacional abre nuevo local físico en Argentina con promociones de apertura.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.cronista.com/informacion-gral/la-tienda-china-mas-conocida-llega-a-argentina-abrira-un-nuevo-local-y-va-a-regalar-miles-de-pesos-a-los-primeros-que-entren/",
+      "fecha": "2026-05-08"
+    },
+    {
+      "titulo": "Cuánto hay que invertir en franquicia de la cadena líder de CAFÉ en Argentina",
+      "resumen": "Cadena gastronómica argentina expande operaciones mediante modelo de franquicias con nuevas aperturas.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/453506-cuanto-hay-que-invertir-en-fraquicia-de-la-cadena-lider-de-cafe-en-argentina",
+      "fecha": "2026-05-08"
+    },
+    {
+      "titulo": "El Bapro sigue apostando por las sucursales: nueva sede en Villa Ramallo",
+      "resumen": "Banco Provincia abre nueva sucursal física en Villa Ramallo con más sedes en evaluación.",
+      "sector": "banco",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://eleconomista.com.ar/finanzas/el-bapro-sigue-apostando-sucursales-nueva-sede-villa-ramallo-otras-mas-estudio-n95220",
+      "fecha": "2026-05-08"
+    },
+    {
+      "titulo": "Mercado Libre ya busca trabajadores para su nueva planta en Escobar",
+      "resumen": "Plataforma logística de Mercado Libre construye nueva planta de distribución en Escobar.",
+      "sector": "logistica",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/management/453658-mercado-libre-ya-busca-trabajadores-para-su-nueva-planta-en-escobar-como-postularse",
+      "fecha": "2026-05-08"
+    },
+    {
+      "titulo": "Director del Hospital de Clínicas alertó por severa crisis financiera",
+      "resumen": "Hospital de Clínicas enfrenta crisis de inversión y mantenimiento de infraestructura sanitaria.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 6,
+      "url": "https://www.infobae.com/politica/2026/05/05/nos-queda-un-respiro-el-director-del-hospital-de-clinicas-alerto-por-la-severa-crisis-que-atraviesan-ante-la-falta-de-financiamiento/",
+      "fecha": "2026-05-05"
+    },
+    {
+      "titulo": "YPF y Santander lanzaron remuneración de saldos en cuenta en App",
+      "resumen": "YPF desarrolla alianza estratégica con Santander para servicios financieros en sus estaciones.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.infobae.com/economia/networking/2026/04/28/ypf-y-santander-lanzaron-remuneracion-de-saldos-en-cuenta-dentro-de-la-app-de-la-petrolera/",
+      "fecha": "2026-04-28"
+    },
+    {
+      "titulo": "Un consorcio internacional hizo oferta por acciones de YPF en Metrogas",
+      "resumen": "Transacción de infraestructura energética: consorcio internacional compra participación en empresa de distribución de gas.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.infobae.com/economia/2026/04/15/un-consorcio-internacional-hizo-una-oferta-para-quedarse-con-las-acciones-que-ypf-tiene-en-metrogas/",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "AmCham Summit 2026: cumbre de empresas de EEUU en Argentina",
+      "resumen": "Conferencia internacional reúne a inversores para explorar oportunidades de expansión física en Argentina.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.infobae.com/tendencias/2026/04/14/amcham-summit-2026-como-sera-el-foro-de-negocios-que-organiza-la-camara-de-empresas-de-eeuu-en-argentina/",
+      "fecha": "2026-04-14"
+    },
+    {
+      "titulo": "La inversión extranjera directa tuvo salidas netas por USD 4.700 millones",
+      "resumen": "Análisis de inversión extranjera en Argentina muestra comportamiento neto negativo en cierre de 2025.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.infobae.com/economia/2026/05/08/la-inversion-extranjera-directa-tuvo-salidas-netas-por-casi-usd-4700-millones-al-cierre-de-2025/",
+      "fecha": "2026-05-08"
+    },
     {
       "titulo": "Locales tecnológicos se expanden en la Argentina con foco en la experiencia del usuario",
       "resumen": "Cadenas de locales tecnológicos abren nuevas sucursales físicas en Argentina enfocadas en mejorar la experiencia del usuario.",
@@ -819,87 +900,6 @@
       "relevancia": 9,
       "url": "https://www.iprofesional.com/negocios/449903-nike-planea-abrir-cuatro-locales-y-vestira-a-grande-del-futbol-argentino",
       "fecha": "2026-03-15"
-    },
-    {
-      "titulo": "El fenómeno Miniso llega a Pilar: abrirá una tienda en el K50",
-      "resumen": "Miniso abre tienda de retail en centro comercial K50 de Pilar, Buenos Aires.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://www.pilaradiario.com/informacion-general/el-fenomeno-miniso-llega-pilar-abrira-una-tienda-el-k50-y-busca-personal-n5469442",
-      "fecha": "2026-03-20"
-    },
-    {
-      "titulo": "Regresa un ícono de los 90: la famosa marca que vuelve a la Argentina",
-      "resumen": "Marca reconocida de los 90 regresa a Argentina con plan de abrir nuevos locales.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.0223.com.ar/nota/2026-3-20-14-53-0-regresa-un-icono-de-los-90-la-famosa-marca-que-vuelve-a-la-argentina-y-planea-abrir-locales",
-      "fecha": "2026-03-20"
-    },
-    {
-      "titulo": "IRSA y Mercado Libre impulsan un nuevo modelo corporativo en Buenos Aires",
-      "resumen": "IRSA y Mercado Libre desarrollan proyecto de oficinas corporativas en Buenos Aires.",
-      "sector": "oficinas",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/irsa-y-mercado-libre-impulsan-un-nuevo-modelo-corporativo-en-buenos-aires/",
-      "fecha": "2026-03-25"
-    },
-    {
-      "titulo": "Casi 9 de cada 10 empresas alemanas prevén invertir o sostener desembolsos en 2026",
-      "resumen": "Empresas alemanas confirman inversiones de infraestructura y ampliaciones en Argentina para 2026.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.perfil.com/noticias/economia/casi-9-de-cada-10-empresas-alemanas-preven-invertir-o-sostener-desembolsos-en-2026.phtml",
-      "fecha": "2026-04-10"
-    },
-    {
-      "titulo": "Milei abre el Argentina Week con el objetivo de multiplicar las inversiones extranjeras",
-      "resumen": "Argentina Week busca atraer inversiones extranjeras en infraestructura, construcción y expansión física.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.infobae.com/politica/2026/03/10/milei-abre-el-argentina-week-con-el-objetivo-de-multiplicar-las-inversiones-extranjeras-en-la-argentina/",
-      "fecha": "2026-03-10"
-    },
-    {
-      "titulo": "Empresas alemanas apuestan a inversiones fuertes en Argentina",
-      "resumen": "Inversores alemanes confirman planes de expansión física y construcción en Argentina para 2026.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.perfil.com/noticias/economia/optimistas-empresas-alemanas-apuestan-a-inversiones-fuertes-en-argentina-con-preocupacion-por-la-actividad-a40.phtml",
-      "fecha": "2026-04-05"
-    },
-    {
-      "titulo": "Mercado Libre necesita más oficinas en el Polo DOT de Saavedra junto a IRSA",
-      "resumen": "Mercado Libre expande su presencia con nuevas oficinas corporativas en Buenos Aires.",
-      "sector": "oficinas",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://infonegocios.info/plus/mercado-libre-necesita-mas-oficinas-pero-no-en-cordoba-que-hara-en-el-polo-dot-de-saavedra-junto-a-irsa",
-      "fecha": "2026-04-19"
-    },
-    {
-      "titulo": "Qué marcas internacionales llegan al país en 2026: el mapa del lujo y nuevas aperturas",
-      "resumen": "Múltiples marcas de lujo internacionales anuncian desembarco físico en Argentina durante 2026.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.rionegro.com.ar/redes/que-marcas-internacionales-llegan-al-pais-en-2026-el-mapa-del-lujo-y-nuevas-aperturas-4538039/",
-      "fecha": "2026-04-19"
-    },
-    {
-      "titulo": "Del lujo francés al skincare coreano: la ola de marcas que desembarca en Argentina",
-      "resumen": "Nuevas marcas internacionales de moda y cosméticos abren locales físicos en Buenos Aires.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://tn.com.ar/estilo/tendencias/2026/04/03/las-marcas-internacionales-vuelven-a-apostar-por-buenos-aires-y-cambian-el-mapa-de-la-moda/",
-      "fecha": "2026-04-03"
     }
   ]
 }
