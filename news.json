@@ -1,6 +1,51 @@
 {
-  "generado": "2026-05-29T19:39:14.472Z",
+  "generado": "2026-06-03T14:42:43.686Z",
   "noticias": [
+    {
+      "titulo": "Miniso abrirá una tienda en Plaza Oeste y busca personal para su nueva sucursal en Morón",
+      "resumen": "Miniso abre nueva sucursal retail en Plaza Oeste, Morón, expandiendo su presencia física en Argentina.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.quepasaweb.com.ar/miniso-abrira-una-tienda-en-plaza-oeste-y-busca-personal-para-su-nueva-sucursal-en-moron/",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Decathlon en Córdoba: ya tiene fecha la apertura de su tienda en el Nuevocentro",
+      "resumen": "Decathlon inaugura nueva tienda retail en Nuevocentro, Córdoba, ampliando su red de sucursales en Argentina.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.perfil.com/noticias/cordoba/decathlon-en-cordoba-ya-tiene-fecha-la-apertura-de-su-tienda-en-el-nuevocentro.phtml",
+      "fecha": "2026-04-10"
+    },
+    {
+      "titulo": "Banco Provincia ejecutó 220 obras de modernización en sucursales e incrementó 42% su red de cajeros automáticos",
+      "resumen": "Banco Provincia realiza 220 obras de refacción y modernización en sucursales a nivel nacional.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.perfil.com/noticias/sociedad/banco-provincia-ejecuto-220-obras-de-modernizacion-en-sucursales-e-incremento-42-su-red-de-cajeros-automaticos.phtml",
+      "fecha": "2026-05-15"
+    },
+    {
+      "titulo": "Nueva tienda de Decathlon en Argentina: donde queda, apertura y promociones con descuentos",
+      "resumen": "Decathlon inaugura sucursal en Córdoba con inversión en infraestructura retail y promociones de apertura.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/index.php/negocios/455066-decathlon-cordoba-regala-400-mil-pesos-primeros-clientes",
+      "fecha": "2026-04-08"
+    },
+    {
+      "titulo": "Tras el cierre de 382 locales bancarios, Banco Provincia anunció obras para fortalecer 220 sucursales",
+      "resumen": "Banco Provincia ejecuta amplio plan de obras físicas de modernización en sucursales remanentes.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.0223.com.ar/nota/2026-6-2-18-50-0-tras-el-cierre-de-382-locales-bancarios-banco-provincia-anuncio-obras-para-fortalecer-220-sucursales",
+      "fecha": "2026-06-02"
+    },
     {
       "titulo": "La tienda china más conocida llega a Argentina",
       "resumen": "Tienda retail internacional abre nuevo local físico en Argentina con promociones de apertura.",
@@ -855,51 +900,6 @@
       "relevancia": 8,
       "url": "https://www.forbesargentina.com/negocios/cuales-son-marcas-internacionales-llegan-argentina-mapa-aperturas-2026-n89064",
       "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Una por una: todas las marcas de moda que llegan al país en 2026",
-      "resumen": "Detalle de cadenas de moda internacionales abriendo locales comerciales en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.lanacion.com.ar/economia/negocios/una-por-una-todas-las-marcas-de-moda-que-llegan-al-pais-en-2026-nid09042026/",
-      "fecha": "2026-04-09"
-    },
-    {
-      "titulo": "Miniso llega al país: cadena de precios bajos creará 100 locales y mucho trabajo",
-      "resumen": "Cadena china Miniso desembarca en Argentina con plan de abrir 100 tiendas de retail.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 10,
-      "url": "https://www.iprofesional.com/negocios/450538-cadena-china-miniso-precios-bajos-llega-argentina-100-locales-1000-puestos-de-trabajo",
-      "fecha": "2026-03-18"
-    },
-    {
-      "titulo": "Mercado Libre construirá en Escobar su mayor centro de almacenamiento del país",
-      "resumen": "Mercado Libre construye el mayor centro logístico de su red en Argentina en Escobar.",
-      "sector": "logistica",
-      "provincia": "Buenos Aires",
-      "relevancia": 10,
-      "url": "https://www.pilaradiario.com/mercado-libre-construira-escobar-su-mayor-centro-almacenamiento-del-pais-n5468520",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Una gigante alimenticia inauguró un nuevo polo industrial en General Rodríguez",
-      "resumen": "Empresa alimenticia inaugura nuevo polo industrial en General Rodríguez e incorporará 500 empleados.",
-      "sector": "industrial",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/economia/2026/03/30/una-gigante-alimenticia-inauguro-un-nuevo-polo-industrial-en-general-rodriguez-y-busca-sumar-500-empleados/",
-      "fecha": "2026-03-30"
-    },
-    {
-      "titulo": "Nike planea abrir al menos cuatro locales en Argentina",
-      "resumen": "Nike abre cuatro nuevos locales de retail en Argentina y acuerdos con fútbol profesional.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/negocios/449903-nike-planea-abrir-cuatro-locales-y-vestira-a-grande-del-futbol-argentino",
-      "fecha": "2026-03-15"
     }
   ]
 }
