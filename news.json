@@ -1,6 +1,69 @@
 {
-  "generado": "2026-06-03T14:42:43.686Z",
+  "generado": "2026-06-05T12:39:37.571Z",
   "noticias": [
+    {
+      "titulo": "McDonald's acelera su expansión en Misiones con empleo e inversión local",
+      "resumen": "McDonald's abre nuevos locales en Misiones como parte de su estrategia de expansión física en Argentina.",
+      "sector": "gastronomia",
+      "provincia": "Misiones",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/paises/argentina/mcdonalds-acelera-su-expansion-en-misiones-con-empleo-e-inversion-local/",
+      "fecha": "2026-04-15"
+    },
+    {
+      "titulo": "Decathlon desembarca en Córdoba y reabre el debate sobre los precios argentinos",
+      "resumen": "Decathlon inaugura sucursal física en Córdoba, expandiendo su presencia retail en Argentina.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/paises/argentina/decathlon-desembarca-en-cordoba-y-reabre-el-debate-sobre-los-precios-argentinos/",
+      "fecha": "2026-05-20"
+    },
+    {
+      "titulo": "Lucky Brand desembarca en Argentina con precios competitivos y ambicioso crecimiento",
+      "resumen": "Lucky Brand llega a Argentina con aperturas de tiendas físicas y planes de expansión retail.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/lucky-brand-desembarca-en-argentina-con-precios-competitivos-y-ambicioso-crecimiento/",
+      "fecha": "2026-05-10"
+    },
+    {
+      "titulo": "McDonald's abrirá su décimo local en Mendoza y empleará a 40 nuevos talentos",
+      "resumen": "McDonald's inaugura su décima sucursal en Mendoza consolidando presencia física en la provincia.",
+      "sector": "gastronomia",
+      "provincia": "Mendoza",
+      "relevancia": 8,
+      "url": "https://mendoza24.com.ar/negocios_empresas/28890-McDonald's-abrira-su-decimo-local-en-Mendoza-y-empleara-a-40-nuevos-talentos",
+      "fecha": "2026-04-12"
+    },
+    {
+      "titulo": "Reactivación del mercado corporativo de oficinas: empresas tomaron 100.000 metros cuadrados durante 2025",
+      "resumen": "Expansión significativa del mercado de oficinas corporativas en Argentina con toma de espacios físicos.",
+      "sector": "oficinas",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.perfil.com/noticias/canal-e/reactivacion-del-mercado-corporativo-de-oficinas-las-empresas-tomaron-100000-metros-cuadrados-de-oficinas-durante-todo-el-2025.phtml",
+      "fecha": "2026-03-15"
+    },
+    {
+      "titulo": "De Bahía Blanca a Miami: la firma argentina que lleva la carne premium a todo Estados Unidos",
+      "resumen": "Empresa argentina de procesamiento de carne premium de Bahía Blanca expande operaciones industriales.",
+      "sector": "industrial",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://fortuna.perfil.com/noticias/negocios/de-bahia-blanca-a-miami-la-firma-argentina-que-lleva-la-carne-premium-a-todo-estados-unidos.phtml",
+      "fecha": "2026-04-10"
+    },
+    {
+      "titulo": "Argentina frente a la nueva frontera tecnológica: data centers, energía y una oportunidad federal",
+      "resumen": "Proyectos de construcción de data centers en Argentina como oportunidad de inversión infraestructural.",
+      "sector": "otros",
+      "provincia": "Córdoba",
+      "relevancia": 7,
+      "url": "https://www.perfil.com/noticias/cordoba/argentina-frente-a-la-nueva-frontera-tecnologica-data-centers-energia-y-una-oportunidad-federal.phtml",
+      "fecha": "2026-04-20"
+    },
     {
       "titulo": "Miniso abrirá una tienda en Plaza Oeste y busca personal para su nueva sucursal en Morón",
       "resumen": "Miniso abre nueva sucursal retail en Plaza Oeste, Morón, expandiendo su presencia física en Argentina.",
@@ -837,69 +900,6 @@
       "relevancia": 7,
       "url": "https://puntoapunto.com.ar/crisis-en-la-salud-privada-clinicas-de-cordoba-advierten-sobre-un-sistema-al-limite-por-el-financiamiento-del-pami",
       "fecha": "2026-04-25"
-    },
-    {
-      "titulo": "Empresas en caída, marcas internacionales en expansión e inversiones récord",
-      "resumen": "Radiografía de expansión acelerada de marcas internacionales en Argentina con inversiones récord.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/economia/2026/04/19/empresas-en-caida-marcas-internacionales-en-expansion-e-inversiones-record-radiografia-de-la-economia-en-dos-velocidades/",
-      "fecha": "2026-04-19"
-    },
-    {
-      "titulo": "Cuenta DNI suma plazos fijos en dólares",
-      "resumen": "Banco Provincia habilita nuevos servicios financieros en plataforma de Cuenta DNI.",
-      "sector": "banco",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.perfil.com/noticias/economia/inversion-en-dolares-por-cuenta-dni-banco-provincia-habilita-los-plazos-fijos-desde-la-aplicacion-a40.phtml",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Lanzaron descuentos del 30% y $40.000 de reintegro en nafta y gasoil",
-      "resumen": "Estaciones de servicio lanzan promociones competitivas para combustibles en marzo 2026.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://tn.com.ar/autos/novedades/2026/03/09/lanzaron-descuentos-del-30-y-40000-de-reintegro-en-nafta-y-gasoil-en-marzo-de-2026/",
-      "fecha": "2026-03-09"
-    },
-    {
-      "titulo": "Cadena china desembarca en Argentina: abrirá 100 tiendas y generará hasta 1.000 empleos",
-      "resumen": "Importante marca china inicia expansión retail en Argentina con apertura de 100 locales comerciales.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 10,
-      "url": "https://www.0223.com.ar/nota/2026-3-18-18-44-0-furor-por-la-cadena-china-que-desembarca-en-argentina-abrira-100-tiendas-y-generara-hasta-1-000-empleos",
-      "fecha": "2026-03-18"
-    },
-    {
-      "titulo": "Mercado Libre construirá en Escobar su mayor centro de almacenamiento en Argentina",
-      "resumen": "Mercado Libre desarrolla su centro logístico más grande del país en Escobar con inversión en infraestructura física.",
-      "sector": "logistica",
-      "provincia": "Buenos Aires",
-      "relevancia": 10,
-      "url": "https://www.quepasaweb.com.ar/mercado-libre-construira-en-escobar-su-mayor-centro-de-almacenamiento-en-argentina/",
-      "fecha": "2026-04-28"
-    },
-    {
-      "titulo": "H&M confirmó su desembarco en la Argentina: cuándo y dónde abrirá su primer local",
-      "resumen": "Multinacional H&M anuncia apertura de primer local físico en Argentina con planes de expansión retail.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/economia/2026/04/24/hm-confirmo-su-desembarco-en-la-argentina-cuando-y-donde-abrira-su-primer-local/",
-      "fecha": "2026-04-24"
-    },
-    {
-      "titulo": "Cuáles son las marcas internacionales que llegan a la Argentina: mapa de aperturas en 2026",
-      "resumen": "Análisis de múltiples marcas globales abriendo locales físicos en Argentina durante 2026.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.forbesargentina.com/negocios/cuales-son-marcas-internacionales-llegan-argentina-mapa-aperturas-2026-n89064",
-      "fecha": "2026-04-15"
     }
   ]
 }
