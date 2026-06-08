@@ -1,6 +1,24 @@
 {
-  "generado": "2026-06-05T12:39:37.571Z",
+  "generado": "2026-06-08T14:08:51.714Z",
   "noticias": [
+    {
+      "titulo": "Decathlon abrió en Córdoba con ventas récord en el mundo",
+      "resumen": "La cadena deportiva internacional Decathlon inauguró sucursal en Córdoba, expandiendo su presencia física en Argentina.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.perfil.com/noticias/cordoba/decathlon-abrio-en-cordoba-y-ahora-busca-imponer-su-concepto-de-primer-precio-tecnico.phtml",
+      "fecha": "2026-05-01"
+    },
+    {
+      "titulo": "Adidas acelera su expansión en Argentina con nuevas tiendas fuera de Buenos Aires",
+      "resumen": "La marca internacional Adidas abre nuevas sucursales en provincias argentinas para fortalecer su presencia retail.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/paises/argentina/adidas-acelera-su-expansion-en-argentina-con-nuevas-tiendas-fuera-de-buenos-aires/",
+      "fecha": "2026-05-15"
+    },
     {
       "titulo": "McDonald's acelera su expansión en Misiones con empleo e inversión local",
       "resumen": "McDonald's abre nuevos locales en Misiones como parte de su estrategia de expansión física en Argentina.",
@@ -882,24 +900,6 @@
       "relevancia": 9,
       "url": "https://eleconomista.com.ar/negocios/mercado-libre-acelera-caba-megaobra-irsa-polo-dot-n93608",
       "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "Furor por la apertura del primer local de una cadena internacional en la Argentina",
-      "resumen": "Cadena gastronómica internacional abre su primer local en Argentina con gran demanda.",
-      "sector": "gastronomia",
-      "provincia": "CABA",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/economia/2026/04/23/furor-por-la-apertura-del-primer-local-de-una-cadena-internacional-en-la-argentina-hasta-5-cuadras-de-cola-y-acampe-de-madrugada/",
-      "fecha": "2026-04-23"
-    },
-    {
-      "titulo": "Crisis en la salud privada: clínicas de Córdoba advierten sobre un sistema al límite",
-      "resumen": "Clínicas privadas de Córdoba alertan sobre presiones financieras en el sector salud.",
-      "sector": "salud",
-      "provincia": "Córdoba",
-      "relevancia": 7,
-      "url": "https://puntoapunto.com.ar/crisis-en-la-salud-privada-clinicas-de-cordoba-advierten-sobre-un-sistema-al-limite-por-el-financiamiento-del-pami",
-      "fecha": "2026-04-25"
     }
   ]
 }
