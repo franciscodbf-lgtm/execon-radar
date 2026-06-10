@@ -1,6 +1,42 @@
 {
-  "generado": "2026-06-08T14:08:51.714Z",
+  "generado": "2026-06-10T12:58:06.714Z",
   "noticias": [
+    {
+      "titulo": "Decathlon confirmó la apertura de una nueva mega tienda en un shopping",
+      "resumen": "Decathlon abre nueva mega tienda en shopping de Argentina, expandiendo su presencia en retail deportivo.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/456531-decathlon-confirmo-apertura-de-nueva-mega-tienda-en-shopping",
+      "fecha": "2026-06-09"
+    },
+    {
+      "titulo": "H&M en Argentina: El gigante del Fast Fashion prepara su desembarco",
+      "resumen": "H&M planifica su entrada al mercado argentino como marca internacional de retail de moda.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/retail-lujo-moda/moda/hm-en-argentina-el-gigante-del-fast-fashion-prepara-su-desembarco/",
+      "fecha": "2026-06-09"
+    },
+    {
+      "titulo": "El primer \"Smart Hospital\" de Argentina se construirá en Córdoba",
+      "resumen": "Clínica Reina Fabiola construye el primer Smart Hospital de Argentina en Córdoba con inversión en infraestructura sanitaria.",
+      "sector": "salud",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://infonegocios.info/nota-principal/el-primer-smart-hospital-de-argentina-se-construira-en-cordoba-lo-hace-la-clinica-reina-fabiola",
+      "fecha": "2026-06-09"
+    },
+    {
+      "titulo": "Tecnología, inversión y empleo: Sancor Seguros fortalece su presencia en Neuquén",
+      "resumen": "Sancor Seguros expande operaciones en Neuquén con inversión en oficinas y nueva infraestructura comercial.",
+      "sector": "oficinas",
+      "provincia": "Neuquén",
+      "relevancia": 7,
+      "url": "https://www.lmneuquen.com/neuquen/tecnologia-inversion-y-empleo-sancor-seguros-fortalece-su-presencia-neuquen-n1236244",
+      "fecha": "2026-06-09"
+    },
     {
       "titulo": "Decathlon abrió en Córdoba con ventas récord en el mundo",
       "resumen": "La cadena deportiva internacional Decathlon inauguró sucursal en Córdoba, expandiendo su presencia física en Argentina.",
@@ -864,42 +900,6 @@
       "relevancia": 9,
       "url": "https://www.iprofesional.com/negocios/449788-el-ambicioso-plan-de-starbucks-para-crecer-en-el-negocio-del-cafe-en-argentina",
       "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Supermercados de cercanía: La expansión estratégica de Super 2000 en Ingeniero Maschwitz",
-      "resumen": "Super 2000 abre nueva sucursal de supermercado en Ingeniero Maschwitz.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/supermercados-de-cercania-la-expansion-estrategica-de-super-2000-en-ingeniero-maschwitz/",
-      "fecha": "2026-04-10"
-    },
-    {
-      "titulo": "La marca de ropa de niños más conocida del mundo anunció un fuerte plan de expansión en el país",
-      "resumen": "Marca internacional de ropa infantil anuncia plan de aperturas de locales en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/economia/2026/04/10/la-marca-de-ropa-de-ninos-mas-conocida-del-mundo-anuncio-un-fuerte-plan-de-expansion-en-el-pais-donde-abrira-los-locales/",
-      "fecha": "2026-04-10"
-    },
-    {
-      "titulo": "Maxiconsumo impulsa su crecimiento con una nueva sucursal en Trelew",
-      "resumen": "Maxiconsumo abre nueva sucursal de supermercado en Trelew.",
-      "sector": "retail",
-      "provincia": "Chubut",
-      "relevancia": 7,
-      "url": "https://americaretail-malls.com/paises/argentina/maxiconsumo-impulsa-su-crecimiento-con-una-nueva-sucursal-en-trelew/",
-      "fecha": "2026-04-05"
-    },
-    {
-      "titulo": "Mercado Libre acelera en CABA: megaobra con IRSA en Polo DOT",
-      "resumen": "Mercado Libre ejecuta megaobra conjunta con IRSA en Polo DOT de CABA.",
-      "sector": "oficinas",
-      "provincia": "CABA",
-      "relevancia": 9,
-      "url": "https://eleconomista.com.ar/negocios/mercado-libre-acelera-caba-megaobra-irsa-polo-dot-n93608",
-      "fecha": "2026-04-20"
     }
   ]
 }
