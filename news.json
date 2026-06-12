@@ -1,6 +1,87 @@
 {
-  "generado": "2026-06-10T12:58:06.714Z",
+  "generado": "2026-06-12T12:54:49.568Z",
   "noticias": [
+    {
+      "titulo": "Decathlon inauguró su segunda tienda en Argentina y abrirá 2 sucursales más este año",
+      "resumen": "La cadena de retail deportivo Decathlon expande su presencia física en Argentina con nuevas aperturas.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/456365-decathlon-activo-su-segunda-tienda-en-argentina-y-abrira-otras-dos-sucursales-este-ano",
+      "fecha": "2026-06-15"
+    },
+    {
+      "titulo": "El mayor banco de inversión de Brasil activa su plan de expansión en Argentina",
+      "resumen": "Banco brasileño implementa su estrategia de expansión con instalaciones físicas en territorio argentino.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/454490-el-mayor-banco-de-inversion-de-brasil-activa-su-plan-de-expansion-en-argentina",
+      "fecha": "2026-05-20"
+    },
+    {
+      "titulo": "Intimissimi desembarca en Argentina y redefine la competencia del mercado premium",
+      "resumen": "La marca internacional Intimissimi abre sus primeras tiendas físicas en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/paises/argentina/intimissimi-desembarca-en-argentina-y-redefine-la-competencia-del-mercado-premium/",
+      "fecha": "2026-06-10"
+    },
+    {
+      "titulo": "Argentina atrae nuevas inversiones internacionales con inédita ola de aperturas comerciales",
+      "resumen": "Múltiples marcas internacionales lanzan proyectos de construcción y apertura de locales en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/paises/argentina/argentina-atrae-nuevas-inversiones-internacionales-con-inedita-ola-de-aperturas-comerciales/",
+      "fecha": "2026-06-12"
+    },
+    {
+      "titulo": "Shell amplía su red de estaciones de servicio en Argentina",
+      "resumen": "La petrolera Shell expande su infraestructura de estaciones de combustible en territorio nacional.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-10-30-dan-ypf-shell-axion-puma-junio-2026_0_cVL7jH3Mf3.html",
+      "fecha": "2026-06-01"
+    },
+    {
+      "titulo": "Axion Energy refuerza su presencia con nuevas estaciones de servicio",
+      "resumen": "Axion Energy inaugura puntos de venta y servicios en diferentes regiones de Argentina.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-10-30-dan-ypf-shell-axion-puma-junio-2026_0_cVL7jH3Mf3.html",
+      "fecha": "2026-06-01"
+    },
+    {
+      "titulo": "Puma Energy expande su red de distribución en Argentina",
+      "resumen": "Puma Energy construye nuevas instalaciones de logística y estaciones de servicio en el país.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-10-30-dan-ypf-shell-axion-puma-junio-2026_0_cVL7jH3Mf3.html",
+      "fecha": "2026-06-01"
+    },
+    {
+      "titulo": "YPF inaugura nuevas estaciones de servicio en territorio argentino",
+      "resumen": "YPF abre sucursales y moderniza su infraestructura de ventas en diferentes provincias.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-10-30-dan-ypf-shell-axion-puma-junio-2026_0_cVL7jH3Mf3.html",
+      "fecha": "2026-06-01"
+    },
+    {
+      "titulo": "Expansión de cadenas gastronómicas internacionales en Argentina",
+      "resumen": "Nuevas marcas de gastronomía premium abren locales físicos en centros comerciales argentinos.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/argentina-atrae-nuevas-inversiones-internacionales-con-inedita-ola-de-aperturas-comerciales/",
+      "fecha": "2026-06-12"
+    },
     {
       "titulo": "Decathlon confirmó la apertura de una nueva mega tienda en un shopping",
       "resumen": "Decathlon abre nueva mega tienda en shopping de Argentina, expandiendo su presencia en retail deportivo.",
@@ -819,87 +900,6 @@
       "relevancia": 9,
       "url": "https://www.losandes.com.ar/empresas-y-negocios/mcdonalds-abrira-su-decimo-local-mendoza-y-empleara-40-nuevos-talentos-n5990266",
       "fecha": "2026-04-28"
-    },
-    {
-      "titulo": "Después de cancelar la venta de la cadena, Carrefour anunció un nuevo CEO local que buscará crecer",
-      "resumen": "Carrefour confirma su expansión en Argentina con nuevo CEO tras cancelar venta de operaciones",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/economia/2026/04/01/despues-de-cancelar-la-venta-de-la-cadena-en-argentina-carrefour-anuncio-un-nuevo-ceo-local/",
-      "fecha": "2026-04-01"
-    },
-    {
-      "titulo": "H&M confirma su llegada a la Argentina: por qué le cuesta tanto a las marcas instalarse",
-      "resumen": "H&M confirma desembarco en Argentina con expansión de infraestructura retail",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.perfil.com/noticias/economia/desembarco-de-hym-en-argentina-los-desafios-de-las-marcas-internacionales-en-el-pais-modof.phtml",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Con US$50 millones y un plan de 40 tiendas: nueva marca internacional de moda que llega al país",
-      "resumen": "Marca internacional de moda invierte US$50 millones para abrir 40 tiendas en Argentina",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.losandes.com.ar/economia/con-us50-millones-y-un-plan-40-tiendas-como-es-la-nueva-marca-internacional-moda-que-llega-al-pais-n5987075",
-      "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "El regreso del lujo a Argentina: Reconocida joyería internacional redefine el mercado premium",
-      "resumen": "Joyería internacional de lujo abre operaciones en Argentina con enfoque en mercado premium",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/el-regreso-del-lujo-a-argentina-reconocida-joyeria-internacional-redefine-el-mercado-premium/",
-      "fecha": "2026-04-25"
-    },
-    {
-      "titulo": "El mercado inmobiliario corporativo muestra señales dispares en oficinas e industrial",
-      "resumen": "Análisis del mercado inmobiliario corporativo argentino con proyecciones en oficinas e industrial",
-      "sector": "oficinas",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://mercado.com.ar/ladrillos-y-proyectos/el-mercado-inmobiliario-corporativo-muestra-senales-dispares-en-oficinas-e-industrial",
-      "fecha": "2026-05-01"
-    },
-    {
-      "titulo": "Un supermercado presenta nueva campaña promocional",
-      "resumen": "Cadena de supermercados lanza iniciativa de expansión y modernización con nuevas promociones en sus sucursales.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.perfil.com/noticias/economia/su-supermercado-lanza-dale-mas-pelota-esta-promo-premios-por-hora-y-regalos-directos-a35.phtml",
-      "fecha": "2026-03-15"
-    },
-    {
-      "titulo": "Crisis en PAMI Marcos Juárez: tras el conflicto con el Sanatorio Sudeste",
-      "resumen": "Sanatorio privado en Córdoba anuncia cambios operativos y ampliación de infraestructura para servicios de salud.",
-      "sector": "salud",
-      "provincia": "Córdoba",
-      "relevancia": 6,
-      "url": "https://www.perfil.com/noticias/cordoba/crisis-en-pami-marcos-juarez-tras-el-conflicto-con-el-sanatorio-sudeste-anuncian-como-sera-la-nueva-atencion-desde-abril.phtml",
-      "fecha": "2026-04-01"
-    },
-    {
-      "titulo": "Las clínicas están al límite: advierten riesgo de cierres por la deuda y los cambios del PAMI en Córdoba",
-      "resumen": "Clínicas privadas en Córdoba evalúan inversiones y reestructuraciones operativas frente a cambios en sistema de financiamiento.",
-      "sector": "salud",
-      "provincia": "Córdoba",
-      "relevancia": 6,
-      "url": "https://www.perfil.com/noticias/cordoba/las-clinicas-estan-al-limite-advierten-riesgo-de-cierres-por-la-deuda-y-los-cambios-del-pami-en-cordoba.phtml",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "El ambicioso plan de Starbucks para crecer en el negocio del café en Argentina",
-      "resumen": "Starbucks acelera su expansión física con nuevas sucursales en Argentina.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/negocios/449788-el-ambicioso-plan-de-starbucks-para-crecer-en-el-negocio-del-cafe-en-argentina",
-      "fecha": "2026-04-15"
     }
   ]
 }
