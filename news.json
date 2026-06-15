@@ -1,6 +1,24 @@
 {
-  "generado": "2026-06-12T12:54:49.568Z",
+  "generado": "2026-06-15T15:47:18.493Z",
   "noticias": [
+    {
+      "titulo": "H&M confirmó su llegada a la Argentina: abrirá su primera tienda en 2027",
+      "resumen": "La cadena internacional de retail H&M abrirá su primer local físico en Argentina durante 2027.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.ambito.com/negocios/hm-confirmo-su-llegada-la-argentina-abrira-su-primera-tienda-2027-n6270634",
+      "fecha": "2026-06-15"
+    },
+    {
+      "titulo": "Cómo es el nuevo centro médico inaugurado en Recoleta que atenderá a más de 40.000 pacientes por mes",
+      "resumen": "Se inauguró un nuevo centro médico en Recoleta con capacidad para más de 40.000 pacientes mensuales.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/04/24/como-es-el-nuevo-centro-medico-inaugurado-en-recoleta-que-atendera-a-mas-de-40000-pacientes-por-mes/",
+      "fecha": "2026-04-24"
+    },
     {
       "titulo": "Decathlon inauguró su segunda tienda en Argentina y abrirá 2 sucursales más este año",
       "resumen": "La cadena de retail deportivo Decathlon expande su presencia física en Argentina con nuevas aperturas.",
@@ -882,24 +900,6 @@
       "relevancia": 8,
       "url": "https://www.infobae.com/economia/2026/04/11/ola-de-arribo-de-marcas-a-la-argentina-de-lujo-pero-tambien-para-bolsillos-menos-profundos/",
       "fecha": "2026-04-11"
-    },
-    {
-      "titulo": "Nafta y gasoil: las rebajas de hasta 30% que dan YPF, Shell, Axion y Puma en mayo 2026",
-      "resumen": "Grandes cadenas de estaciones de servicio implementan promociones en sus locales.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-30-dan-ypf-shell-axion-puma-mayo-2026_0_h0yjitYzRm.html",
-      "fecha": "2026-05-01"
-    },
-    {
-      "titulo": "McDonald's abrirá su décimo local en Mendoza y empleará a 40 nuevos talentos",
-      "resumen": "McDonald's expande su presencia en Argentina con apertura de nuevo local en Mendoza",
-      "sector": "gastronomia",
-      "provincia": "Mendoza",
-      "relevancia": 9,
-      "url": "https://www.losandes.com.ar/empresas-y-negocios/mcdonalds-abrira-su-decimo-local-mendoza-y-empleara-40-nuevos-talentos-n5990266",
-      "fecha": "2026-04-28"
     }
   ]
 }
