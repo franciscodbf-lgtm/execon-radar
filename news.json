@@ -1,6 +1,69 @@
 {
-  "generado": "2026-06-15T15:47:18.493Z",
+  "generado": "2026-06-17T13:42:22.215Z",
   "noticias": [
+    {
+      "titulo": "Adidas sigue apostando en Argentina y abrió una nueva sucursal en el interior del país",
+      "resumen": "Adidas inaugura nueva sucursal retail en el interior de Argentina como parte de su expansión física en el país.",
+      "sector": "retail",
+      "provincia": "Interior",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/454457-adidas-sigue-apostando-en-argentina-y-abrio-una-nueva-sucursal-en-el-interior-del-pais",
+      "fecha": "2026-05-15"
+    },
+    {
+      "titulo": "El dueño de The Food Truck Store invierte más de u$s 200.000 en una nueva marca para competir en el boom hamburguesero",
+      "resumen": "Inversor argentino destina más de USD 200.000 para construir y lanzar nueva marca de gastronomía en Argentina.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.cronista.com/negocios/el-dueno-de-the-food-truck-store-invierte-mas-de-us-200000-en-una-nueva-marca-para-competir-en-el-boom-hamburguesero/",
+      "fecha": "2026-05-10"
+    },
+    {
+      "titulo": "Estaciones de servicio YPF y Shell cambiarán para siempre por medida de Sturzenegger",
+      "resumen": "YPF y Shell realizarán transformaciones físicas en sus estaciones de servicio por nueva política gubernamental.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.iprofesional.com/politica/454645-estaciones-servicio-ypf-y-shell-cambiaran-para-siempre-por-medida-de-federico-sturzenegger",
+      "fecha": "2026-05-25"
+    },
+    {
+      "titulo": "En qué estación es más barato cargar nafta súper y premium: ¿YPF, Shell, Axion o Puma?",
+      "resumen": "Análisis de presencia y expansion de cadenas de estaciones de servicio en Argentina: YPF, Shell, Axion y Puma.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.iprofesional.com/energia/454796-en-que-estacion-de-servicio-es-mas-barato-cargar-nafta-super-y-premium-tras-suba-de-ypf",
+      "fecha": "2026-05-20"
+    },
+    {
+      "titulo": "El Gobierno de la Ciudad cubrirá los gastos del Hospital de Clínicas ante la falta de financiamiento",
+      "resumen": "Inversión pública en infraestructura del Hospital de Clínicas, importante institución de salud en Buenos Aires.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://www.infobae.com/politica/2026/05/20/el-gobierno-porteno-financiara-al-hospital-de-clinicas-ante-el-reclamo-por-la-falta-de-financiamiento/",
+      "fecha": "2026-05-20"
+    },
+    {
+      "titulo": "Los proyectos presentados en el RIGI ya suman USD 95.000 millones: uno por uno, cuáles son",
+      "resumen": "Proyectos de inversión y construcción en Argentina bajo el régimen RIGI superan los USD 95.000 millones.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/04/24/los-proyectos-presentados-en-el-rigi-ya-suman-usd-95000-millones-uno-por-uno-cuales-son/",
+      "fecha": "2026-04-24"
+    },
+    {
+      "titulo": "Lionel Messi construye un imperio con ingresos de 1000 millones de dólares: estos son todos sus negocios",
+      "resumen": "Messi desarrolla negocios y emprendimientos físicos en Argentina con inversiones en múltiples sectores.",
+      "sector": "otros",
+      "provincia": "Buenos Aires",
+      "relevancia": 6,
+      "url": "https://www.cronista.com/espana/economia-finanzas/lionel-messi-construye-un-imperio-con-ingresos-de-1000-millones-de-dolares-estos-son-todos-sus-negocios-fuera-del-futbol-con-inversiones-y-empresas-clave/",
+      "fecha": "2026-05-12"
+    },
     {
       "titulo": "H&M confirmó su llegada a la Argentina: abrirá su primera tienda en 2027",
       "resumen": "La cadena internacional de retail H&M abrirá su primer local físico en Argentina durante 2027.",
@@ -836,69 +899,6 @@
       "provincia": "Nacional",
       "relevancia": 9,
       "url": "https://www.iprofesional.com/negocios/452994-desembarco-masivo-de-marcas-europeas-y-asiaticas-en-argentina-transforma-los-shoppings",
-      "fecha": "2026-04-11"
-    },
-    {
-      "titulo": "Indian apuesta a los shoppings: abre un megalocal en Unicenter",
-      "resumen": "Marca de retail Indian inaugura un gran local en el shopping Unicenter de Buenos Aires.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://www.forbesargentina.com/negocios/indian-apuesta-shoppings-abre-megalocal-unicenter-n88999",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "La cadena de ropa sueca H&M pone el foco en la Argentina y negocia abrir locales en distintos shoppings porteños",
-      "resumen": "H&M, cadena internacional de ropa, negocia la apertura de múltiples locales en shoppings de Buenos Aires.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/economia/2026/04/10/la-cadena-de-ropa-sueca-hm-pone-el-foco-en-la-argentina-y-negocia-abrir-locales-en-distintos-shoppings-portenos/",
-      "fecha": "2026-04-10"
-    },
-    {
-      "titulo": "Una reconocida marca internacional de ropa de lujo abrirá su primer local en la Argentina",
-      "resumen": "Marca internacional de lujo ingresa al mercado argentino con la apertura de su primer local físico.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/economia/2026/05/07/una-reconocida-marca-internacional-de-ropa-de-lujo-abrira-su-primer-local-en-la-argentina/",
-      "fecha": "2026-05-07"
-    },
-    {
-      "titulo": "Una histórica marca de lujo y reconocida a nivel mundial, que vistió a Messi, llegará pronto a la Argentina",
-      "resumen": "Marca histórica de lujo internacional se prepara para abrir sus primeros locales en Argentina.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://www.lmneuquen.com/pais/una-historica-marca-lujo-y-reconocida-nivel-mundial-que-vistio-messi-llegara-pronto-la-argentina-n1237921",
-      "fecha": "2026-05-01"
-    },
-    {
-      "titulo": "Una inversión millonaria impulsa la industria automotriz",
-      "resumen": "Inversión significativa en el sector industrial automotriz con obras de expansión en Argentina.",
-      "sector": "industrial",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/inhouse/2026/05/05/una-inversion-millonaria-impulsa-la-industria-automotriz/",
-      "fecha": "2026-05-05"
-    },
-    {
-      "titulo": "Del hormigón al acero: el cambio que impacta en la logística de obra",
-      "resumen": "Cambios en sistemas constructivos que afectan la logística de proyectos de obra en Argentina.",
-      "sector": "logistica",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.infobae.com/movant/2026/04/28/del-hormigon-al-acero-el-cambio-que-impacta-en-la-logistica-de-obra/",
-      "fecha": "2026-04-28"
-    },
-    {
-      "titulo": "Ola de arribos de marcas a la Argentina: de lujo, pero también para bolsillos menos profundos",
-      "resumen": "Múltiples marcas internacionales tanto de lujo como accesibles abren locales físicos en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/economia/2026/04/11/ola-de-arribo-de-marcas-a-la-argentina-de-lujo-pero-tambien-para-bolsillos-menos-profundos/",
       "fecha": "2026-04-11"
     }
   ]
