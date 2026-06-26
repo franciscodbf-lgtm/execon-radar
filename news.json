@@ -1,6 +1,87 @@
 {
-  "generado": "2026-06-17T13:42:22.215Z",
+  "generado": "2026-06-26T12:12:15.328Z",
   "noticias": [
+    {
+      "titulo": "McDonald's abre nueva sucursal en Argentina y busca 80 empleados",
+      "resumen": "Expansión física de McDonald's en ciudad argentina con apertura de nuevo local.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/management/455259-en-que-ciudad-argentina-abre-mcdonalds-y-busca-80-jovenes-para-trabajar",
+      "fecha": "2026-06-11"
+    },
+    {
+      "titulo": "Núñez se convierte en nuevo hub de oficinas corporativas",
+      "resumen": "Desarrollo de zona de oficinas en Núñez como hub corporativo para empresas en Argentina.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.forbesargentina.com/negocios/nunez-convierte-nuevo-hub-oficinas-mapa-corporativo-miran-empresas-n91591",
+      "fecha": "2026-06-10"
+    },
+    {
+      "titulo": "Apertura de sanatorio impulsa salud de alta complejidad en la Patagonia",
+      "resumen": "Inauguración de sanatorio privado de alta complejidad en región patagónica argentina.",
+      "sector": "salud",
+      "provincia": "Patagonia",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/inhouse/2026/06/08/la-apertura-de-un-sanatorio-impulsa-la-salud-de-alta-complejidad-en-la-patagonia/",
+      "fecha": "2026-06-08"
+    },
+    {
+      "titulo": "Gigante de electrodomésticos cierra sucursales en el interior",
+      "resumen": "Retracción de cadena retail de electrodomésticos con cierre de locales en provincias argentinas.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.iprofesional.com/negocios/454352-gigante-de-la-venta-de-electrodomesticos-cierra-mas-sucursales-y-se-achica-en-el-interior",
+      "fecha": "2026-06-05"
+    },
+    {
+      "titulo": "Desarrollos inmobiliarios de Edisur diversifican inversión",
+      "resumen": "Tres nuevos desarrollos inmobiliarios de Edisur para expansión de inversión en Argentina.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.lavoz.com.ar/espacio-de-marca/desarrollos-edisur-diversificar-inversion-inmobiliaria_0_LtvVfBS34Q.html",
+      "fecha": "2026-06-03"
+    },
+    {
+      "titulo": "Sanatorio porteño cierra áreas de obstetricia y neonatología",
+      "resumen": "Restructuración de sanatorio privado en Buenos Aires con cierre de servicios médicos especializados.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 6,
+      "url": "https://www.lavoz.com.ar/ciudadanos/caida-demanda-sanatorio-porteno-cerro-areas-obstetricia-neonatologia_0_UXOQwKCih5.html",
+      "fecha": "2026-05-30"
+    },
+    {
+      "titulo": "Clínica ilegal allanada en González Catán operaba sin habilitación",
+      "resumen": "Clausura de instalación médica irregular con operación de farmacia y ambulancias en provincia de Buenos Aires.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 5,
+      "url": "https://tn.com.ar/policiales/2026/05/19/allanen-una-clinica-de-gonzalez-catan-en-la-que-operaba-una-red-de-falsos-medicos-hay-cinco-detenidos/",
+      "fecha": "2026-05-19"
+    },
+    {
+      "titulo": "YPF estructura operativa de estaciones de servicio",
+      "resumen": "Información sobre estructura salarial y operación de estaciones YPF en Argentina.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 4,
+      "url": "https://www.iprofesional.com/management/453630-cuanto-cobra-un-playero-de-ypf-en-mayo-2026",
+      "fecha": "2026-06-01"
+    },
+    {
+      "titulo": "Hospitales universitarios en riesgo por falta de financiamiento",
+      "resumen": "Situación crítica de infraestructura sanitaria universitaria en Argentina por restricciones presupuestarias.",
+      "sector": "salud",
+      "provincia": "Nacional",
+      "relevancia": 5,
+      "url": "https://www.infobae.com/politica/2026/05/04/la-uba-alerto-que-los-hospitales-universitarios-podrian-dejar-de-funcionar-por-falta-de-financiamiento",
+      "fecha": "2026-05-04"
+    },
     {
       "titulo": "Adidas sigue apostando en Argentina y abrió una nueva sucursal en el interior del país",
       "resumen": "Adidas inaugura nueva sucursal retail en el interior de Argentina como parte de su expansión física en el país.",
@@ -819,87 +900,6 @@
       "relevancia": 8,
       "url": "https://www.0223.com.ar/nota/2026-3-23-9-37-0-ni-zara-ni-h-m-la-famosa-marca-francesa-que-llega-a-la-argentina-y-abrira-6-locales-en-todo-el-pais",
       "fecha": "2026-03-23"
-    },
-    {
-      "titulo": "Mango regresa a Argentina: Grimoldi lidera su ambiciosa vuelta",
-      "resumen": "La marca internacional Mango regresa a Argentina con una estrategia de expansión física liderada por Grimoldi.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/mango-regresa-a-argentina-grimoldi-lidera-su-ambiciosa-vuelta/",
-      "fecha": "2026-03-31"
-    },
-    {
-      "titulo": "El mayor banco de inversión de Brasil activa su plan de expansión en Argentina",
-      "resumen": "Mayor banco de inversión brasileño activa su plan de expansión de infraestructura y operaciones en Argentina.",
-      "sector": "banco",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.iprofesional.com/negocios/454490-el-mayor-banco-de-inversion-de-brasil-activa-su-plan-de-expansion-en-argentina.amp",
-      "fecha": "2026-05-08"
-    },
-    {
-      "titulo": "MINISO llega al país y pone primera con locales en el DOT y la calle Florida",
-      "resumen": "Miniso inaugura sus primeros locales en ubicaciones estratégicas de Buenos Aires como inicio de expansión en Argentina.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 7,
-      "url": "https://www.ambito.com/negocios/miniso-llega-al-pais-y-pone-primera-locales-el-dot-y-la-calle-florida-n6257439",
-      "fecha": "2026-03-31"
-    },
-    {
-      "titulo": "Messi sorprendió con una millonaria inversión a solo un mes de arrancar el Mundial 2026",
-      "resumen": "Lionel Messi realiza inversión en infraestructura y bienes raíces en Argentina como parte de su diversificación empresarial.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.iprofesional.com/negocios/454654-lionel-messi-sorprendio-millonaria-inversion-a-solo-un-mes-de-mundial-2026",
-      "fecha": "2026-05-12"
-    },
-    {
-      "titulo": "AmCham Summit 2026: con la presencia de Milei y Caputo, las empresas de EEUU en el país realizan su tradicional cumbre de negocios",
-      "resumen": "Empresas estadounidenses presentan planes de inversión y expansión física en Argentina durante cumbre de AmCham.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.infobae.com/economia/2026/04/14/amcham-summit-2026-con-la-presencia-de-milei-y-caputo-las-empresas-de-eeuu-en-el-pais-realizan-su-tradicional-cumbre-de-negocios/",
-      "fecha": "2026-04-14"
-    },
-    {
-      "titulo": "Expo EFI 2026: qué se dijo sobre consumo masivo en el principal evento económico de Argentina",
-      "resumen": "Principales empresas de consumo masivo, retail y gastronomía presentan planes de expansión física en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.perfil.com/noticias/empresas-y-protagonistas/expo-efi-2026-que-se-dijo-sobre-consumo-masivo-en-el-principal-evento-economico-de-argentina.phtml",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Santiago Mignone sigue al frente de IDEA con ejecutivos de Mercado Libre, Techint, Bayer y Telecom",
-      "resumen": "Empresas líderes de construcción, industrial y tecnología coordinan estrategias de inversión e infraestructura en Argentina.",
-      "sector": "industrial",
-      "provincia": "Nacional",
-      "relevancia": 5,
-      "url": "https://infonegocios.info/infogerentes/santiago-mignone-sigue-al-frente-de-idea-suman-ejecutivos-de-mercado-libre-techint-bayer-y-telecom-al-directorio",
-      "fecha": "2026-04-14"
-    },
-    {
-      "titulo": "Con una inversión de US$ 300.000, Dean & Dennys abre su segundo local en Córdoba",
-      "resumen": "Cadena gastronómica Dean & Dennys invierte US$300.000 en la apertura de su segundo local en Córdoba con planes de expansión.",
-      "sector": "gastronomia",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://infonegocios.info/nota-principal/con-una-inversion-de-us-300-000-dean-dennys-abre-su-segundo-local-en-cordoba-y-va-por-mas-nueva-cordoba-y-otro-spot-en-definicion",
-      "fecha": "2026-03-15"
-    },
-    {
-      "titulo": "Desembarco masivo de marcas europeas y asiáticas en Argentina transforma los shoppings",
-      "resumen": "Múltiples marcas internacionales llegan a Argentina y abren locales en shoppings del país.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/negocios/452994-desembarco-masivo-de-marcas-europeas-y-asiaticas-en-argentina-transforma-los-shoppings",
-      "fecha": "2026-04-11"
     }
   ]
 }
