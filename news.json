@@ -1,6 +1,15 @@
 {
-  "generado": "2026-06-26T12:12:15.328Z",
+  "generado": "2026-06-29T14:05:16.371Z",
   "noticias": [
+    {
+      "titulo": "McDonald's se expande en Mendoza con la apertura de su décimo local",
+      "resumen": "McDonald's abre nuevo local en Mendoza, continuando su expansión física en Argentina.",
+      "sector": "gastronomia",
+      "provincia": "Mendoza",
+      "relevancia": 9,
+      "url": "https://mendoza24.com.ar/negocios_empresas/31200-McDonald's-se-expande-en-Mendoza-con-la-apertura-de-su-decimo-local%C2%A0",
+      "fecha": "2026-06-09"
+    },
     {
       "titulo": "McDonald's abre nueva sucursal en Argentina y busca 80 empleados",
       "resumen": "Expansión física de McDonald's en ciudad argentina con apertura de nuevo local.",
@@ -891,15 +900,6 @@
       "relevancia": 9,
       "url": "https://www.pilaradiario.com/informacion-general/el-gigante-chino-miniso-llega-al-pais-planea-abrir-100-tiendas-cinco-anos-n5468533",
       "fecha": "2026-03-31"
-    },
-    {
-      "titulo": "Ni Zara ni H&M: la famosa marca francesa que llega a la Argentina y abrirá 6 locales en todo el país",
-      "resumen": "Marca francesa de retail abre 6 locales en Argentina como parte de su estrategia de expansión en el país.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.0223.com.ar/nota/2026-3-23-9-37-0-ni-zara-ni-h-m-la-famosa-marca-francesa-que-llega-a-la-argentina-y-abrira-6-locales-en-todo-el-pais",
-      "fecha": "2026-03-23"
     }
   ]
 }
