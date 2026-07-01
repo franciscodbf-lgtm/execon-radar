@@ -1,6 +1,87 @@
 {
-  "generado": "2026-06-29T14:05:16.371Z",
+  "generado": "2026-07-01T12:34:15.192Z",
   "noticias": [
+    {
+      "titulo": "McDonald's se expande en Mendoza con la apertura de su décimo local",
+      "resumen": "McDonald's abre su décimo local en Mendoza, expandiendo su presencia física en la provincia.",
+      "sector": "gastronomia",
+      "provincia": "Mendoza",
+      "relevancia": 9,
+      "url": "https://mendoza24.com.ar/negocios_empresas/31200-McDonald%E2%80%99s-se-expande-en-Mendoza-con-la-apertura-de-su-decimo-local%C2%A0",
+      "fecha": "2026-06-12"
+    },
+    {
+      "titulo": "Galeno inauguró un Sanatorio de la Trinidad en Neuquén",
+      "resumen": "Grupo Galeno inaugura un nuevo sanatorio en Neuquén, expandiendo su red de salud privada.",
+      "sector": "salud",
+      "provincia": "Neuquén",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/networking/2026/06/04/galeno-inauguro-un-sanatorio-de-la-trinidad-en-neuquen/",
+      "fecha": "2026-06-04"
+    },
+    {
+      "titulo": "Grupo GEA expande su red con un Servicio de Cardiología y Hemodinamia en el Hospital Militar Regional Córdoba",
+      "resumen": "Grupo GEA expande servicios médicos con nueva unidad de Cardiología en Córdoba.",
+      "sector": "salud",
+      "provincia": "Córdoba",
+      "relevancia": 8,
+      "url": "https://puntoapunto.com.ar/grupo-gea-expande-su-red-con-un-servicio-de-cardiologia-y-hemodinamia-en-el-hospital-militar-regional-cordoba",
+      "fecha": "2026-06-10"
+    },
+    {
+      "titulo": "Reforman el shopping más antiguo del país: así será el proyecto que incorporará una clínica, un vacunatorio y más gastronomía",
+      "resumen": "Reforma integral del shopping más antiguo de Argentina con incorporación de clínica, vacunatorio y espacios gastronómicos.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 10,
+      "url": "https://www.infobae.com/economia/2026/06/01/reforman-el-shopping-mas-antiguo-del-pais-asi-sera-el-proyecto-que-incorporara-una-clinica-un-vacunatorio-y-mas-gastronomia/",
+      "fecha": "2026-06-01"
+    },
+    {
+      "titulo": "Otra marca internacional llega a la Argentina: abrirá en un importante shopping porteño",
+      "resumen": "Marca internacional anuncia apertura de local en importante shopping de Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.cronista.com/negocios/otra-marca-internacional-llega-a-la-argentina-abrira-en-un-importante-shopping-porteno/",
+      "fecha": "2026-06-12"
+    },
+    {
+      "titulo": "Argentina frente a la oportunidad histórica: la IA impulsa inversiones en infraestructura digital",
+      "resumen": "Inversión en infraestructura de centros de datos en Argentina impulsada por demanda de IA.",
+      "sector": "industrial",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://fortuna.perfil.com/noticias/tecnologia/argentina-frente-a-la-oportunidad-historica-la-ia-impulsa-inversiones-en-infraestructura-digital.phtml",
+      "fecha": "2026-06-12"
+    },
+    {
+      "titulo": "El Banco Central quedó al borde de completar su meta de compra de dólares para 2026",
+      "resumen": "Banco Central Argentina avanza en cumplimiento de metas de compra de divisas.",
+      "sector": "banco",
+      "provincia": "Buenos Aires",
+      "relevancia": 6,
+      "url": "https://www.perfil.com/noticias/economia/el-banco-central-quedo-al-borde-de-completar-su-meta-de-compra-de-dolares-para-2026.phtml",
+      "fecha": "2026-06-12"
+    },
+    {
+      "titulo": "Se resiente la atención de Ioma en Mar del Plata: cortó el convenio con una clínica privada",
+      "resumen": "IOMA suspende convenio con clínica privada en Mar del Plata, afectando prestaciones de salud.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 5,
+      "url": "https://www.0223.com.ar/nota/2026-5-6-20-56-0-se-resiente-la-atencion-de-ioma-en-mar-del-plata-corto-el-convenio-con-una-clinica-privada",
+      "fecha": "2026-05-06"
+    },
+    {
+      "titulo": "Los 11 países de Latinoamérica más complejos para hacer negocios en 2026, según TMF",
+      "resumen": "Análisis de complejidad regulatoria en Latinoamérica incluye evaluación del contexto empresarial argentino.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 5,
+      "url": "https://www.bloomberglinea.com/negocios/los-11-paises-de-latinoamerica-mas-complejos-para-hacer-negocios-en-2026-segun-tmf/",
+      "fecha": "2026-06-12"
+    },
     {
       "titulo": "McDonald's se expande en Mendoza con la apertura de su décimo local",
       "resumen": "McDonald's abre nuevo local en Mendoza, continuando su expansión física en Argentina.",
@@ -819,87 +900,6 @@
       "relevancia": 9,
       "url": "https://www.forbesargentina.com/negocios/inversores-ven-oportunidades-oficinas-buenos-aires-buscan-espacios-mas-inteligentes-n88166",
       "fecha": "2026-04-08"
-    },
-    {
-      "titulo": "Adidas refuerza su expansión en Rosario con una nueva tienda",
-      "resumen": "Adidas abre una nueva tienda física en Rosario como parte de su estrategia de expansión en Argentina.",
-      "sector": "retail",
-      "provincia": "Santa Fe",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/adidas-refuerza-su-expansion-en-rosario-con-una-nueva-tienda/",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "HONOR acelera su expansión en Argentina con su primera tienda física",
-      "resumen": "HONOR inaugura su primera tienda física en Argentina como parte de su plan de expansión retail.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/honor-acelera-su-expansion-en-argentina-con-su-primera-tienda-fisica/",
-      "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "Marriott desembarca en Rosario con un innovador formato hotelero",
-      "resumen": "Marriott inaugura un nuevo hotel en Rosario con un formato hotelero innovador.",
-      "sector": "otros",
-      "provincia": "Santa Fe",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/marriott-desembarca-en-rosario-con-un-innovador-formato-hotelero/",
-      "fecha": "2026-04-18"
-    },
-    {
-      "titulo": "Llega a la Argentina una marca de lencería italiana que busca competir con Victoria's Secret",
-      "resumen": "Una marca de lencería italiana abre sus primeras tiendas físicas en Argentina.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 7,
-      "url": "https://www.forbesargentina.com/negocios/llega-argentina-una-marca-lenceria-italiana-busca-competir-victorias-secret-n89545",
-      "fecha": "2026-04-25"
-    },
-    {
-      "titulo": "El desembarco de Dolce & Gabbana en Argentina: lujo internacional",
-      "resumen": "Dolce & Gabbana abre tiendas físicas en Argentina como parte de su expansión en Latinoamérica.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 7,
-      "url": "https://americaretail-malls.com/paises/argentina/el-desembarco-de-dolce-gabbana-en-argentina-lujo-internacional/",
-      "fecha": "2026-04-22"
-    },
-    {
-      "titulo": "Grupo Leuru apuesta por marcas internacionales y planea duplicar su red en Argentina",
-      "resumen": "Grupo Leuru anuncia planes de expansión para duplicar su red de tiendas de marcas internacionales en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/grupo-leuru-apuesta-por-marcas-internacionales-y-planea-duplicar-su-red-en-argentina/",
-      "fecha": "2026-04-19"
-    },
-    {
-      "titulo": "Importar a tiempo: el desafío logístico detrás de los sistemas que nadie ve",
-      "resumen": "Análisis de la infraestructura logística y sistemas de importación en Argentina para la operación de empresas.",
-      "sector": "logistica",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.infobae.com/movant/2026/04/20/importar-a-tiempo-el-desafio-logistico-detras-de-los-sistemas-que-nadie-ve/",
-      "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "AmCham Summit 2026: la sustentabilidad marca el nuevo horizonte de crecimiento para Argentina",
-      "resumen": "Cumbre empresarial que analiza oportunidades de inversión y expansión física de empresas en Argentina con enfoque sustentable.",
-      "sector": "otros",
-      "provincia": "Buenos Aires",
-      "relevancia": 7,
-      "url": "https://www.infobae.com/america/ciencia-america/2026/04/14/amcham-summit-2026-la-sustentabilidad-marca-el-nuevo-horizonte-de-crecimiento-para-argentina/",
-      "fecha": "2026-04-14"
-    },
-    {
-      "titulo": "El gigante chino Miniso llega al país: planea abrir 100 tiendas en cinco años",
-      "resumen": "Miniso, retailer chino, planea expandir su presencia física con 100 nuevas tiendas en Argentina durante los próximos cinco años.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.pilaradiario.com/informacion-general/el-gigante-chino-miniso-llega-al-pais-planea-abrir-100-tiendas-cinco-anos-n5468533",
-      "fecha": "2026-03-31"
     }
   ]
 }
