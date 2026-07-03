@@ -1,6 +1,60 @@
 {
-  "generado": "2026-07-01T12:34:15.192Z",
+  "generado": "2026-07-03T12:09:53.140Z",
   "noticias": [
+    {
+      "titulo": "Baires Grill reunió a famosos y figuras en Miami para presentar su llegada a Buenos Aires",
+      "resumen": "Cadena gastronómica argentina abre nuevo restaurante en Buenos Aires.",
+      "sector": "gastronomia",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/tendencias/2026/07/03/baires-grill-reunio-a-famosos-y-figuras-en-miami-para-presentar-su-llegada-a-buenos-aires/",
+      "fecha": "2026-07-03"
+    },
+    {
+      "titulo": "McDonald's abrió un nuevo local en Mendoza: dónde está el décimo restaurante de la provincia",
+      "resumen": "Cadena internacional McDonald's inaugura su décimo local en Mendoza.",
+      "sector": "gastronomia",
+      "provincia": "Mendoza",
+      "relevancia": 9,
+      "url": "https://fortuna.perfil.com/noticias/negocios/mcdonalds-abrio-un-nuevo-local-en-mendoza-donde-esta-el-decimo-restaurante-de-la-provincia.phtml",
+      "fecha": "2026-06-15"
+    },
+    {
+      "titulo": "Miniso acelera su expansión en la Argentina: abrió su segunda tienda y avanza con un plan de US$50 millones",
+      "resumen": "Miniso abre segunda tienda en Argentina e invierte US$50 millones en expansión retail.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.lanacion.com.ar/economia/negocios/miniso-acelera-su-expansion-en-la-argentina-abrio-su-segunda-tienda-y-avanza-con-un-plan-de-us50-nid28052026/",
+      "fecha": "2026-05-20"
+    },
+    {
+      "titulo": "Nike fortalece su expansión comercial con una nueva inversión estratégica en la Patagonia Argentina",
+      "resumen": "Nike invierte en nueva ubicación comercial en la Patagonia Argentina.",
+      "sector": "retail",
+      "provincia": "Patagonia",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/nike-fortalece-su-expansion-comercial-con-una-nueva-inversion-estrategica-en-la-patagonia-argentina/",
+      "fecha": "2026-06-01"
+    },
+    {
+      "titulo": "Llega una marca internacional a Mar del Plata con un local enorme en Bendu",
+      "resumen": "Marca internacional abre local de grandes dimensiones en centro comercial Bendu de Mar del Plata.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.0223.com.ar/nota/2026-5-19-10-19-0-llega-una-marca-internacional-a-mar-del-plata-con-un-local-enorme-en-bendu",
+      "fecha": "2026-05-19"
+    },
+    {
+      "titulo": "Econovo invierte US$ 20 millones: expande su planta en Oncativo y diseña equipos para Europa",
+      "resumen": "Econovo invierte US$20 millones para expandir su planta industrial en Oncativo, Córdoba.",
+      "sector": "industrial",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.perfil.com/noticias/cordoba/econovo-invierte-us-20-millones-expande-su-planta-en-oncativo-y-disena-equipos-para-europa.phtml",
+      "fecha": "2026-07-01"
+    },
     {
       "titulo": "McDonald's se expande en Mendoza con la apertura de su décimo local",
       "resumen": "McDonald's abre su décimo local en Mendoza, expandiendo su presencia física en la provincia.",
@@ -846,60 +900,6 @@
       "relevancia": 9,
       "url": "https://www.iprofesional.com/realestate/451048-mercado-libre-edificio-millonario-saavedra-como-sera-cambia-inversion",
       "fecha": "2026-04-10"
-    },
-    {
-      "titulo": "Alcorta Shopping refuerza su perfil premium con la llegada de marcas internacionales",
-      "resumen": "Centro comercial Alcorta Shopping expande su infraestructura retail con nuevas marcas internacionales de lujo.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/alcorta-shopping-refuerza-su-perfil-premium-con-la-llegada-de-marcas-internacionales/",
-      "fecha": "2026-04-05"
-    },
-    {
-      "titulo": "Pese a la caída del consumo interno, marcas internacionales llegan a la Argentina con planes de largo plazo",
-      "resumen": "Múltiples marcas internacionales desembarcan en Argentina con inversiones en construcción y apertura de comercios físicos.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/economia/2026/05/02/el-desembarco-de-marcas-internacionales-se-acelera-pese-a-la-caida-del-consumo-interno/",
-      "fecha": "2026-05-02"
-    },
-    {
-      "titulo": "Marca francesa de ropa low cost desembarca en Argentina con indumentaria a precios bajos",
-      "resumen": "Kiabi abre nuevas tiendas en Argentina expandiendo su presencia retail en el mercado local.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.iprofesional.com/actualidad/451833-kiabi-desembarca-argentina-indumentaria-accesible-toda-familia-precios-bajos",
-      "fecha": "2026-04-28"
-    },
-    {
-      "titulo": "Gigante español desembarca en Argentina con una millonaria inversión en cerdos",
-      "resumen": "Empresa española realiza inversión en infraestructura industrial para producción ganadera en Argentina.",
-      "sector": "industrial",
-      "provincia": "Neuquén",
-      "relevancia": 8,
-      "url": "https://masp.lmneuquen.com/ganaderia/gigante-espanol-desembarca-argentina-una-millonaria-inversion-cerdos-n1238822",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Cerró la única clínica privada de Marcos Juárez que atiende Pami",
-      "resumen": "Clínica privada de salud en Marcos Juárez cierra operaciones, reduciendo infraestructura sanitaria local.",
-      "sector": "salud",
-      "provincia": "Córdoba",
-      "relevancia": 6,
-      "url": "https://www.lavoz.com.ar/ciudadanos/cerro-unica-clinica-privada-marcos-juarez-atiende-pami-nadie-quiere-hacer-cargo_0_Nh3cDDJrxN.html",
-      "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "Inversores ven oportunidades en oficinas de Buenos Aires y buscan espacios más inteligentes",
-      "resumen": "Inversores apuestan por la expansión y modernización de espacios de oficinas corporativas en Buenos Aires.",
-      "sector": "oficinas",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.forbesargentina.com/negocios/inversores-ven-oportunidades-oficinas-buenos-aires-buscan-espacios-mas-inteligentes-n88166",
-      "fecha": "2026-04-08"
     }
   ]
 }
