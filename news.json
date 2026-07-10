@@ -1,6 +1,15 @@
 {
-  "generado": "2026-07-03T12:09:53.140Z",
+  "generado": "2026-07-10T12:25:42.041Z",
   "noticias": [
+    {
+      "titulo": "La principal plaza inmobiliaria de la Patagonia se transforma: una obra de 70.000 m² llega a la zona más poblada de Neuquén capital",
+      "resumen": "Importante proyecto de desarrollo inmobiliario y comercial de 70.000 m² en Neuquén que transformará la principal plaza de la Patagonia.",
+      "sector": "retail",
+      "provincia": "Neuquén",
+      "relevancia": 9,
+      "url": "https://www.rionegro.com.ar/propiedades/la-principal-plaza-inmobiliaria-de-la-patagonia-se-transforma-una-obra-de-70-000-m%C2%B2-llega-a-su-zona-mas-poblada/",
+      "fecha": "2026-07-04"
+    },
     {
       "titulo": "Baires Grill reunió a famosos y figuras en Miami para presentar su llegada a Buenos Aires",
       "resumen": "Cadena gastronómica argentina abre nuevo restaurante en Buenos Aires.",
@@ -891,15 +900,6 @@
       "relevancia": 8,
       "url": "https://americaretail-malls.com/retail-lujo-moda/deportivo/adidas-expande-su-presencia-en-la-patagonia-con-una-nueva-tienda-oficial/",
       "fecha": "2026-03-20"
-    },
-    {
-      "titulo": "Mercado Libre apuesta fuerte con un edificio que transformará Saavedra y el Polo DOT",
-      "resumen": "Mercado Libre construye edificio corporativo millonario en Saavedra para expandir infraestructura de oficinas en Buenos Aires.",
-      "sector": "oficinas",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/realestate/451048-mercado-libre-edificio-millonario-saavedra-como-sera-cambia-inversion",
-      "fecha": "2026-04-10"
     }
   ]
 }
