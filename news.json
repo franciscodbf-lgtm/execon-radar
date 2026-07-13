@@ -1,6 +1,15 @@
 {
-  "generado": "2026-07-10T12:25:42.041Z",
+  "generado": "2026-07-13T12:32:20.604Z",
   "noticias": [
+    {
+      "titulo": "Berto's Milanesa duplicará ingresos y sumará 15 locales en 2027",
+      "resumen": "Cadena gastronómica argentina expandirá su presencia física con 15 nuevos locales.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/paises/espana/bertos-milanesa-duplicara-ingresos-y-sumara-15-locales-en-2027/",
+      "fecha": "2026-06-15"
+    },
     {
       "titulo": "La principal plaza inmobiliaria de la Patagonia se transforma: una obra de 70.000 m² llega a la zona más poblada de Neuquén capital",
       "resumen": "Importante proyecto de desarrollo inmobiliario y comercial de 70.000 m² en Neuquén que transformará la principal plaza de la Patagonia.",
@@ -891,15 +900,6 @@
       "relevancia": 9,
       "url": "https://www.iprofesional.com/negocios/455066-decathlon-cordoba-regala-400-mil-pesos-primeros-clientes.amp",
       "fecha": "2026-03-15"
-    },
-    {
-      "titulo": "Adidas expande su presencia en la Patagonia con una nueva tienda oficial",
-      "resumen": "Adidas inaugura nueva tienda oficial en Patagonia ampliando su red de retail en Argentina.",
-      "sector": "retail",
-      "provincia": "Patagonia",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/retail-lujo-moda/deportivo/adidas-expande-su-presencia-en-la-patagonia-con-una-nueva-tienda-oficial/",
-      "fecha": "2026-03-20"
     }
   ]
 }
