@@ -1,6 +1,78 @@
 {
-  "generado": "2026-07-13T12:32:20.604Z",
+  "generado": "2026-07-15T11:36:31.226Z",
   "noticias": [
+    {
+      "titulo": "La tienda china Furor acelera su expansión: abrirá dos nuevos locales en Unicenter y Alto Palermo",
+      "resumen": "Furor abre dos nuevas sucursales en shoppings porteños como parte de su estrategia de expansión retail en Argentina.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://tn.com.ar/economia/2026/07/07/la-tienda-china-furor-acelera-su-expansion-en-la-argentina-abrira-dos-nuevos-locales-antes-de-fines-de-julio/",
+      "fecha": "2026-07-07"
+    },
+    {
+      "titulo": "Miniso acelera crecimiento en Argentina y apuesta por alcanzar cien tiendas comerciales",
+      "resumen": "Miniso ejecuta plan de expansión agresiva en Argentina con objetivo de llegar a 100 locales comerciales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/paises/argentina/miniso-acelera-crecimiento-en-argentina-y-apuesta-por-alcanzar-cien-tiendas-comerciales/",
+      "fecha": "2026-07-01"
+    },
+    {
+      "titulo": "Puercoespín Store fortalece su crecimiento con renovado espacio comercial y nuevas categorías",
+      "resumen": "Puercoespín Store renueva e expande su espacio comercial con nuevas categorías de productos.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/puercoespin-store-fortalece-su-crecimiento-con-renovado-espacio-comercial-y-nuevas-categorias-exclusivas/",
+      "fecha": "2026-07-01"
+    },
+    {
+      "titulo": "YPF, Shell, Axion y Puma Energy: promociones en estaciones de servicio para julio",
+      "resumen": "Principales operadoras de estaciones de servicio lanzan promociones y reintegros para julio en Argentina.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.0223.com.ar/nota/2026-7-6-13-35-23-como-ahorrar-hasta-30-en-combustibles-promociones-y-reintegros-de-ypf-shell-axion-y-puma",
+      "fecha": "2026-07-06"
+    },
+    {
+      "titulo": "Investigación clínica: oportunidad estratégica para economía del conocimiento en Argentina",
+      "resumen": "Argentina potencia infraestructura de investigación clínica como polo estratégico de desarrollo en salud privada.",
+      "sector": "salud",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.lanacion.com.ar/economia/investigacion-clinica-una-oportunidad-estrategica-para-el-desarrollo-de-la-economia-del-conocimiento-nid19052026/",
+      "fecha": "2026-05-20"
+    },
+    {
+      "titulo": "Grupo de clínicas amplía infraestructura de atención pero enfrenta conflictos tarifarios con PAMI",
+      "resumen": "Red de clínicas privadas expande servicios pero reduce atención de guardia por atraso en aranceles de PAMI.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://www.lanacion.com.ar/economia/un-grupo-de-clinicas-cortara-la-atencion-de-guardia-a-afiliados-al-pami-nid02062026/",
+      "fecha": "2026-06-02"
+    },
+    {
+      "titulo": "Compras digitales de alimentos ganan terreno y transforman el consumo en Latinoamérica",
+      "resumen": "Plataformas de comercio electrónico de alimentos expandem operaciones logísticas en Argentina.",
+      "sector": "logistica",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/compras-digitales-de-alimentos-ganan-terreno-y-transforman-el-consumo-en-latinoamerica/",
+      "fecha": "2026-07-01"
+    },
+    {
+      "titulo": "Mostaza acelera expansión regional fortaleciendo presencia comercial en Paraguay",
+      "resumen": "Cadena gastronómica argentina Mostaza expande operaciones con nuevos locales en la región.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://americaretail-malls.com/paises/uruguay/mostaza-acelera-su-expansion-regional-fortaleciendo-presencia-comercial-y-competitividad-en-paraguay/",
+      "fecha": "2026-07-01"
+    },
     {
       "titulo": "Berto's Milanesa duplicará ingresos y sumará 15 locales en 2027",
       "resumen": "Cadena gastronómica argentina expandirá su presencia física con 15 nuevos locales.",
@@ -828,78 +900,6 @@
       "relevancia": 7,
       "url": "https://www.bloomberglinea.com/mercados/jpmorgan-bofa-y-morgan-stanley-ven-oportunidad-en-america-latina-en-que-acciones-invierten/?outputType=amp",
       "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Nueva tienda de Decathlon en Argentina: donde queda, apertura y promociones con descuentos",
-      "resumen": "Decathlon abre nueva sucursal en Córdoba con inversión en retail deportivo e infraestructura física.",
-      "sector": "retail",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/negocios/455066-decathlon-cordoba-regala-400-mil-pesos-primeros-clientes",
-      "fecha": "2026-03-31"
-    },
-    {
-      "titulo": "Miniso vuelve a Argentina: cuándo abre, qué vende y dónde estarán sus locales",
-      "resumen": "Miniso regresa al mercado argentino con apertura de múltiples locales de retail de productos variados.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/negocios/451320-miniso-vuelve-a-argentina-cuando-abre-que-vende-y-donde-estaran-sus-locales",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Personal renovó su apuesta tecnológica en Córdoba: así será la nueva tienda en Nuevocentro Shopping",
-      "resumen": "Personal renueva y expande su presencia con nueva tienda moderna en shopping de Córdoba.",
-      "sector": "retail",
-      "provincia": "Córdoba",
-      "relevancia": 8,
-      "url": "https://www.lavoz.com.ar/negocios/personal-renovo-apuesta-tecnologica-cordoba-nueva-tienda-nuevocentro-shopping_0_MSwVrOpB92.html",
-      "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "Mercado Libre invertirá US$ 3 millones y abrirá nuevas oficinas en Villa Allende",
-      "resumen": "Mercado Libre invierte en expansión con apertura de nuevas oficinas corporativas en Córdoba.",
-      "sector": "oficinas",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://www.perfil.com/noticias/cordoba/mercado-libre-invertira-us-3-millones-y-abrira-nuevas-oficinas-en-villa-allende.phtml",
-      "fecha": "2026-05-10"
-    },
-    {
-      "titulo": "Salud. Nuevo prestador: los afiliados de Apross podrán atenderse en la clínica privada Humana",
-      "resumen": "Clínica Humana expande su red de prestadores en el sector salud privado en la región.",
-      "sector": "salud",
-      "provincia": "Córdoba",
-      "relevancia": 7,
-      "url": "https://www.lavoz.com.ar/ciudadanos/nuevo-prestador-afiliados-apross-podran-atenderse-clinica-privada-humana_0_bX8PTzrceC.html",
-      "fecha": "2026-05-05"
-    },
-    {
-      "titulo": "Hot Sale 2026: Almundo creció 12% en facturación y concentró ventas en tiendas",
-      "resumen": "Almundo expande su presencia física con nuevas tiendas para concentrar ventas offline en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://mercado.com.ar/negocios/hot-sale-2026-almundo-crecio-12-en-facturacion-y-concentro-ventas-en-tiendas",
-      "fecha": "2026-04-25"
-    },
-    {
-      "titulo": "Optimismo empresarial: el mercado medio argentino sostuvo 64% en el primer trimestre de 2026",
-      "resumen": "Crecimiento del optimismo empresarial con expansiones en el sector de empresas medianas en Argentina.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://mercado.com.ar/tendencias/optimismo-empresarial-el-mercado-medio-argentino-sostuvo-64-en-el-primer-trimestre-de-2026",
-      "fecha": "2026-04-10"
-    },
-    {
-      "titulo": "Nueva tienda de Decathlon en Argentina: donde queda, apertura y promociones con descuentos",
-      "resumen": "Decathlon abre nueva tienda en Córdoba con inversión en retail deportivo e infraestructura comercial.",
-      "sector": "retail",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/negocios/455066-decathlon-cordoba-regala-400-mil-pesos-primeros-clientes.amp",
-      "fecha": "2026-03-15"
     }
   ]
 }
