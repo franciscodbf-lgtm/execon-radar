@@ -1,6 +1,15 @@
 {
-  "generado": "2026-07-15T11:36:31.226Z",
+  "generado": "2026-07-17T11:22:29.218Z",
   "noticias": [
+    {
+      "titulo": "Decathlon en Argentina: Inversión millonaria y 20 tiendas",
+      "resumen": "Decathlon invertirá millones para abrir 20 tiendas de retail deportivo en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://americaretail-malls.com/retail-lujo-moda/moda/decathlon-en-argentina-inversion-millonaria-y-20-tiendas/",
+      "fecha": "2026-07-14"
+    },
     {
       "titulo": "La tienda china Furor acelera su expansión: abrirá dos nuevos locales en Unicenter y Alto Palermo",
       "resumen": "Furor abre dos nuevas sucursales en shoppings porteños como parte de su estrategia de expansión retail en Argentina.",
@@ -891,15 +900,6 @@
       "relevancia": 7,
       "url": "https://www.rionegro.com.ar/energia/ypf-y-santander-lanzan-la-remuneracion-de-saldos-en-cuenta-dentro-de-la-app-ypf-4554853/",
       "fecha": "2026-04-10"
-    },
-    {
-      "titulo": "Banco Santander expande presencia con nuevas sucursales en Argentina",
-      "resumen": "Banco Santander continúa su plan de expansión de sucursales físicas en diferentes regiones de Argentina.",
-      "sector": "banco",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.bloomberglinea.com/mercados/jpmorgan-bofa-y-morgan-stanley-ven-oportunidad-en-america-latina-en-que-acciones-invierten/?outputType=amp",
-      "fecha": "2026-04-15"
     }
   ]
 }
