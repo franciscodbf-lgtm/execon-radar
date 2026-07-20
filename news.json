@@ -1,6 +1,42 @@
 {
-  "generado": "2026-07-17T11:22:29.218Z",
+  "generado": "2026-07-20T12:17:21.260Z",
   "noticias": [
+    {
+      "titulo": "De la mano la dueña de Todomoda, una marca premium brasileña desembarca en Argentina",
+      "resumen": "Marca premium brasileña llega a Argentina con apertura de locales comerciales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/460334-de-la-mano-la-duena-de-todomoda-una-marca-premium-brasilena-desembarca-en-argentina",
+      "fecha": "2026-07-15"
+    },
+    {
+      "titulo": "Otra marca de moda internacional desembarca en la Argentina",
+      "resumen": "Nueva marca de moda internacional abre su primer local en Argentina a fin de mes.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://tn.com.ar/economia/2026/07/17/otra-marca-de-moda-internacional-desembarca-en-la-argentina-abrira-su-primer-local-a-fin-de-mes-y-tendra-remeras-desde-50000/",
+      "fecha": "2026-07-17"
+    },
+    {
+      "titulo": "Para el mayor dueño de shoppings del país, las marcas extranjeras ven una oportunidad en la Argentina",
+      "resumen": "Múltiples marcas extranjeras planean expandir su presencia en Argentina con nuevas aperturas comerciales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/05/28/para-el-mayor-dueno-de-shoppings-del-pais-las-marcas-extranjeras-ven-una-oportunidad-en-la-argentina-cuales-estan-por-llegar/",
+      "fecha": "2026-05-28"
+    },
+    {
+      "titulo": "Argentina busca ser polo regional en ciencia médica con una inversión record para investigación clínica",
+      "resumen": "Argentina invierte recursos récord en infraestructura de investigación clínica y medicina.",
+      "sector": "salud",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/salud/ciencia/2026/05/29/argentina-busca-ser-polo-regional-en-ciencia-medica-con-una-inversion-record-para-investigacion-clinica/",
+      "fecha": "2026-05-29"
+    },
     {
       "titulo": "Decathlon en Argentina: Inversión millonaria y 20 tiendas",
       "resumen": "Decathlon invertirá millones para abrir 20 tiendas de retail deportivo en Argentina.",
@@ -864,42 +900,6 @@
       "relevancia": 8,
       "url": "https://fortuna.perfil.com/noticias/negocios/decathlon-desembarca-en-cordoba-a-fines-de-mayo.phtml",
       "fecha": "2026-05-01"
-    },
-    {
-      "titulo": "Altaviación aterriza en FAdeA: nuevo hub aeronáutico cordobés con $250 millones de inversión",
-      "resumen": "Altaviación desarrolla un hub aeronáutico en Córdoba con inversión de $250 millones en infraestructura.",
-      "sector": "industrial",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://infonegocios.info/plus/altaviacion-aterriza-en-fadea-de-que-trata-y-para-quien-el-nuevo-hub-aeronautico-cordobes-250-millones-de-inversion",
-      "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "La mayor universidad privada recibe millonario préstamo para acelerar su expansión",
-      "resumen": "Universidad privada obtiene préstamo para expandir sus instalaciones y capacidad física en Argentina.",
-      "sector": "educacion",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.iprofesional.com/negocios/453815-la-mayor-universidad-privada-recibe-millonario-prestamo-para-acelerar-su-expansion",
-      "fecha": "2026-05-10"
-    },
-    {
-      "titulo": "Marcas internacionales apuestan por Argentina con nuevas aperturas pese a caída del consumo",
-      "resumen": "Cadenas internacionales continúan con planes de expansión física en Argentina con nuevas sucursales y locales.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.losandes.com.ar/economia/marcas-internacionales-apuestan-argentina-pese-la-caida-del-consumo-que-dicen-los-datos-n5989735",
-      "fecha": "2026-04-25"
-    },
-    {
-      "titulo": "YPF expande su infraestructura con alianza Santander en App YPF",
-      "resumen": "YPF moderniza sus estaciones de servicio con nuevas funcionalidades de pago integradas en su aplicación.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.rionegro.com.ar/energia/ypf-y-santander-lanzan-la-remuneracion-de-saldos-en-cuenta-dentro-de-la-app-ypf-4554853/",
-      "fecha": "2026-04-10"
     }
   ]
 }
