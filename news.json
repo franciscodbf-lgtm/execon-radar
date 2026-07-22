@@ -1,6 +1,33 @@
 {
-  "generado": "2026-07-20T12:17:21.260Z",
+  "generado": "2026-07-22T11:48:00.978Z",
   "noticias": [
+    {
+      "titulo": "Una marca china furor en el mundo desembarca en Mar del Plata",
+      "resumen": "Marca de retail china abre nuevas sucursales en el AMBA y Mar del Plata, expandiendo su presencia física en Argentina.",
+      "sector": "retail",
+      "provincia": "Buenos Aires y Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.0223.com.ar/nota/2026-7-21-11-9-53-una-marca-china-furor-en-el-mundo-desembarca-en-mar-del-plata",
+      "fecha": "2026-07-21"
+    },
+    {
+      "titulo": "Milei se reunió con empresarios farmacéuticos y proyectan US$ 8.000 millones para investigación clínica en Argentina",
+      "resumen": "Empresas farmacéuticas planean inversión de USD 8.000 millones en infraestructura de investigación clínica en Argentina.",
+      "sector": "salud",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.rionegro.com.ar/politica/milei-se-reunio-con-empresarios-farmaceuticos-y-proyectan-us-8-000-millones-para-investigacion-clinica-en-argentina-4592275/",
+      "fecha": "2026-06-01"
+    },
+    {
+      "titulo": "El Gobierno cerró préstamos por USD 3.200 millones con bancos del exterior y garantía de organismos internacionales",
+      "resumen": "Financiamiento de USD 3.200 millones para proyectos de infraestructura y construcción en Argentina con garantía internacional.",
+      "sector": "infraestructura",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/07/08/el-gobierno-cerro-prestamos-por-usd-3200-millones-con-bancos-del-exterior-y-garantia-de-organismos-internacionales/",
+      "fecha": "2026-07-08"
+    },
     {
       "titulo": "De la mano la dueña de Todomoda, una marca premium brasileña desembarca en Argentina",
       "resumen": "Marca premium brasileña llega a Argentina con apertura de locales comerciales.",
@@ -873,33 +900,6 @@
       "relevancia": 6,
       "url": "https://www.iprofesional.com/negocios/452291-por-que-cierra-locales-una-de-las-empresas-textiles-mas-rentables-de-la-argentina",
       "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "McDonald's abre una nueva sucursal y busca contratar 80 personas",
-      "resumen": "McDonald's expande su presencia en Argentina con la apertura de una nueva sucursal.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.cronista.com/informacion-gral/confirmado-mcdonalds-abre-una-nueva-sucursal-y-busca-contratar-80-personas-muchos-puestos-no-requieren-experiencia-previa/?outputType=amp-type",
-      "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Clínica Universitaria Reina Fabiola presentó Sede Norte, el primer smart hospital de Argentina",
-      "resumen": "Clínica Reina Fabiola construye el primer smart hospital de Argentina en Córdoba con inversión significativa.",
-      "sector": "salud",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://www.lavoz.com.ar/espacio-publicidad/clinica-universitaria-reina-fabiola-presento-sede-norte-primer-smart-hospital-argentina_0_HblBQ7Debi.html",
-      "fecha": "2026-05-15"
-    },
-    {
-      "titulo": "Decathlon desembarca en Córdoba a fines de mayo",
-      "resumen": "La marca de deportes Decathlon abre su primera tienda en Córdoba, expandiendo su presencia en Argentina.",
-      "sector": "retail",
-      "provincia": "Córdoba",
-      "relevancia": 8,
-      "url": "https://fortuna.perfil.com/noticias/negocios/decathlon-desembarca-en-cordoba-a-fines-de-mayo.phtml",
-      "fecha": "2026-05-01"
     }
   ]
 }
