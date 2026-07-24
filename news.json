@@ -1,6 +1,33 @@
 {
-  "generado": "2026-07-22T11:48:00.978Z",
+  "generado": "2026-07-24T11:42:51.178Z",
   "noticias": [
+    {
+      "titulo": "Decathlon invertirá u$s100 millones en el país, abrirá 20 tiendas y generará 750 empleos",
+      "resumen": "Decathlon realizará inversión de u$s100 millones para abrir 20 nuevas tiendas de retail en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.iprofesional.com/negocios/459824-decathlon-abrira-20-tiendas-argentina-generara-750-empleos",
+      "fecha": "2026-07-13"
+    },
+    {
+      "titulo": "Miniso ya tiene fecha de apertura en Pilar: todos los detalles",
+      "resumen": "Miniso abre nueva tienda de retail en la localidad de Pilar, provincia de Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.pilaradiario.com/informacion-general/miniso-ya-tiene-fecha-apertura-pilar-todos-los-detalles-n5471151",
+      "fecha": "2026-07-13"
+    },
+    {
+      "titulo": "Mostaza impulsa expansión internacional buscando franquiciado argentino para operar en las Islas Malvinas",
+      "resumen": "Mostaza busca expandir su operación de gastronomía con franquiciado para establecimiento en Islas Malvinas.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://americaretail-malls.com/paises/argentina/mostaza-impulsa-expansion-internacional-buscando-franquiciado-argentino-para-operar-en-las-islas-malvinas/",
+      "fecha": "2026-07-13"
+    },
     {
       "titulo": "Una marca china furor en el mundo desembarca en Mar del Plata",
       "resumen": "Marca de retail china abre nuevas sucursales en el AMBA y Mar del Plata, expandiendo su presencia física en Argentina.",
@@ -873,33 +900,6 @@
       "relevancia": 8,
       "url": "https://www.infobae.com/economia/2026/03/31/la-cadena-argentina-de-comida-de-la-que-messi-es-socio-llega-al-nuevo-estadio-del-inter-miami-y-planea-expandirse-por-europa/",
       "fecha": "2026-03-31"
-    },
-    {
-      "titulo": "Nafta y gasoil: las rebajas de hasta 30% que dan YPF, Shell, Axion y Puma en abril 2026",
-      "resumen": "Principales cadenas de estaciones de servicio implementan estrategias comerciales con promociones en Argentina.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-30-dan-ypf-shell-axion-puma-abril-2026_0_SChopTvQYb.html",
-      "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "El Sanatorio Finochietto cerró sus servicios de obstetricia y neonatología",
-      "resumen": "Sanatorio privado de Buenos Aires restructura su infraestructura de servicios médicos.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 6,
-      "url": "https://www.pagina12.com.ar/2026/05/21/el-sanatorio-finochietto-cerro-sus-servicios-de-obstetricia-y-neonatologia-la-preocupacion-de-los-trabajadores/",
-      "fecha": "2026-05-21"
-    },
-    {
-      "titulo": "VIDEO ¿Por qué cierra locales una de las empresas textiles más rentables de la Argentina?",
-      "resumen": "Empresa textil argentina reestructura su presencia física con cierre de locales comerciales.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.iprofesional.com/negocios/452291-por-que-cierra-locales-una-de-las-empresas-textiles-mas-rentables-de-la-argentina",
-      "fecha": "2026-04-15"
     }
   ]
 }
