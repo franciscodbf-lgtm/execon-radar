@@ -1,6 +1,24 @@
 {
-  "generado": "2026-07-24T11:42:51.178Z",
+  "generado": "2026-07-27T12:55:17.625Z",
   "noticias": [
+    {
+      "titulo": "La tienda china furor abre dos nuevos locales en el AMBA y prepara su desembarco en Mar del Plata",
+      "resumen": "Cadena de retail abre dos nuevas sucursales en el AMBA y planifica expansión a Mar del Plata",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://tn.com.ar/economia/2026/07/21/la-tienda-china-furor-abre-dos-nuevas-tiendas-en-el-amba-y-prepara-su-desembarco-en-mar-del-plata/",
+      "fecha": "2026-07-21"
+    },
+    {
+      "titulo": "De bijouterie a indumentaria: dos marcas internacionales se preparan para inauguran locales en Recoleta y Microcentro en agosto",
+      "resumen": "Dos marcas internacionales abren sus primeros locales en Argentina en zonas premium de CABA",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://tn.com.ar/economia/2026/07/23/de-indumentaria-a-bijouterie-dos-marcas-internacionales-abriran-sus-primeros-locales-en-la-argentina-en-agosto/",
+      "fecha": "2026-07-23"
+    },
     {
       "titulo": "Decathlon invertirá u$s100 millones en el país, abrirá 20 tiendas y generará 750 empleos",
       "resumen": "Decathlon realizará inversión de u$s100 millones para abrir 20 nuevas tiendas de retail en Argentina.",
@@ -882,24 +900,6 @@
       "relevancia": 6,
       "url": "https://www.bloomberglinea.com/latinoamerica/argentina/en-que-bonos-y-acciones-de-argentina-invertir-en-abril-del-2026-segun-expertos/",
       "fecha": "2026-04-12"
-    },
-    {
-      "titulo": "El nuevo mapa corporativo de Buenos Aires: menos metros, más experiencia y un corredor norte en expansión",
-      "resumen": "Expansión de espacios corporativos en Buenos Aires con enfoque en el corredor norte y nuevos modelos de oficinas.",
-      "sector": "oficinas",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/opinion/2026/05/20/el-nuevo-mapa-corporativo-de-buenos-aires-menos-metros-mas-experiencia-y-un-corredor-norte-en-expansion/",
-      "fecha": "2026-05-20"
-    },
-    {
-      "titulo": "La cadena argentina de comida de la que Messi es socio llega al nuevo estadio del Inter Miami y planea expandirse por Europa",
-      "resumen": "Cadena gastronómica argentina planea expansión física con aperturas internacionales desde su base en Argentina.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/economia/2026/03/31/la-cadena-argentina-de-comida-de-la-que-messi-es-socio-llega-al-nuevo-estadio-del-inter-miami-y-planea-expandirse-por-europa/",
-      "fecha": "2026-03-31"
     }
   ]
 }
