@@ -1,6 +1,15 @@
 {
-  "generado": "2026-07-27T12:55:17.625Z",
+  "generado": "2026-07-29T12:01:12.690Z",
   "noticias": [
+    {
+      "titulo": "De Panamá a Argentina: cómo es la propuesta que trae NaciónSushi (US$ 1 millón por local)",
+      "resumen": "NaciónSushi expande su cadena gastronómica a Argentina con inversión de US$ 1 millón por local.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://infonegocios.info/plus/de-panama-a-argentina-como-es-la-propuesta-que-trae-nacionsushi-us-1-millon-por-local",
+      "fecha": "2026-07-27"
+    },
     {
       "titulo": "La tienda china furor abre dos nuevos locales en el AMBA y prepara su desembarco en Mar del Plata",
       "resumen": "Cadena de retail abre dos nuevas sucursales en el AMBA y planifica expansión a Mar del Plata",
@@ -891,15 +900,6 @@
       "relevancia": 5,
       "url": "https://www.pagina12.com.ar/2026/05/20/escobar-condenaron-a-10-anos-de-prision-al-dueno-del-ex-sanatorio-san-carlos/",
       "fecha": "2026-05-20"
-    },
-    {
-      "titulo": "En qué bonos y acciones de Argentina invertir en abril del 2026, según expertos",
-      "resumen": "Recomendaciones de inversión en empresas constructoras y de infraestructura argentinas con potencial de expansión.",
-      "sector": "oficinas",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.bloomberglinea.com/latinoamerica/argentina/en-que-bonos-y-acciones-de-argentina-invertir-en-abril-del-2026-segun-expertos/",
-      "fecha": "2026-04-12"
     }
   ]
 }
