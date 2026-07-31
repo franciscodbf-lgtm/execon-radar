@@ -1,6 +1,33 @@
 {
-  "generado": "2026-07-29T12:01:12.690Z",
+  "generado": "2026-07-31T12:00:20.948Z",
   "noticias": [
+    {
+      "titulo": "De Panamá a Argentina: cómo es la propuesta que trae NaciónSushi (US$ 1 millón por local)",
+      "resumen": "Cadena de sushi internacional desembarca en Argentina con plan de aperturas de múltiples locales gastronómicos.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://infonegocios.info/amp/plus/de-panama-a-argentina-como-es-la-propuesta-que-trae-nacionsushi-us-1-millon-por-local",
+      "fecha": "2026-07-27"
+    },
+    {
+      "titulo": "Cadena de sushi presente en 11 países desembarca en Argentina y prevé varias aperturas",
+      "resumen": "Nueva cadena de sushi internacional abre operaciones en Argentina con planes de expansión física de múltiples sucursales.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/461005-cadena-de-sushi-presente-en-11-paises-desembarca-en-argentina-y-preve-varias-aperturas.amp",
+      "fecha": "2026-07-27"
+    },
+    {
+      "titulo": "Con Lionel Messi como socio, El Club de la Milanesa desembarca en Europa con un ambicioso plan de expansión",
+      "resumen": "Cadena gastronómica argentina El Club de la Milanesa expande operaciones físicas hacia mercados internacionales.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.rionegro.com.ar/economia/con-lionel-messi-como-socio-el-club-de-la-milanesa-desembarca-en-europa-con-un-ambicioso-plan-de-expansion-4664597/",
+      "fecha": "2026-07-27"
+    },
     {
       "titulo": "De Panamá a Argentina: cómo es la propuesta que trae NaciónSushi (US$ 1 millón por local)",
       "resumen": "NaciónSushi expande su cadena gastronómica a Argentina con inversión de US$ 1 millón por local.",
@@ -873,33 +900,6 @@
       "relevancia": 9,
       "url": "https://www.pilaradiario.com/economia/mercado-libre-comenzo-la-busqueda-laboral-su-planta-escobar-n5469437",
       "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "Los bancos aceleran su transformación con Inteligencia Artificial",
-      "resumen": "Bancos argentinos invierten en modernización de sucursales físicas e infraestructura con tecnología avanzada.",
-      "sector": "banco",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.lmneuquen.com/pais/los-bancos-aceleran-su-transformacion-inteligencia-artificial-n1239807",
-      "fecha": "2026-05-01"
-    },
-    {
-      "titulo": "La AFA acelera su expansión global con inteligencia artificial, nuevos sponsors y presencia internacional",
-      "resumen": "AFA invierte en infraestructura moderna y espacios físicos para preparar la presencia argentina en Mundial 2026.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://eleconomista.com.ar/deportes/afa-ia-google-expansion-global-mundial-2026-n93788",
-      "fecha": "2026-04-25"
-    },
-    {
-      "titulo": "El dueño del ex Sanatorio San Carlos irá a la cárcel por mal manejo de la Covid-19",
-      "resumen": "Proceso judicial sobre infraestructura de salud privada en Argentina, reflejando dinamismo del sector sanitario.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 5,
-      "url": "https://www.pagina12.com.ar/2026/05/20/escobar-condenaron-a-10-anos-de-prision-al-dueno-del-ex-sanatorio-san-carlos/",
-      "fecha": "2026-05-20"
     }
   ]
 }
