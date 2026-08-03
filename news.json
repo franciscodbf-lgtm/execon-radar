@@ -1,6 +1,15 @@
 {
-  "generado": "2026-07-31T12:00:20.948Z",
+  "generado": "2026-08-03T12:55:15.239Z",
   "noticias": [
+    {
+      "titulo": "Skechers fortalece expansión comercial consolidando presencia física y competitividad dentro del mercado argentino",
+      "resumen": "Skechers expande su presencia física en Argentina mediante nuevas aperturas de locales comerciales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://americaretail-malls.com/paises/argentina/skechers-fortalece-expansion-comercial-consolidando-presencia-fisica-y-competitividad-dentro-del-mercado-argentino/",
+      "fecha": "2024-01-01"
+    },
     {
       "titulo": "De Panamá a Argentina: cómo es la propuesta que trae NaciónSushi (US$ 1 millón por local)",
       "resumen": "Cadena de sushi internacional desembarca en Argentina con plan de aperturas de múltiples locales gastronómicos.",
@@ -891,15 +900,6 @@
       "relevancia": 8,
       "url": "https://americaretail-malls.com/paises/uruguay/magma-acelera-su-expansion-regional-con-su-desembarco-comercial-en-buenos-aires/",
       "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Mercado Libre comenzó la búsqueda laboral para su planta en Escobar",
-      "resumen": "Mercado Libre construye nueva planta de operaciones en Escobar, Buenos Aires, iniciando búsqueda de personal.",
-      "sector": "logistica",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.pilaradiario.com/economia/mercado-libre-comenzo-la-busqueda-laboral-su-planta-escobar-n5469437",
-      "fecha": "2026-04-20"
     }
   ]
 }
