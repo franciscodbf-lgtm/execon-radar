@@ -1,6 +1,33 @@
 {
-  "generado": "2026-08-03T12:55:15.239Z",
+  "generado": "2026-08-05T12:00:00.444Z",
   "noticias": [
+    {
+      "titulo": "Nacion Sushi impulsa la expansión internacional de la gastronomía asiática con llegada a Argentina",
+      "resumen": "Cadena de gastronomía asiática Nacion Sushi abre nuevos locales en Argentina como parte de su expansión internacional.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://americaretail-malls.com/paises/argentina/nacion-sushi-impulsa-la-expansion-internacional-de-la-gastronomia-asiatica-con-llegada-a-argentina/",
+      "fecha": "2026-07-27"
+    },
+    {
+      "titulo": "Miniso abre en Pilar y promete premios para los primeros clientes",
+      "resumen": "Miniso inaugura nuevo local retail en Pilar, provincia de Buenos Aires, expandiendo su presencia física en Argentina.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.pilaradiario.com/economia/miniso-abre-pilar-y-promete-premios-los-primeros-clientes-n5471316",
+      "fecha": "2026-07-27"
+    },
+    {
+      "titulo": "Cadena de ropa ultrabarata llega a Argentina con descuentos de hasta 60% en su apertura",
+      "resumen": "Nueva cadena de retail de ropa ultrabarata inaugura sucursales en Argentina con promociones de apertura.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.iprofesional.com/negocios/461447-cadena-ropa-ultrabarata-llega-a-argentina-con-descuentos-de-hasta-60-por-ciento-en-su-apertura.amp",
+      "fecha": "2026-07-27"
+    },
     {
       "titulo": "Skechers fortalece expansión comercial consolidando presencia física y competitividad dentro del mercado argentino",
       "resumen": "Skechers expande su presencia física en Argentina mediante nuevas aperturas de locales comerciales.",
@@ -873,33 +900,6 @@
       "relevancia": 6,
       "url": "https://www.infobae.com/tendencias/2026/04/14/amcham-summit-2026-como-sera-el-foro-de-negocios-que-organiza-la-camara-de-empresas-de-eeuu-en-argentina/",
       "fecha": "2026-04-14"
-    },
-    {
-      "titulo": "La inversión extranjera directa tuvo salidas netas por USD 4.700 millones",
-      "resumen": "Análisis de inversión extranjera en Argentina muestra comportamiento neto negativo en cierre de 2025.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.infobae.com/economia/2026/05/08/la-inversion-extranjera-directa-tuvo-salidas-netas-por-casi-usd-4700-millones-al-cierre-de-2025/",
-      "fecha": "2026-05-08"
-    },
-    {
-      "titulo": "Locales tecnológicos se expanden en la Argentina con foco en la experiencia del usuario",
-      "resumen": "Cadenas de locales tecnológicos abren nuevas sucursales físicas en Argentina enfocadas en mejorar la experiencia del usuario.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/inhouse/2026/03/31/locales-tecnologicos-se-expanden-en-la-argentina-con-foco-en-la-experiencia-del-usuario/",
-      "fecha": "2026-03-31"
-    },
-    {
-      "titulo": "Magma acelera su expansión regional con su desembarco comercial en Buenos Aires",
-      "resumen": "Magma expande su presencia física en Argentina con apertura de locales comerciales en Buenos Aires.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/uruguay/magma-acelera-su-expansion-regional-con-su-desembarco-comercial-en-buenos-aires/",
-      "fecha": "2026-04-15"
     }
   ]
 }
