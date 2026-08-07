@@ -1,6 +1,15 @@
 {
-  "generado": "2026-08-05T12:00:00.444Z",
+  "generado": "2026-08-07T10:52:44.876Z",
   "noticias": [
+    {
+      "titulo": "El RIGI destraba una inversión de US$ 360 millones para ampliar el procesamiento de gas de Vaca Muerta",
+      "resumen": "Inversión de US$ 360 millones en ampliar infraestructura de procesamiento de gas en Vaca Muerta bajo régimen RIGI.",
+      "sector": "energia",
+      "provincia": "Neuquén",
+      "relevancia": 1,
+      "url": "https://eleconomista.com.ar/energia/el-rigi-destraba-una-inversion-us-360-millones-ampliar-procesamiento-gas-vaca-muerta-n97117",
+      "fecha": "2026-07-27"
+    },
     {
       "titulo": "Nacion Sushi impulsa la expansión internacional de la gastronomía asiática con llegada a Argentina",
       "resumen": "Cadena de gastronomía asiática Nacion Sushi abre nuevos locales en Argentina como parte de su expansión internacional.",
@@ -891,15 +900,6 @@
       "relevancia": 7,
       "url": "https://www.infobae.com/economia/2026/04/15/un-consorcio-internacional-hizo-una-oferta-para-quedarse-con-las-acciones-que-ypf-tiene-en-metrogas/",
       "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "AmCham Summit 2026: cumbre de empresas de EEUU en Argentina",
-      "resumen": "Conferencia internacional reúne a inversores para explorar oportunidades de expansión física en Argentina.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.infobae.com/tendencias/2026/04/14/amcham-summit-2026-como-sera-el-foro-de-negocios-que-organiza-la-camara-de-empresas-de-eeuu-en-argentina/",
-      "fecha": "2026-04-14"
     }
   ]
 }
