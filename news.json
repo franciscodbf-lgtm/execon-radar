@@ -1,6 +1,24 @@
 {
-  "generado": "2026-08-07T10:52:44.876Z",
+  "generado": "2026-08-10T11:09:08.613Z",
   "noticias": [
+    {
+      "titulo": "Franquicias en expansión: 4 modelos de negocio que apuestan a crecer en Argentina",
+      "resumen": "Análisis de franquicias argentinas en expansión física con recuperación de capital en tres años.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/contenido-brandeado/461418-franquicias-argentinas-inversion-baja-recuperan-capital-tres-anos-agosto-2026",
+      "fecha": "2026-08-01"
+    },
+    {
+      "titulo": "Cuáles son las marcas internacionales que llegan a la Argentina: el mapa de aperturas para el segundo semestre de 2026",
+      "resumen": "Mapa de aperturas de marcas internacionales con expansión física en Argentina durante segundo semestre 2026.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.forbesargentina.com/negocios/cuales-son-marcas-internacionales-llegan-argentina-mapa-aperturas-segundo-semestre-2026-n95049",
+      "fecha": "2026-08-01"
+    },
     {
       "titulo": "El RIGI destraba una inversión de US$ 360 millones para ampliar el procesamiento de gas de Vaca Muerta",
       "resumen": "Inversión de US$ 360 millones en ampliar infraestructura de procesamiento de gas en Vaca Muerta bajo régimen RIGI.",
@@ -882,24 +900,6 @@
       "relevancia": 6,
       "url": "https://www.infobae.com/politica/2026/05/05/nos-queda-un-respiro-el-director-del-hospital-de-clinicas-alerto-por-la-severa-crisis-que-atraviesan-ante-la-falta-de-financiamiento/",
       "fecha": "2026-05-05"
-    },
-    {
-      "titulo": "YPF y Santander lanzaron remuneración de saldos en cuenta en App",
-      "resumen": "YPF desarrolla alianza estratégica con Santander para servicios financieros en sus estaciones.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.infobae.com/economia/networking/2026/04/28/ypf-y-santander-lanzaron-remuneracion-de-saldos-en-cuenta-dentro-de-la-app-de-la-petrolera/",
-      "fecha": "2026-04-28"
-    },
-    {
-      "titulo": "Un consorcio internacional hizo oferta por acciones de YPF en Metrogas",
-      "resumen": "Transacción de infraestructura energética: consorcio internacional compra participación en empresa de distribución de gas.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.infobae.com/economia/2026/04/15/un-consorcio-internacional-hizo-una-oferta-para-quedarse-con-las-acciones-que-ypf-tiene-en-metrogas/",
-      "fecha": "2026-04-15"
     }
   ]
 }
