@@ -1,6 +1,87 @@
 {
-  "generado": "2026-08-10T11:09:08.613Z",
+  "generado": "2026-08-12T11:00:33.808Z",
   "noticias": [
+    {
+      "titulo": "Miniso se expande, abre dos locales más y se prepara para llegar a una nueva ciudad",
+      "resumen": "Miniso abre nuevas sucursales de retail y expande su presencia geográfica en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.lavoz.com.ar/servicios/miniso-expande-abre-locales-prepara-llegar-nueva-ciudad_0_NS6LsDwjOd.html",
+      "fecha": "2026-08-11"
+    },
+    {
+      "titulo": "Una cadena de moda francesa abre su primer local en CABA y prepara expansión a Rosario",
+      "resumen": "Marca internacional de moda inaugura primer local en Argentina con planes de expansión a otras provincias.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://tn.com.ar/economia/2026/08/11/una-cadena-de-moda-francesa-abrio-su-primer-local-en-la-ciudad-de-buenos-aires-y-ya-prepara-su-expansion-a-rosario/",
+      "fecha": "2026-08-11"
+    },
+    {
+      "titulo": "Compañía Mega obtuvo la aprobación de su proyecto de inversión bajo el RIGI",
+      "resumen": "Compañía Mega aprueba proyecto de inversión bajo régimen RIGI implicando obras e infraestructura física.",
+      "sector": "industrial",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://mercado.com.ar/negocios/compania-mega-obtuvo-la-aprobacion-de-su-proyecto-de-inversion-bajo-el-rigi",
+      "fecha": "2026-08-10"
+    },
+    {
+      "titulo": "Mercado Libre invertirá USD 91 millones para entregas same-day en Córdoba",
+      "resumen": "Mercado Libre invierte USD 91 millones en infraestructura logística en Córdoba para entregas del mismo día.",
+      "sector": "logistica",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.perfil.com/noticias/cordoba/mercado-libre-quiere-entregar-las-compras-de-cordoba-en-el-dia-invertira-usd-91-millones.phtml",
+      "fecha": "2026-08-10"
+    },
+    {
+      "titulo": "Nafta y gasoil: rebajas de hasta 30% en estaciones YPF, Shell, Axion y Puma",
+      "resumen": "Operaciones y promociones en estaciones de servicio de las principales cadenas en Argentina.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-30-dan-ypf-shell-axion-puma-agosto-2026_0_3WTdmVHHv3.html",
+      "fecha": "2026-08-05"
+    },
+    {
+      "titulo": "Escala salarial de trabajadores de clínicas, sanatorios y hospitales privados",
+      "resumen": "Información sobre operaciones y estructura de empleo en instituciones de salud privada en Argentina.",
+      "sector": "salud",
+      "provincia": "Nacional",
+      "relevancia": 5,
+      "url": "https://www.clarin.com/economia/escala-salarial-julio-2026-cobraran-trabajadores-clinicas-sanatorios-hospitales-categoria_0_8dasSBaRGX.html",
+      "fecha": "2026-07-15"
+    },
+    {
+      "titulo": "Denunció a clínica privada por mala praxis: análisis de infraestructura y servicios sanitarios",
+      "resumen": "Caso judicial que refleja operaciones y estándares de infraestructura en clínicas privadas argentinas.",
+      "sector": "salud",
+      "provincia": "Nacional",
+      "relevancia": 5,
+      "url": "https://www.infobae.com/judiciales/2026/08/02/denuncio-a-una-clinica-privada-por-mala-praxis-tras-un-parto-traumatico-y-doloroso-la-justicia-rechazo-la-demanda/",
+      "fecha": "2026-08-02"
+    },
+    {
+      "titulo": "Hospital de Clínicas alerta sobre aumento de casos de cáncer asociados al VPH",
+      "resumen": "Institución sanitaria reporta incremento de demanda en servicios de oncología y ampliación de capacidades.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 5,
+      "url": "https://www.pagina12.com.ar/2026/07/22/el-hospital-de-clinicas-alerto-por-el-aumento-de-casos-de-cancer-de-cabeza-y-cuello-asociados-al-vph/",
+      "fecha": "2026-07-22"
+    },
+    {
+      "titulo": "Optimismo empresarial se dispara: expectativas positivas impulsan inversiones en infraestructura",
+      "resumen": "Contexto macroeconómico favorable genera nuevas inversiones en proyectos de construcción y expansión empresarial.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.infobae.com/economia/2026/07/10/optimismo-empresarial-se-dispara-expectativas-sobre-la-economia-vuelven-a-terreno-positivo/",
+      "fecha": "2026-07-10"
+    },
     {
       "titulo": "Franquicias en expansión: 4 modelos de negocio que apuestan a crecer en Argentina",
       "resumen": "Análisis de franquicias argentinas en expansión física con recuperación de capital en tres años.",
@@ -819,87 +900,6 @@
       "relevancia": 9,
       "url": "https://www.quepasaweb.com.ar/miniso-abrira-una-tienda-en-plaza-oeste-y-busca-personal-para-su-nueva-sucursal-en-moron/",
       "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Decathlon en Córdoba: ya tiene fecha la apertura de su tienda en el Nuevocentro",
-      "resumen": "Decathlon inaugura nueva tienda retail en Nuevocentro, Córdoba, ampliando su red de sucursales en Argentina.",
-      "sector": "retail",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://www.perfil.com/noticias/cordoba/decathlon-en-cordoba-ya-tiene-fecha-la-apertura-de-su-tienda-en-el-nuevocentro.phtml",
-      "fecha": "2026-04-10"
-    },
-    {
-      "titulo": "Banco Provincia ejecutó 220 obras de modernización en sucursales e incrementó 42% su red de cajeros automáticos",
-      "resumen": "Banco Provincia realiza 220 obras de refacción y modernización en sucursales a nivel nacional.",
-      "sector": "banco",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.perfil.com/noticias/sociedad/banco-provincia-ejecuto-220-obras-de-modernizacion-en-sucursales-e-incremento-42-su-red-de-cajeros-automaticos.phtml",
-      "fecha": "2026-05-15"
-    },
-    {
-      "titulo": "Nueva tienda de Decathlon en Argentina: donde queda, apertura y promociones con descuentos",
-      "resumen": "Decathlon inaugura sucursal en Córdoba con inversión en infraestructura retail y promociones de apertura.",
-      "sector": "retail",
-      "provincia": "Córdoba",
-      "relevancia": 8,
-      "url": "https://www.iprofesional.com/index.php/negocios/455066-decathlon-cordoba-regala-400-mil-pesos-primeros-clientes",
-      "fecha": "2026-04-08"
-    },
-    {
-      "titulo": "Tras el cierre de 382 locales bancarios, Banco Provincia anunció obras para fortalecer 220 sucursales",
-      "resumen": "Banco Provincia ejecuta amplio plan de obras físicas de modernización en sucursales remanentes.",
-      "sector": "banco",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.0223.com.ar/nota/2026-6-2-18-50-0-tras-el-cierre-de-382-locales-bancarios-banco-provincia-anuncio-obras-para-fortalecer-220-sucursales",
-      "fecha": "2026-06-02"
-    },
-    {
-      "titulo": "La tienda china más conocida llega a Argentina",
-      "resumen": "Tienda retail internacional abre nuevo local físico en Argentina con promociones de apertura.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.cronista.com/informacion-gral/la-tienda-china-mas-conocida-llega-a-argentina-abrira-un-nuevo-local-y-va-a-regalar-miles-de-pesos-a-los-primeros-que-entren/",
-      "fecha": "2026-05-08"
-    },
-    {
-      "titulo": "Cuánto hay que invertir en franquicia de la cadena líder de CAFÉ en Argentina",
-      "resumen": "Cadena gastronómica argentina expande operaciones mediante modelo de franquicias con nuevas aperturas.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.iprofesional.com/negocios/453506-cuanto-hay-que-invertir-en-fraquicia-de-la-cadena-lider-de-cafe-en-argentina",
-      "fecha": "2026-05-08"
-    },
-    {
-      "titulo": "El Bapro sigue apostando por las sucursales: nueva sede en Villa Ramallo",
-      "resumen": "Banco Provincia abre nueva sucursal física en Villa Ramallo con más sedes en evaluación.",
-      "sector": "banco",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://eleconomista.com.ar/finanzas/el-bapro-sigue-apostando-sucursales-nueva-sede-villa-ramallo-otras-mas-estudio-n95220",
-      "fecha": "2026-05-08"
-    },
-    {
-      "titulo": "Mercado Libre ya busca trabajadores para su nueva planta en Escobar",
-      "resumen": "Plataforma logística de Mercado Libre construye nueva planta de distribución en Escobar.",
-      "sector": "logistica",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/management/453658-mercado-libre-ya-busca-trabajadores-para-su-nueva-planta-en-escobar-como-postularse",
-      "fecha": "2026-05-08"
-    },
-    {
-      "titulo": "Director del Hospital de Clínicas alertó por severa crisis financiera",
-      "resumen": "Hospital de Clínicas enfrenta crisis de inversión y mantenimiento de infraestructura sanitaria.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 6,
-      "url": "https://www.infobae.com/politica/2026/05/05/nos-queda-un-respiro-el-director-del-hospital-de-clinicas-alerto-por-la-severa-crisis-que-atraviesan-ante-la-falta-de-financiamiento/",
-      "fecha": "2026-05-05"
     }
   ]
 }
