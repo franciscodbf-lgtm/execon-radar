@@ -1,6 +1,15 @@
 {
-  "generado": "2026-08-12T11:00:33.808Z",
+  "generado": "2026-08-14T10:57:56.438Z",
   "noticias": [
+    {
+      "titulo": "Costantini reactiva en Catalinas su ambicioso proyecto de oficinas de US$ 400 millones",
+      "resumen": "Grupo Costantini reactiva construcción de complejo de oficinas de gran escala en Puerto Madero, Buenos Aires.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 10,
+      "url": "https://www.forbesargentina.com/negocios/costantini-reactiva-catalinas-su-ambicioso-proyecto-oficinas-us-400-millones-n93008",
+      "fecha": "2026-08-01"
+    },
     {
       "titulo": "Miniso se expande, abre dos locales más y se prepara para llegar a una nueva ciudad",
       "resumen": "Miniso abre nuevas sucursales de retail y expande su presencia geográfica en Argentina.",
@@ -891,15 +900,6 @@
       "relevancia": 7,
       "url": "https://www.perfil.com/noticias/cordoba/argentina-frente-a-la-nueva-frontera-tecnologica-data-centers-energia-y-una-oportunidad-federal.phtml",
       "fecha": "2026-04-20"
-    },
-    {
-      "titulo": "Miniso abrirá una tienda en Plaza Oeste y busca personal para su nueva sucursal en Morón",
-      "resumen": "Miniso abre nueva sucursal retail en Plaza Oeste, Morón, expandiendo su presencia física en Argentina.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.quepasaweb.com.ar/miniso-abrira-una-tienda-en-plaza-oeste-y-busca-personal-para-su-nueva-sucursal-en-moron/",
-      "fecha": "2026-04-15"
     }
   ]
 }
