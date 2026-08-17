@@ -1,6 +1,42 @@
 {
-  "generado": "2026-08-14T10:57:56.438Z",
+  "generado": "2026-08-17T10:32:26.388Z",
   "noticias": [
+    {
+      "titulo": "Una reconocida cadena gastronómica llegó a Junín con 80 nuevos puestos de trabajo",
+      "resumen": "Cadena gastronómica expande operaciones físicas en Junín con nueva sucursal.",
+      "sector": "gastronomia",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/inhouse/2026/08/13/una-reconocida-cadena-gastronomica-llego-a-junin-con-80-nuevos-puestos-de-trabajo/",
+      "fecha": "2026-08-13"
+    },
+    {
+      "titulo": "Miniso desembarca en Mar del Plata con su primer local fuera del AMBA",
+      "resumen": "Miniso abre su primera tienda física fuera del AMBA en Mar del Plata.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/462291-miniso-desembarca-en-mar-del-plata-con-su-primer-local-fuera-del-amba",
+      "fecha": "2026-08-13"
+    },
+    {
+      "titulo": "Skechers inauguró una nueva tienda en Buenos Aires y prepara más aperturas",
+      "resumen": "Skechers expande su presencia física en Argentina con nueva tienda en Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/462286-skechers-inauguro-una-nueva-tienda-en-buenos-aires-y-prepara-mas-aperturas",
+      "fecha": "2026-08-13"
+    },
+    {
+      "titulo": "Furor por el skincare coreano: una reconocida marca internacional abrió un nuevo local en Buenos Aires",
+      "resumen": "Marca internacional de cosméticos coreana inaugura local físico en Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://tn.com.ar/economia/2026/08/16/una-reconocida-marca-de-cosmetica-coreana-abrio-un-nuevo-local-en-un-barrio-porteno-donde-queda/",
+      "fecha": "2026-08-16"
+    },
     {
       "titulo": "Costantini reactiva en Catalinas su ambicioso proyecto de oficinas de US$ 400 millones",
       "resumen": "Grupo Costantini reactiva construcción de complejo de oficinas de gran escala en Puerto Madero, Buenos Aires.",
@@ -864,42 +900,6 @@
       "relevancia": 8,
       "url": "https://americaretail-malls.com/paises/argentina/lucky-brand-desembarca-en-argentina-con-precios-competitivos-y-ambicioso-crecimiento/",
       "fecha": "2026-05-10"
-    },
-    {
-      "titulo": "McDonald's abrirá su décimo local en Mendoza y empleará a 40 nuevos talentos",
-      "resumen": "McDonald's inaugura su décima sucursal en Mendoza consolidando presencia física en la provincia.",
-      "sector": "gastronomia",
-      "provincia": "Mendoza",
-      "relevancia": 8,
-      "url": "https://mendoza24.com.ar/negocios_empresas/28890-McDonald's-abrira-su-decimo-local-en-Mendoza-y-empleara-a-40-nuevos-talentos",
-      "fecha": "2026-04-12"
-    },
-    {
-      "titulo": "Reactivación del mercado corporativo de oficinas: empresas tomaron 100.000 metros cuadrados durante 2025",
-      "resumen": "Expansión significativa del mercado de oficinas corporativas en Argentina con toma de espacios físicos.",
-      "sector": "oficinas",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.perfil.com/noticias/canal-e/reactivacion-del-mercado-corporativo-de-oficinas-las-empresas-tomaron-100000-metros-cuadrados-de-oficinas-durante-todo-el-2025.phtml",
-      "fecha": "2026-03-15"
-    },
-    {
-      "titulo": "De Bahía Blanca a Miami: la firma argentina que lleva la carne premium a todo Estados Unidos",
-      "resumen": "Empresa argentina de procesamiento de carne premium de Bahía Blanca expande operaciones industriales.",
-      "sector": "industrial",
-      "provincia": "Buenos Aires",
-      "relevancia": 7,
-      "url": "https://fortuna.perfil.com/noticias/negocios/de-bahia-blanca-a-miami-la-firma-argentina-que-lleva-la-carne-premium-a-todo-estados-unidos.phtml",
-      "fecha": "2026-04-10"
-    },
-    {
-      "titulo": "Argentina frente a la nueva frontera tecnológica: data centers, energía y una oportunidad federal",
-      "resumen": "Proyectos de construcción de data centers en Argentina como oportunidad de inversión infraestructural.",
-      "sector": "otros",
-      "provincia": "Córdoba",
-      "relevancia": 7,
-      "url": "https://www.perfil.com/noticias/cordoba/argentina-frente-a-la-nueva-frontera-tecnologica-data-centers-energia-y-una-oportunidad-federal.phtml",
-      "fecha": "2026-04-20"
     }
   ]
 }
