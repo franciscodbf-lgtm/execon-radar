@@ -1,6 +1,24 @@
 {
-  "generado": "2026-08-17T10:32:26.388Z",
+  "generado": "2026-08-21T10:31:03.354Z",
   "noticias": [
+    {
+      "titulo": "La tienda china que es furor abre más sucursales y llega a la costa",
+      "resumen": "Cadena de retail chino expande su presencia física en Argentina con nuevas sucursales en zonas costeras.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/460432-la-tienda-china-que-es-furor-abre-mas-sucursales-y-llega-a-la-costa",
+      "fecha": "2026-07-15"
+    },
+    {
+      "titulo": "Nuevo centro comercial en Cipolletti con Carrefour: inversión de US$30 millones",
+      "resumen": "Construcción de centro comercial en Río Negro con supermercado ancla Carrefour como parte de proyecto de US$30M.",
+      "sector": "retail",
+      "provincia": "Río Negro",
+      "relevancia": 10,
+      "url": "https://www.rionegro.com.ar/propiedades/presentan-el-proyecto-del-nuevo-centro-comercial-de-cipolletti-incluira-un-carrefour-y-preven-una-inversion-de-us30-millones-4681146/",
+      "fecha": "2026-08-10"
+    },
     {
       "titulo": "Una reconocida cadena gastronómica llegó a Junín con 80 nuevos puestos de trabajo",
       "resumen": "Cadena gastronómica expande operaciones físicas en Junín con nueva sucursal.",
@@ -882,24 +900,6 @@
       "relevancia": 9,
       "url": "https://americaretail-malls.com/paises/argentina/mcdonalds-acelera-su-expansion-en-misiones-con-empleo-e-inversion-local/",
       "fecha": "2026-04-15"
-    },
-    {
-      "titulo": "Decathlon desembarca en Córdoba y reabre el debate sobre los precios argentinos",
-      "resumen": "Decathlon inaugura sucursal física en Córdoba, expandiendo su presencia retail en Argentina.",
-      "sector": "retail",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://americaretail-malls.com/paises/argentina/decathlon-desembarca-en-cordoba-y-reabre-el-debate-sobre-los-precios-argentinos/",
-      "fecha": "2026-05-20"
-    },
-    {
-      "titulo": "Lucky Brand desembarca en Argentina con precios competitivos y ambicioso crecimiento",
-      "resumen": "Lucky Brand llega a Argentina con aperturas de tiendas físicas y planes de expansión retail.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/lucky-brand-desembarca-en-argentina-con-precios-competitivos-y-ambicioso-crecimiento/",
-      "fecha": "2026-05-10"
     }
   ]
 }
