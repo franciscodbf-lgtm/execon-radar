@@ -1,6 +1,87 @@
 {
-  "generado": "2026-08-21T10:31:03.354Z",
+  "generado": "2026-08-26T10:35:51.380Z",
   "noticias": [
+    {
+      "titulo": "Nueva central nuclear en Atucha: Meitner Energy promete invertir USD 1.200 millones",
+      "resumen": "Meitner Energy invertirá USD 1.200 millones en construcción de nueva central nuclear en Atucha.",
+      "sector": "energia",
+      "provincia": "Buenos Aires",
+      "relevancia": 10,
+      "url": "https://mase.lmneuquen.com/energia/nueva-central-nuclear-atucha-meitner-energy-promete-invertir-usd-1200-millones-n1244635",
+      "fecha": "2026-08-21"
+    },
+    {
+      "titulo": "El Gobierno aprobó un nuevo RIGI para producir litio en Catamarca",
+      "resumen": "Aprobación de RIGI para inversión de USD 709 millones en producción de litio en Catamarca.",
+      "sector": "industrial",
+      "provincia": "Catamarca",
+      "relevancia": 8,
+      "url": "https://www.perfil.com/noticias/economia/el-gobierno-aprobo-un-nuevo-rigi-para-producir-litio-en-catamarca-inversion-por-us-709-millones.phtml",
+      "fecha": "2026-08-14"
+    },
+    {
+      "titulo": "Nafta y gasoil: las rebajas de hasta 30% que dan YPF, Shell, Axion y Puma en julio 2026",
+      "resumen": "Cadenas de estaciones de servicio YPF, Shell, Axion y Puma ofrecen rebajas en combustibles.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-30-dan-ypf-shell-axion-puma-julio-2026_0_XfRkGom82H.html",
+      "fecha": "2026-07-01"
+    },
+    {
+      "titulo": "La argentina Latto Helados desembarca en España",
+      "resumen": "Latto Helados abre su primera heladería en Madrid, expandiendo presencia internacional.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 5,
+      "url": "https://www.infobae.com/america/agencias/2026/08/12/la-argentina-latto-helados-desembarca-en-espana-con-su-primera-heladeria-en-madrid/",
+      "fecha": "2026-08-12"
+    },
+    {
+      "titulo": "Hospital de Clínicas: cayeron 30% las donaciones de sangre",
+      "resumen": "Hospital de Clínicas reporta caída significativa en donaciones de sangre.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 4,
+      "url": "https://www.filo.news/noticia/2026/07/29/hospital-de-clinicas-cayeron-30-las-donaciones-de-sangre",
+      "fecha": "2026-07-29"
+    },
+    {
+      "titulo": "Optimismo empresarial se dispara en Perú",
+      "resumen": "Expectativas empresariales vuelven a terreno positivo en la región.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 5,
+      "url": "https://www.infobae.com/peru/2026/07/10/optimismo-empresarial-se-dispara-expectativas-sobre-la-economia-vuelven-a-terreno-positivo/",
+      "fecha": "2026-07-10"
+    },
+    {
+      "titulo": "Camiones y buses: tecnología para transformar producción y abastecimiento",
+      "resumen": "Nuevas tecnologías aplicadas a transporte de camiones y buses para mejorar logística.",
+      "sector": "logistica",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.infobae.com/inhouse/2026/08/14/camiones-y-buses-como-trabaja-la-tecnologia-que-busca-transformar-la-produccion-y-el-abastecimiento/",
+      "fecha": "2026-08-14"
+    },
+    {
+      "titulo": "La UBA eligió nuevas autoridades en Medicina",
+      "resumen": "UBA elige nuevas autoridades en la Facultad de Medicina con primera mujer decana.",
+      "sector": "educacion",
+      "provincia": "Buenos Aires",
+      "relevancia": 5,
+      "url": "https://www.infobae.com/salud/2026/08/24/la-uba-eligio-nuevas-autoridades-en-medicina-por-primera-vez-una-mujer-sera-decana/",
+      "fecha": "2026-08-24"
+    },
+    {
+      "titulo": "Nuevo requisito obligatorio de bancos para depósitos en efectivo a partir del 1 de julio",
+      "resumen": "Bancos implementan nuevo requisito obligatorio para depósitos en efectivo a partir de julio.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.infobae.com/mexico/2026/06/30/a-partir-de-que-monto-el-nuevo-requisito-obligatorio-de-los-bancos-para-poder-depositar-dinero-en-efectivo-a-partir-del-1-de-julio/",
+      "fecha": "2026-06-30"
+    },
     {
       "titulo": "La tienda china que es furor abre más sucursales y llega a la costa",
       "resumen": "Cadena de retail chino expande su presencia física en Argentina con nuevas sucursales en zonas costeras.",
@@ -819,87 +900,6 @@
       "relevancia": 7,
       "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-10-30-dan-ypf-shell-axion-puma-junio-2026_0_cVL7jH3Mf3.html",
       "fecha": "2026-06-01"
-    },
-    {
-      "titulo": "YPF inaugura nuevas estaciones de servicio en territorio argentino",
-      "resumen": "YPF abre sucursales y moderniza su infraestructura de ventas en diferentes provincias.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-10-30-dan-ypf-shell-axion-puma-junio-2026_0_cVL7jH3Mf3.html",
-      "fecha": "2026-06-01"
-    },
-    {
-      "titulo": "Expansión de cadenas gastronómicas internacionales en Argentina",
-      "resumen": "Nuevas marcas de gastronomía premium abren locales físicos en centros comerciales argentinos.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/argentina-atrae-nuevas-inversiones-internacionales-con-inedita-ola-de-aperturas-comerciales/",
-      "fecha": "2026-06-12"
-    },
-    {
-      "titulo": "Decathlon confirmó la apertura de una nueva mega tienda en un shopping",
-      "resumen": "Decathlon abre nueva mega tienda en shopping de Argentina, expandiendo su presencia en retail deportivo.",
-      "sector": "retail",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/negocios/456531-decathlon-confirmo-apertura-de-nueva-mega-tienda-en-shopping",
-      "fecha": "2026-06-09"
-    },
-    {
-      "titulo": "H&M en Argentina: El gigante del Fast Fashion prepara su desembarco",
-      "resumen": "H&M planifica su entrada al mercado argentino como marca internacional de retail de moda.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://americaretail-malls.com/retail-lujo-moda/moda/hm-en-argentina-el-gigante-del-fast-fashion-prepara-su-desembarco/",
-      "fecha": "2026-06-09"
-    },
-    {
-      "titulo": "El primer \"Smart Hospital\" de Argentina se construirá en Córdoba",
-      "resumen": "Clínica Reina Fabiola construye el primer Smart Hospital de Argentina en Córdoba con inversión en infraestructura sanitaria.",
-      "sector": "salud",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://infonegocios.info/nota-principal/el-primer-smart-hospital-de-argentina-se-construira-en-cordoba-lo-hace-la-clinica-reina-fabiola",
-      "fecha": "2026-06-09"
-    },
-    {
-      "titulo": "Tecnología, inversión y empleo: Sancor Seguros fortalece su presencia en Neuquén",
-      "resumen": "Sancor Seguros expande operaciones en Neuquén con inversión en oficinas y nueva infraestructura comercial.",
-      "sector": "oficinas",
-      "provincia": "Neuquén",
-      "relevancia": 7,
-      "url": "https://www.lmneuquen.com/neuquen/tecnologia-inversion-y-empleo-sancor-seguros-fortalece-su-presencia-neuquen-n1236244",
-      "fecha": "2026-06-09"
-    },
-    {
-      "titulo": "Decathlon abrió en Córdoba con ventas récord en el mundo",
-      "resumen": "La cadena deportiva internacional Decathlon inauguró sucursal en Córdoba, expandiendo su presencia física en Argentina.",
-      "sector": "retail",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://www.perfil.com/noticias/cordoba/decathlon-abrio-en-cordoba-y-ahora-busca-imponer-su-concepto-de-primer-precio-tecnico.phtml",
-      "fecha": "2026-05-01"
-    },
-    {
-      "titulo": "Adidas acelera su expansión en Argentina con nuevas tiendas fuera de Buenos Aires",
-      "resumen": "La marca internacional Adidas abre nuevas sucursales en provincias argentinas para fortalecer su presencia retail.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://americaretail-malls.com/paises/argentina/adidas-acelera-su-expansion-en-argentina-con-nuevas-tiendas-fuera-de-buenos-aires/",
-      "fecha": "2026-05-15"
-    },
-    {
-      "titulo": "McDonald's acelera su expansión en Misiones con empleo e inversión local",
-      "resumen": "McDonald's abre nuevos locales en Misiones como parte de su estrategia de expansión física en Argentina.",
-      "sector": "gastronomia",
-      "provincia": "Misiones",
-      "relevancia": 9,
-      "url": "https://americaretail-malls.com/paises/argentina/mcdonalds-acelera-su-expansion-en-misiones-con-empleo-e-inversion-local/",
-      "fecha": "2026-04-15"
     }
   ]
 }
