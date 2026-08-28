@@ -1,6 +1,33 @@
 {
-  "generado": "2026-08-26T10:35:51.380Z",
+  "generado": "2026-08-28T21:07:20.396Z",
   "noticias": [
+    {
+      "titulo": "Sanatorio Regional desembarca en Maipú con una nueva sede y más de 30 especialidades médicas",
+      "resumen": "Sanatorio Regional abre nueva sucursal en Maipú con infraestructura para 30+ especialidades médicas.",
+      "sector": "salud",
+      "provincia": "Mendoza",
+      "relevancia": 9,
+      "url": "https://www.losandes.com.ar/empresas-y-negocios/sanatorio-regional-desembarca-maipu-una-nueva-sede-y-mas-30-especialidades-medicas-n6001854",
+      "fecha": "2026-08-15"
+    },
+    {
+      "titulo": "La tradicional marca británica de ropa Fred Perry llega a la Argentina: cómo será su desembarco",
+      "resumen": "Fred Perry, marca internacional de retail, se expande a Argentina con nueva estrategia de locales físicos.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/07/29/la-tradicional-marca-britanica-de-ropa-fred-perry-llega-a-la-argentina-como-sera-su-desembarco",
+      "fecha": "2026-07-29"
+    },
+    {
+      "titulo": "Córdoba se afianza como referente en investigación clínica y busca atraer nuevas inversiones",
+      "resumen": "Córdoba impulsa nuevas inversiones en infraestructura de investigación clínica y salud privada.",
+      "sector": "salud",
+      "provincia": "Córdoba",
+      "relevancia": 7,
+      "url": "https://www.perfil.com/noticias/cordoba/cordoba-se-afianza-como-referente-en-investigacion-clinica-y-busca-atraer-nuevas-inversiones.phtml",
+      "fecha": "2026-08-01"
+    },
     {
       "titulo": "Nueva central nuclear en Atucha: Meitner Energy promete invertir USD 1.200 millones",
       "resumen": "Meitner Energy invertirá USD 1.200 millones en construcción de nueva central nuclear en Atucha.",
@@ -873,33 +900,6 @@
       "relevancia": 9,
       "url": "https://americaretail-malls.com/paises/argentina/argentina-atrae-nuevas-inversiones-internacionales-con-inedita-ola-de-aperturas-comerciales/",
       "fecha": "2026-06-12"
-    },
-    {
-      "titulo": "Shell amplía su red de estaciones de servicio en Argentina",
-      "resumen": "La petrolera Shell expande su infraestructura de estaciones de combustible en territorio nacional.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-10-30-dan-ypf-shell-axion-puma-junio-2026_0_cVL7jH3Mf3.html",
-      "fecha": "2026-06-01"
-    },
-    {
-      "titulo": "Axion Energy refuerza su presencia con nuevas estaciones de servicio",
-      "resumen": "Axion Energy inaugura puntos de venta y servicios en diferentes regiones de Argentina.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-10-30-dan-ypf-shell-axion-puma-junio-2026_0_cVL7jH3Mf3.html",
-      "fecha": "2026-06-01"
-    },
-    {
-      "titulo": "Puma Energy expande su red de distribución en Argentina",
-      "resumen": "Puma Energy construye nuevas instalaciones de logística y estaciones de servicio en el país.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-10-30-dan-ypf-shell-axion-puma-junio-2026_0_cVL7jH3Mf3.html",
-      "fecha": "2026-06-01"
     }
   ]
 }
