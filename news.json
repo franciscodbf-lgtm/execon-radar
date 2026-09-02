@@ -1,6 +1,15 @@
 {
-  "generado": "2026-08-28T21:07:20.396Z",
+  "generado": "2026-09-02T14:09:22.735Z",
   "noticias": [
+    {
+      "titulo": "La reconocida marca británica de ropa que ya vende en la Argentina y abrirá un local en un shopping de Buenos Aires",
+      "resumen": "Marca de ropa británica abre tienda física en shopping de Buenos Aires.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://tn.com.ar/economia/2026/08/30/una-reconocida-marca-de-ropa-britanica-llego-al-pais-ya-abrio-su-tienda-online-y-prepara-su-desembarco-en-un-shopping/",
+      "fecha": "2026-08-30"
+    },
     {
       "titulo": "Sanatorio Regional desembarca en Maipú con una nueva sede y más de 30 especialidades médicas",
       "resumen": "Sanatorio Regional abre nueva sucursal en Maipú con infraestructura para 30+ especialidades médicas.",
@@ -891,15 +900,6 @@
       "relevancia": 9,
       "url": "https://americaretail-malls.com/paises/argentina/intimissimi-desembarca-en-argentina-y-redefine-la-competencia-del-mercado-premium/",
       "fecha": "2026-06-10"
-    },
-    {
-      "titulo": "Argentina atrae nuevas inversiones internacionales con inédita ola de aperturas comerciales",
-      "resumen": "Múltiples marcas internacionales lanzan proyectos de construcción y apertura de locales en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://americaretail-malls.com/paises/argentina/argentina-atrae-nuevas-inversiones-internacionales-con-inedita-ola-de-aperturas-comerciales/",
-      "fecha": "2026-06-12"
     }
   ]
 }
