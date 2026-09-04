@@ -1,6 +1,51 @@
 {
-  "generado": "2026-09-02T14:09:22.735Z",
+  "generado": "2026-09-04T14:02:47.160Z",
   "noticias": [
+    {
+      "titulo": "Superdry abre su tienda online en Argentina y proyecta abrir 10 locales por año",
+      "resumen": "La marca internacional de retail Superdry anuncia expansión física con apertura de 10 locales anuales en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://fortuna.perfil.com/noticias/negocios/superdry-abre-su-tienda-online-en-argentina-y-proyecta-abrir-10-locales-por-ano.phtml",
+      "fecha": "2026-07-17"
+    },
+    {
+      "titulo": "La tradicional marca británica de ropa Fred Perry llega a la Argentina: cómo será su desembarco",
+      "resumen": "Fred Perry, marca internacional de indumentaria, se instala en Argentina con apertura de locales físicos.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/07/29/la-tradicional-marca-britanica-de-ropa-fred-perry-llega-a-la-argentina-como-sera-su-desembarco",
+      "fecha": "2026-07-29"
+    },
+    {
+      "titulo": "Lucky Brand desembarca en Argentina con su propia tienda",
+      "resumen": "Lucky Brand, marca internacional, abre tienda física propia en Argentina para comercializar indumentaria.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.0223.com.ar/nota/2026-7-17-16-15-14-lucky-brand-desembarca-en-argentina-con-su-propia-tienda-y-remeras-desde-50-000",
+      "fecha": "2026-07-17"
+    },
+    {
+      "titulo": "Una histórica cadena de electrodomésticos cerró 20 sucursales",
+      "resumen": "Cadena de retail de electrodomésticos cierra 20 sucursales físicas en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.infobae.com/economia/2026/09/02/una-historica-cadena-de-electrodomesticos-cerro-20-sucursales-y-hay-decenas-de-despidos/",
+      "fecha": "2026-09-02"
+    },
+    {
+      "titulo": "La cadena gastronómica vinculada al hijo de Patricia Bullrich cerró un local clave en CABA",
+      "resumen": "Cadena gastronómica cierra sucursal principal en Ciudad Autónoma de Buenos Aires.",
+      "sector": "gastronomia",
+      "provincia": "Buenos Aires",
+      "relevancia": 6,
+      "url": "https://www.iprofesional.com/negocios/461250-la-cadena-gastronomica-vinculada-al-hijo-de-patricia-bullrich-cerro-un-local-clave-en-caba",
+      "fecha": "2026-08-15"
+    },
     {
       "titulo": "La reconocida marca británica de ropa que ya vende en la Argentina y abrirá un local en un shopping de Buenos Aires",
       "resumen": "Marca de ropa británica abre tienda física en shopping de Buenos Aires.",
@@ -855,51 +900,6 @@
       "relevancia": 6,
       "url": "https://www.cronista.com/espana/economia-finanzas/lionel-messi-construye-un-imperio-con-ingresos-de-1000-millones-de-dolares-estos-son-todos-sus-negocios-fuera-del-futbol-con-inversiones-y-empresas-clave/",
       "fecha": "2026-05-12"
-    },
-    {
-      "titulo": "H&M confirmó su llegada a la Argentina: abrirá su primera tienda en 2027",
-      "resumen": "La cadena internacional de retail H&M abrirá su primer local físico en Argentina durante 2027.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.ambito.com/negocios/hm-confirmo-su-llegada-la-argentina-abrira-su-primera-tienda-2027-n6270634",
-      "fecha": "2026-06-15"
-    },
-    {
-      "titulo": "Cómo es el nuevo centro médico inaugurado en Recoleta que atenderá a más de 40.000 pacientes por mes",
-      "resumen": "Se inauguró un nuevo centro médico en Recoleta con capacidad para más de 40.000 pacientes mensuales.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/economia/2026/04/24/como-es-el-nuevo-centro-medico-inaugurado-en-recoleta-que-atendera-a-mas-de-40000-pacientes-por-mes/",
-      "fecha": "2026-04-24"
-    },
-    {
-      "titulo": "Decathlon inauguró su segunda tienda en Argentina y abrirá 2 sucursales más este año",
-      "resumen": "La cadena de retail deportivo Decathlon expande su presencia física en Argentina con nuevas aperturas.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/negocios/456365-decathlon-activo-su-segunda-tienda-en-argentina-y-abrira-otras-dos-sucursales-este-ano",
-      "fecha": "2026-06-15"
-    },
-    {
-      "titulo": "El mayor banco de inversión de Brasil activa su plan de expansión en Argentina",
-      "resumen": "Banco brasileño implementa su estrategia de expansión con instalaciones físicas en territorio argentino.",
-      "sector": "banco",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.iprofesional.com/negocios/454490-el-mayor-banco-de-inversion-de-brasil-activa-su-plan-de-expansion-en-argentina",
-      "fecha": "2026-05-20"
-    },
-    {
-      "titulo": "Intimissimi desembarca en Argentina y redefine la competencia del mercado premium",
-      "resumen": "La marca internacional Intimissimi abre sus primeras tiendas físicas en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://americaretail-malls.com/paises/argentina/intimissimi-desembarca-en-argentina-y-redefine-la-competencia-del-mercado-premium/",
-      "fecha": "2026-06-10"
     }
   ]
 }
