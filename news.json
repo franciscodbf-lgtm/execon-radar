@@ -1,6 +1,15 @@
 {
-  "generado": "2026-09-04T14:02:47.160Z",
+  "generado": "2026-09-07T15:33:30.862Z",
   "noticias": [
+    {
+      "titulo": "BYMA abre nuevas oficinas en Córdoba",
+      "resumen": "Bolsa de Mercancías y Productos abre nuevas oficinas corporativas en Córdoba como parte de su expansión física en Argentina.",
+      "sector": "oficinas",
+      "provincia": "Córdoba",
+      "relevancia": 7,
+      "url": "https://infonegocios.info/plus/cordoba-capital-federal-del-mercado-de-capitales-por-que-y-donde-byma-abre-nuevas-oficinas-en-la-ciudad",
+      "fecha": "2026-07-01"
+    },
     {
       "titulo": "Superdry abre su tienda online en Argentina y proyecta abrir 10 locales por año",
       "resumen": "La marca internacional de retail Superdry anuncia expansión física con apertura de 10 locales anuales en Argentina.",
@@ -891,15 +900,6 @@
       "relevancia": 9,
       "url": "https://www.infobae.com/economia/2026/04/24/los-proyectos-presentados-en-el-rigi-ya-suman-usd-95000-millones-uno-por-uno-cuales-son/",
       "fecha": "2026-04-24"
-    },
-    {
-      "titulo": "Lionel Messi construye un imperio con ingresos de 1000 millones de dólares: estos son todos sus negocios",
-      "resumen": "Messi desarrolla negocios y emprendimientos físicos en Argentina con inversiones en múltiples sectores.",
-      "sector": "otros",
-      "provincia": "Buenos Aires",
-      "relevancia": 6,
-      "url": "https://www.cronista.com/espana/economia-finanzas/lionel-messi-construye-un-imperio-con-ingresos-de-1000-millones-de-dolares-estos-son-todos-sus-negocios-fuera-del-futbol-con-inversiones-y-empresas-clave/",
-      "fecha": "2026-05-12"
     }
   ]
 }
