@@ -1,6 +1,87 @@
 {
-  "generado": "2026-09-07T15:33:30.862Z",
+  "generado": "2026-09-09T14:12:59.710Z",
   "noticias": [
+    {
+      "titulo": "Emblemático supermercado con más de 1.000 sucursales busca vender su negocio en Argentina",
+      "resumen": "Gran cadena de supermercados explora opciones de venta de su operación minorista en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://www.iprofesional.com/negocios/460651-emblematico-supermercado-con-mas-1000-sucursales-busca-vender-su-negocio-en-argentina",
+      "fecha": "2026-08-01"
+    },
+    {
+      "titulo": "Kohler invierte US$ 4,5 millones y desembarca en Argentina",
+      "resumen": "Marca internacional de baños y cocinas realiza inversión para instalarse en el mercado argentino.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.forbesargentina.com/negocios/otra-marca-internacional-llega-kohler-gigante-banos-cocinas-invierte-us-45-millones-desembarca-argentina-n95710",
+      "fecha": "2026-08-15"
+    },
+    {
+      "titulo": "Andreani convirtió a Córdoba en el hub logístico del interior",
+      "resumen": "Empresa de logística expande operaciones con nuevo centro de distribución en Córdoba para atender 20.000 pymes.",
+      "sector": "logistica",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.perfil.com/noticias/cordoba/andreani-convirtio-a-cordoba-en-el-hub-logistico-del-interior-y-ya-trabaja-con-mas-de-20000-pymes.phtml",
+      "fecha": "2026-08-10"
+    },
+    {
+      "titulo": "Descuentos en combustibles: YPF, Shell, Axion y Puma",
+      "resumen": "Principales cadenas de estaciones de servicio implementan ofertas en sus puntos de venta.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.iprofesional.com/energia/461371-descuentos-en-combustibles-y-una-guia-de-ahorro-de-hasta-30-en-ypf-shell-axion-y-puma",
+      "fecha": "2026-08-05"
+    },
+    {
+      "titulo": "PAMI confirmó lista de hospitales y clínicas para atención en agosto 2026",
+      "resumen": "Red de instituciones de salud privada disponibles para atención de jubilados con cobertura PAMI.",
+      "sector": "salud",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.cronista.com/informacion-gral/oficial-pami-confirmo-la-lista-de-hospitales-y-clinicas-en-donde-los-jubilados-podran-atenderse-en-agosto-de-2026/",
+      "fecha": "2026-08-01"
+    },
+    {
+      "titulo": "Clausuraron área de internación de Clínica Mar del Plata",
+      "resumen": "Institución de salud privada en Mar del Plata suspende operaciones de internación.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 6,
+      "url": "https://www.0223.com.ar/nota/2026-8-20-19-54-0-clausuraron-el-area-de-internacion-de-la-clinica-mar-del-plata-no-pueden-ingresar-mas-pacientes",
+      "fecha": "2026-08-20"
+    },
+    {
+      "titulo": "Telecom Argentina designó nuevo Chief Financial Officer",
+      "resumen": "Cambio de estructura ejecutiva en empresa de telecomunicaciones operando en Argentina.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 5,
+      "url": "https://www.infobae.com/economia/networking/2026/07/27/telecom-argentina-designo-a-su-nuevo-chief-financial-officer-cfo/",
+      "fecha": "2026-07-27"
+    },
+    {
+      "titulo": "La menor inversión pública en democracia",
+      "resumen": "Análisis sobre niveles de inversión en infraestructura pública durante período democrático en Argentina.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 4,
+      "url": "https://www.pagina12.com.ar/2026/08/01/la-menor-inversion-publica-en-democracia/",
+      "fecha": "2026-08-01"
+    },
+    {
+      "titulo": "Las empresas mantuvieron inversión para regalo a empleados por Día del Niño",
+      "resumen": "Empresas mantienen asignación presupuestaria para beneficios a empleados en Argentina.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 3,
+      "url": "https://www.iprofesional.com/management/462097-las-empresas-mantuvieron-la-inversion-para-el-regalo-a-empleados-por-el-dia-del-nino",
+      "fecha": "2026-08-10"
+    },
     {
       "titulo": "BYMA abre nuevas oficinas en Córdoba",
       "resumen": "Bolsa de Mercancías y Productos abre nuevas oficinas corporativas en Córdoba como parte de su expansión física en Argentina.",
@@ -819,87 +900,6 @@
       "relevancia": 6,
       "url": "https://www.lavoz.com.ar/ciudadanos/caida-demanda-sanatorio-porteno-cerro-areas-obstetricia-neonatologia_0_UXOQwKCih5.html",
       "fecha": "2026-05-30"
-    },
-    {
-      "titulo": "Clínica ilegal allanada en González Catán operaba sin habilitación",
-      "resumen": "Clausura de instalación médica irregular con operación de farmacia y ambulancias en provincia de Buenos Aires.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 5,
-      "url": "https://tn.com.ar/policiales/2026/05/19/allanen-una-clinica-de-gonzalez-catan-en-la-que-operaba-una-red-de-falsos-medicos-hay-cinco-detenidos/",
-      "fecha": "2026-05-19"
-    },
-    {
-      "titulo": "YPF estructura operativa de estaciones de servicio",
-      "resumen": "Información sobre estructura salarial y operación de estaciones YPF en Argentina.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 4,
-      "url": "https://www.iprofesional.com/management/453630-cuanto-cobra-un-playero-de-ypf-en-mayo-2026",
-      "fecha": "2026-06-01"
-    },
-    {
-      "titulo": "Hospitales universitarios en riesgo por falta de financiamiento",
-      "resumen": "Situación crítica de infraestructura sanitaria universitaria en Argentina por restricciones presupuestarias.",
-      "sector": "salud",
-      "provincia": "Nacional",
-      "relevancia": 5,
-      "url": "https://www.infobae.com/politica/2026/05/04/la-uba-alerto-que-los-hospitales-universitarios-podrian-dejar-de-funcionar-por-falta-de-financiamiento",
-      "fecha": "2026-05-04"
-    },
-    {
-      "titulo": "Adidas sigue apostando en Argentina y abrió una nueva sucursal en el interior del país",
-      "resumen": "Adidas inaugura nueva sucursal retail en el interior de Argentina como parte de su expansión física en el país.",
-      "sector": "retail",
-      "provincia": "Interior",
-      "relevancia": 8,
-      "url": "https://www.iprofesional.com/negocios/454457-adidas-sigue-apostando-en-argentina-y-abrio-una-nueva-sucursal-en-el-interior-del-pais",
-      "fecha": "2026-05-15"
-    },
-    {
-      "titulo": "El dueño de The Food Truck Store invierte más de u$s 200.000 en una nueva marca para competir en el boom hamburguesero",
-      "resumen": "Inversor argentino destina más de USD 200.000 para construir y lanzar nueva marca de gastronomía en Argentina.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.cronista.com/negocios/el-dueno-de-the-food-truck-store-invierte-mas-de-us-200000-en-una-nueva-marca-para-competir-en-el-boom-hamburguesero/",
-      "fecha": "2026-05-10"
-    },
-    {
-      "titulo": "Estaciones de servicio YPF y Shell cambiarán para siempre por medida de Sturzenegger",
-      "resumen": "YPF y Shell realizarán transformaciones físicas en sus estaciones de servicio por nueva política gubernamental.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.iprofesional.com/politica/454645-estaciones-servicio-ypf-y-shell-cambiaran-para-siempre-por-medida-de-federico-sturzenegger",
-      "fecha": "2026-05-25"
-    },
-    {
-      "titulo": "En qué estación es más barato cargar nafta súper y premium: ¿YPF, Shell, Axion o Puma?",
-      "resumen": "Análisis de presencia y expansion de cadenas de estaciones de servicio en Argentina: YPF, Shell, Axion y Puma.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.iprofesional.com/energia/454796-en-que-estacion-de-servicio-es-mas-barato-cargar-nafta-super-y-premium-tras-suba-de-ypf",
-      "fecha": "2026-05-20"
-    },
-    {
-      "titulo": "El Gobierno de la Ciudad cubrirá los gastos del Hospital de Clínicas ante la falta de financiamiento",
-      "resumen": "Inversión pública en infraestructura del Hospital de Clínicas, importante institución de salud en Buenos Aires.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 7,
-      "url": "https://www.infobae.com/politica/2026/05/20/el-gobierno-porteno-financiara-al-hospital-de-clinicas-ante-el-reclamo-por-la-falta-de-financiamiento/",
-      "fecha": "2026-05-20"
-    },
-    {
-      "titulo": "Los proyectos presentados en el RIGI ya suman USD 95.000 millones: uno por uno, cuáles son",
-      "resumen": "Proyectos de inversión y construcción en Argentina bajo el régimen RIGI superan los USD 95.000 millones.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/economia/2026/04/24/los-proyectos-presentados-en-el-rigi-ya-suman-usd-95000-millones-uno-por-uno-cuales-son/",
-      "fecha": "2026-04-24"
     }
   ]
 }
