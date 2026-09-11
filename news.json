@@ -1,6 +1,87 @@
 {
-  "generado": "2026-09-09T14:12:59.710Z",
+  "generado": "2026-09-11T14:06:14.874Z",
   "noticias": [
+    {
+      "titulo": "Nike abre nueva tienda gigante en Argentina",
+      "resumen": "Nike inaugura su nueva y gigante tienda física en Argentina con formato expandido de retail.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/459548-la-nueva-y-gigante-tienda-de-nike-en-argentina-donde-queda-y-que-formato-trae",
+      "fecha": "2026-08-30"
+    },
+    {
+      "titulo": "Cole Haan desembarca en Argentina con tienda en Galerías Pacífico",
+      "resumen": "Cole Haan abre su primera tienda física en Argentina ubicada en Galerías Pacífico con operaciones de retail.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://infonegocios.info/amp/default/cole-haan-desembarca-en-argentina-con-su-primera-tienda-en-galerias-pacifico-y-venta-online-propia",
+      "fecha": "2026-08-25"
+    },
+    {
+      "titulo": "Fred Perry llega a Argentina con nueva presencia física",
+      "resumen": "La marca británica Fred Perry inicia su desembarco en Argentina con apertura de tiendas retail.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/07/29/la-tradicional-marca-britanica-de-ropa-fred-perry-llega-a-la-argentina-como-sera-su-desembarco/",
+      "fecha": "2026-07-29"
+    },
+    {
+      "titulo": "Nuevos polos inmobiliarios industriales en Argentina",
+      "resumen": "Empresas invierten en nuevos polos inmobiliarios industriales para mega proyectos de construcción en Argentina.",
+      "sector": "industrial",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.cronista.com/negocios/el-nuevo-mapa-industrial-los-polos-inmobiliarios-que-las-empresas-eligen-para-sus-mega-inversiones/",
+      "fecha": "2026-08-28"
+    },
+    {
+      "titulo": "YPF continúa operaciones de estaciones de servicio en Argentina",
+      "resumen": "YPF mantiene su red de estaciones de servicio operativas en territorio argentino.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.iprofesional.com/management/460199-cuanto-cobra-un-playero-de-ypf-en-agosto-2026",
+      "fecha": "2026-08-15"
+    },
+    {
+      "titulo": "Sector salud privada recibe apoyo del Gobierno para evitar cierres",
+      "resumen": "El Gobierno frena embargos a clínicas privadas en Argentina, favoreciendo inversión en infraestructura sanitaria.",
+      "sector": "salud",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.iprofesional.com/negocios/461235-salud-privada-alivio-fiscal-clinicas-evitan-cierres-embargos-frenados-julio-2026",
+      "fecha": "2026-08-10"
+    },
+    {
+      "titulo": "Marca internacional de ropa llega a Argentina con presencia física",
+      "resumen": "Nueva marca de ropa internacional desembarca en Argentina con aperturas de tiendas retail.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://www.iprofesional.com/actualidad/463513-marca-de-ropa-internacional-llega-al-pais-con-precios-como-en-europa",
+      "fecha": "2026-09-05"
+    },
+    {
+      "titulo": "Clínica Mar del Plata en operación con infraestructura sanitaria",
+      "resumen": "Clínica privada en Mar del Plata continúa con instalaciones sanitarias en Argentina.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 6,
+      "url": "https://www.infobae.com/sociedad/policiales/2026/08/15/denuncias-de-mala-praxis-y-falta-de-atencion-la-justicia-allano-la-clinica-mar-del-plata-y-secuestro-historias-clinicas/",
+      "fecha": "2026-08-15"
+    },
+    {
+      "titulo": "Tesla planifica desembarco con infraestructura de ventas en Argentina",
+      "resumen": "Tesla prepara su estrategia de desembarco en Argentina con establecimientos físicos de retail automotriz.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/autos/460830-cuando-empezara-tesla-a-vender-autos-en-argentina-y-como-sera-su-desembarco",
+      "fecha": "2026-08-20"
+    },
     {
       "titulo": "Emblemático supermercado con más de 1.000 sucursales busca vender su negocio en Argentina",
       "resumen": "Gran cadena de supermercados explora opciones de venta de su operación minorista en Argentina.",
@@ -819,87 +900,6 @@
       "relevancia": 6,
       "url": "https://www.perfil.com/noticias/economia/el-banco-central-quedo-al-borde-de-completar-su-meta-de-compra-de-dolares-para-2026.phtml",
       "fecha": "2026-06-12"
-    },
-    {
-      "titulo": "Se resiente la atención de Ioma en Mar del Plata: cortó el convenio con una clínica privada",
-      "resumen": "IOMA suspende convenio con clínica privada en Mar del Plata, afectando prestaciones de salud.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 5,
-      "url": "https://www.0223.com.ar/nota/2026-5-6-20-56-0-se-resiente-la-atencion-de-ioma-en-mar-del-plata-corto-el-convenio-con-una-clinica-privada",
-      "fecha": "2026-05-06"
-    },
-    {
-      "titulo": "Los 11 países de Latinoamérica más complejos para hacer negocios en 2026, según TMF",
-      "resumen": "Análisis de complejidad regulatoria en Latinoamérica incluye evaluación del contexto empresarial argentino.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 5,
-      "url": "https://www.bloomberglinea.com/negocios/los-11-paises-de-latinoamerica-mas-complejos-para-hacer-negocios-en-2026-segun-tmf/",
-      "fecha": "2026-06-12"
-    },
-    {
-      "titulo": "McDonald's se expande en Mendoza con la apertura de su décimo local",
-      "resumen": "McDonald's abre nuevo local en Mendoza, continuando su expansión física en Argentina.",
-      "sector": "gastronomia",
-      "provincia": "Mendoza",
-      "relevancia": 9,
-      "url": "https://mendoza24.com.ar/negocios_empresas/31200-McDonald's-se-expande-en-Mendoza-con-la-apertura-de-su-decimo-local%C2%A0",
-      "fecha": "2026-06-09"
-    },
-    {
-      "titulo": "McDonald's abre nueva sucursal en Argentina y busca 80 empleados",
-      "resumen": "Expansión física de McDonald's en ciudad argentina con apertura de nuevo local.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/management/455259-en-que-ciudad-argentina-abre-mcdonalds-y-busca-80-jovenes-para-trabajar",
-      "fecha": "2026-06-11"
-    },
-    {
-      "titulo": "Núñez se convierte en nuevo hub de oficinas corporativas",
-      "resumen": "Desarrollo de zona de oficinas en Núñez como hub corporativo para empresas en Argentina.",
-      "sector": "oficinas",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.forbesargentina.com/negocios/nunez-convierte-nuevo-hub-oficinas-mapa-corporativo-miran-empresas-n91591",
-      "fecha": "2026-06-10"
-    },
-    {
-      "titulo": "Apertura de sanatorio impulsa salud de alta complejidad en la Patagonia",
-      "resumen": "Inauguración de sanatorio privado de alta complejidad en región patagónica argentina.",
-      "sector": "salud",
-      "provincia": "Patagonia",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/inhouse/2026/06/08/la-apertura-de-un-sanatorio-impulsa-la-salud-de-alta-complejidad-en-la-patagonia/",
-      "fecha": "2026-06-08"
-    },
-    {
-      "titulo": "Gigante de electrodomésticos cierra sucursales en el interior",
-      "resumen": "Retracción de cadena retail de electrodomésticos con cierre de locales en provincias argentinas.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.iprofesional.com/negocios/454352-gigante-de-la-venta-de-electrodomesticos-cierra-mas-sucursales-y-se-achica-en-el-interior",
-      "fecha": "2026-06-05"
-    },
-    {
-      "titulo": "Desarrollos inmobiliarios de Edisur diversifican inversión",
-      "resumen": "Tres nuevos desarrollos inmobiliarios de Edisur para expansión de inversión en Argentina.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.lavoz.com.ar/espacio-de-marca/desarrollos-edisur-diversificar-inversion-inmobiliaria_0_LtvVfBS34Q.html",
-      "fecha": "2026-06-03"
-    },
-    {
-      "titulo": "Sanatorio porteño cierra áreas de obstetricia y neonatología",
-      "resumen": "Restructuración de sanatorio privado en Buenos Aires con cierre de servicios médicos especializados.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 6,
-      "url": "https://www.lavoz.com.ar/ciudadanos/caida-demanda-sanatorio-porteno-cerro-areas-obstetricia-neonatologia_0_UXOQwKCih5.html",
-      "fecha": "2026-05-30"
     }
   ]
 }
