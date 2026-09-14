@@ -1,6 +1,78 @@
 {
-  "generado": "2026-09-11T14:06:14.874Z",
+  "generado": "2026-09-14T16:12:08.531Z",
   "noticias": [
+    {
+      "titulo": "Cadena de ropa ultrabarata llega a Argentina con descuentos de hasta 60% en su apertura",
+      "resumen": "Nueva cadena internacional de retail abre sucursales en Argentina con estrategia comercial agresiva.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/461447-cadena-ropa-ultrabarata-llega-a-argentina-con-descuentos-de-hasta-60-por-ciento-en-su-apertura",
+      "fecha": "2026-08-15"
+    },
+    {
+      "titulo": "Cuánto salen las zapatillas de la histórica marca internacional que llega a Argentina",
+      "resumen": "Marca internacional de calzado desembarca en Argentina con apertura de locales comerciales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/463794-cuanto-salen-las-zapatillas-de-la-nueva-marca-internacional-que-llega-a-argentina",
+      "fecha": "2026-08-20"
+    },
+    {
+      "titulo": "Dueño de Todomoda trae famosa marca de Brasil y va por todo en el negocio de accesorios",
+      "resumen": "Empresario argentino invierte en nueva marca de accesorios con expansión física en el país.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.iprofesional.com/negocios/460461-dueno-de-todomoda-trae-famosa-marca-de-brasil-y-va-por-todo-en-el-negocio-de-accesorios",
+      "fecha": "2026-08-10"
+    },
+    {
+      "titulo": "Cinco motivos por los que Córdoba puede convertirse en el gran hub de logística comercial del interior",
+      "resumen": "Córdoba desarrolla infraestructura logística y centros de distribución para convertirse en hub regional.",
+      "sector": "logistica",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.lavoz.com.ar/negocios/motivos-cordoba-puede-convertirse-gran-hub-logistica-comercial-interior_0_3XRloLzM1Y.html",
+      "fecha": "2026-08-18"
+    },
+    {
+      "titulo": "El comunicado del sanatorio de Rosario donde estaba internado Jorge Messi",
+      "resumen": "Sanatorio privado de Rosario comunica operaciones y expansión de servicios de salud.",
+      "sector": "salud",
+      "provincia": "Santa Fe",
+      "relevancia": 6,
+      "url": "https://www.infobae.com/deportes/2026/08/08/el-comunicado-del-sanatorio-de-rosario-donde-estaba-internado-jorge-messi/",
+      "fecha": "2026-08-08"
+    },
+    {
+      "titulo": "El Gobierno inhabilitó a 18 prepagas y obras sociales: cuáles son las prestadoras que dejarán de funcionar",
+      "resumen": "Regulación estatal sobre operadores de salud privada que afecta infraestructura sanitaria nacional.",
+      "sector": "salud",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.infobae.com/economia/2026/08/20/el-gobierno-inhabilito-a-18-prepagas-y-obras-sociales-cuales-son-las-prestadoras-que-dejaran-de-funcionar/",
+      "fecha": "2026-08-20"
+    },
+    {
+      "titulo": "Marca internacional de tecnología, salud y bienestar desembarca con sus dispositivos en la Argentina",
+      "resumen": "Empresa internacional abre operaciones comerciales en Argentina para distribución de productos de salud.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.cronista.com/infotechnology/gadgets/marca-internacional-de-tecnologia-salud-y-bienestar-desembarca-con-sus-dispositivos-en-la-argentina/",
+      "fecha": "2026-08-12"
+    },
+    {
+      "titulo": "Kiko Milano llega a Uruguay y no descarta un desembarco en Argentina",
+      "resumen": "Marca de maquillaje internacional planifica expansión hacia Argentina con apertura de locales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 5,
+      "url": "https://www.iprofesional.com/negocios/462941-la-marca-de-maquillaje-kiko-milano-llega-uruguay-y-no-descarta-un-desembarco-en-argentina",
+      "fecha": "2026-08-14"
+    },
     {
       "titulo": "Nike abre nueva tienda gigante en Argentina",
       "resumen": "Nike inaugura su nueva y gigante tienda física en Argentina con formato expandido de retail.",
@@ -828,78 +900,6 @@
       "relevancia": 8,
       "url": "https://www.0223.com.ar/nota/2026-5-19-10-19-0-llega-una-marca-internacional-a-mar-del-plata-con-un-local-enorme-en-bendu",
       "fecha": "2026-05-19"
-    },
-    {
-      "titulo": "Econovo invierte US$ 20 millones: expande su planta en Oncativo y diseña equipos para Europa",
-      "resumen": "Econovo invierte US$20 millones para expandir su planta industrial en Oncativo, Córdoba.",
-      "sector": "industrial",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://www.perfil.com/noticias/cordoba/econovo-invierte-us-20-millones-expande-su-planta-en-oncativo-y-disena-equipos-para-europa.phtml",
-      "fecha": "2026-07-01"
-    },
-    {
-      "titulo": "McDonald's se expande en Mendoza con la apertura de su décimo local",
-      "resumen": "McDonald's abre su décimo local en Mendoza, expandiendo su presencia física en la provincia.",
-      "sector": "gastronomia",
-      "provincia": "Mendoza",
-      "relevancia": 9,
-      "url": "https://mendoza24.com.ar/negocios_empresas/31200-McDonald%E2%80%99s-se-expande-en-Mendoza-con-la-apertura-de-su-decimo-local%C2%A0",
-      "fecha": "2026-06-12"
-    },
-    {
-      "titulo": "Galeno inauguró un Sanatorio de la Trinidad en Neuquén",
-      "resumen": "Grupo Galeno inaugura un nuevo sanatorio en Neuquén, expandiendo su red de salud privada.",
-      "sector": "salud",
-      "provincia": "Neuquén",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/economia/networking/2026/06/04/galeno-inauguro-un-sanatorio-de-la-trinidad-en-neuquen/",
-      "fecha": "2026-06-04"
-    },
-    {
-      "titulo": "Grupo GEA expande su red con un Servicio de Cardiología y Hemodinamia en el Hospital Militar Regional Córdoba",
-      "resumen": "Grupo GEA expande servicios médicos con nueva unidad de Cardiología en Córdoba.",
-      "sector": "salud",
-      "provincia": "Córdoba",
-      "relevancia": 8,
-      "url": "https://puntoapunto.com.ar/grupo-gea-expande-su-red-con-un-servicio-de-cardiologia-y-hemodinamia-en-el-hospital-militar-regional-cordoba",
-      "fecha": "2026-06-10"
-    },
-    {
-      "titulo": "Reforman el shopping más antiguo del país: así será el proyecto que incorporará una clínica, un vacunatorio y más gastronomía",
-      "resumen": "Reforma integral del shopping más antiguo de Argentina con incorporación de clínica, vacunatorio y espacios gastronómicos.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 10,
-      "url": "https://www.infobae.com/economia/2026/06/01/reforman-el-shopping-mas-antiguo-del-pais-asi-sera-el-proyecto-que-incorporara-una-clinica-un-vacunatorio-y-mas-gastronomia/",
-      "fecha": "2026-06-01"
-    },
-    {
-      "titulo": "Otra marca internacional llega a la Argentina: abrirá en un importante shopping porteño",
-      "resumen": "Marca internacional anuncia apertura de local en importante shopping de Buenos Aires.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://www.cronista.com/negocios/otra-marca-internacional-llega-a-la-argentina-abrira-en-un-importante-shopping-porteno/",
-      "fecha": "2026-06-12"
-    },
-    {
-      "titulo": "Argentina frente a la oportunidad histórica: la IA impulsa inversiones en infraestructura digital",
-      "resumen": "Inversión en infraestructura de centros de datos en Argentina impulsada por demanda de IA.",
-      "sector": "industrial",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://fortuna.perfil.com/noticias/tecnologia/argentina-frente-a-la-oportunidad-historica-la-ia-impulsa-inversiones-en-infraestructura-digital.phtml",
-      "fecha": "2026-06-12"
-    },
-    {
-      "titulo": "El Banco Central quedó al borde de completar su meta de compra de dólares para 2026",
-      "resumen": "Banco Central Argentina avanza en cumplimiento de metas de compra de divisas.",
-      "sector": "banco",
-      "provincia": "Buenos Aires",
-      "relevancia": 6,
-      "url": "https://www.perfil.com/noticias/economia/el-banco-central-quedo-al-borde-de-completar-su-meta-de-compra-de-dolares-para-2026.phtml",
-      "fecha": "2026-06-12"
     }
   ]
 }
