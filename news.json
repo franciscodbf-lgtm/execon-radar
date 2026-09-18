@@ -1,6 +1,42 @@
 {
-  "generado": "2026-09-14T16:12:08.531Z",
+  "generado": "2026-09-18T14:09:07.465Z",
   "noticias": [
+    {
+      "titulo": "Suma 27 locales, invirtió US$ 700.000 en un nuevo canal y alista su llegada a EE.UU.: el plan de expansión de esta cadena patagónica",
+      "resumen": "Cadena gastronómica patagónica expande con 27 nuevos locales e inversión en infraestructura física.",
+      "sector": "gastronomia",
+      "provincia": "Patagonia",
+      "relevancia": 9,
+      "url": "https://www.forbesargentina.com/negocios/suma-27-locales-invirtio-us-700000-nuevo-canal-alista-su-llegada-eeuu-plan-expansion-esta-cadena-patagonica-n97689",
+      "fecha": "2026-08-20"
+    },
+    {
+      "titulo": "Valparaíso Motors suma metros, marcas y ventas: proyecta 1.200 unidades para 2026",
+      "resumen": "Concesionario automotriz expande sus instalaciones físicas y proyecta crecimiento de ventas.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://puntoapunto.com.ar/valparaiso-motors-suma-metros-marcas-y-ventas-proyecta-1-200-unidades-para-2026/",
+      "fecha": "2026-08-20"
+    },
+    {
+      "titulo": "Parta avanza en Río Cuarto: cómo es el parque industrial y logístico que sumará un puerto seco a la región",
+      "resumen": "Parque industrial y logístico con puerto seco en construcción en Río Cuarto, Córdoba.",
+      "sector": "logistica",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.perfil.com/noticias/cordoba/parta-avanza-en-rio-cuarto-como-es-el-parque-industrial-y-logistico-que-sumara-un-puerto-seco-a-la-region.phtml",
+      "fecha": "2026-08-20"
+    },
+    {
+      "titulo": "Julio Alak presentó el plan para transformar el aeropuerto local en un centro logístico multimodal",
+      "resumen": "Proyecto de transformación de infraestructura aeroportuaria en centro logístico multimodal.",
+      "sector": "logistica",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.pagina12.com.ar/2026/09/17/julio-alak-presento-el-plan-para-transformar-el-aeropuerto-local-en-en-un-centro-logistico-multimodal",
+      "fecha": "2026-09-17"
+    },
     {
       "titulo": "Cadena de ropa ultrabarata llega a Argentina con descuentos de hasta 60% en su apertura",
       "resumen": "Nueva cadena internacional de retail abre sucursales en Argentina con estrategia comercial agresiva.",
@@ -864,42 +900,6 @@
       "relevancia": 9,
       "url": "https://www.infobae.com/tendencias/2026/07/03/baires-grill-reunio-a-famosos-y-figuras-en-miami-para-presentar-su-llegada-a-buenos-aires/",
       "fecha": "2026-07-03"
-    },
-    {
-      "titulo": "McDonald's abrió un nuevo local en Mendoza: dónde está el décimo restaurante de la provincia",
-      "resumen": "Cadena internacional McDonald's inaugura su décimo local en Mendoza.",
-      "sector": "gastronomia",
-      "provincia": "Mendoza",
-      "relevancia": 9,
-      "url": "https://fortuna.perfil.com/noticias/negocios/mcdonalds-abrio-un-nuevo-local-en-mendoza-donde-esta-el-decimo-restaurante-de-la-provincia.phtml",
-      "fecha": "2026-06-15"
-    },
-    {
-      "titulo": "Miniso acelera su expansión en la Argentina: abrió su segunda tienda y avanza con un plan de US$50 millones",
-      "resumen": "Miniso abre segunda tienda en Argentina e invierte US$50 millones en expansión retail.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.lanacion.com.ar/economia/negocios/miniso-acelera-su-expansion-en-la-argentina-abrio-su-segunda-tienda-y-avanza-con-un-plan-de-us50-nid28052026/",
-      "fecha": "2026-05-20"
-    },
-    {
-      "titulo": "Nike fortalece su expansión comercial con una nueva inversión estratégica en la Patagonia Argentina",
-      "resumen": "Nike invierte en nueva ubicación comercial en la Patagonia Argentina.",
-      "sector": "retail",
-      "provincia": "Patagonia",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/nike-fortalece-su-expansion-comercial-con-una-nueva-inversion-estrategica-en-la-patagonia-argentina/",
-      "fecha": "2026-06-01"
-    },
-    {
-      "titulo": "Llega una marca internacional a Mar del Plata con un local enorme en Bendu",
-      "resumen": "Marca internacional abre local de grandes dimensiones en centro comercial Bendu de Mar del Plata.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://www.0223.com.ar/nota/2026-5-19-10-19-0-llega-una-marca-internacional-a-mar-del-plata-con-un-local-enorme-en-bendu",
-      "fecha": "2026-05-19"
     }
   ]
 }
