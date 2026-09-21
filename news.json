@@ -1,6 +1,24 @@
 {
-  "generado": "2026-09-18T14:09:07.465Z",
+  "generado": "2026-09-21T16:17:01.526Z",
   "noticias": [
+    {
+      "titulo": "Victoria's Secret abrirá su primer local en Córdoba",
+      "resumen": "La marca internacional de retail Victoria's Secret inaugura su primer sucursal en Córdoba con inversión en infraestructura comercial.",
+      "sector": "retail",
+      "provincia": "Córdoba",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/463336-victorias-secret-abrira-su-primer-local-en-cordoba-y-ya-tiene-fecha-de-inauguracion",
+      "fecha": "2026-09-01"
+    },
+    {
+      "titulo": "Julio Alak presentó el plan para transformar el aeropuerto local en un centro logístico multimodal",
+      "resumen": "Proyecto de transformación de infraestructura aeroportuaria en centro logístico multimodal con inversión en construcción y ampliación de instalaciones.",
+      "sector": "logistica",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.pagina12.com.ar/2026/09/17/julio-alak-presento-el-plan-para-transformar-el-aeropuerto-local-en-un-centro-logistico-multimodal/",
+      "fecha": "2026-09-17"
+    },
     {
       "titulo": "Suma 27 locales, invirtió US$ 700.000 en un nuevo canal y alista su llegada a EE.UU.: el plan de expansión de esta cadena patagónica",
       "resumen": "Cadena gastronómica patagónica expande con 27 nuevos locales e inversión en infraestructura física.",
@@ -882,24 +900,6 @@
       "relevancia": 9,
       "url": "https://americaretail-malls.com/paises/espana/bertos-milanesa-duplicara-ingresos-y-sumara-15-locales-en-2027/",
       "fecha": "2026-06-15"
-    },
-    {
-      "titulo": "La principal plaza inmobiliaria de la Patagonia se transforma: una obra de 70.000 m² llega a la zona más poblada de Neuquén capital",
-      "resumen": "Importante proyecto de desarrollo inmobiliario y comercial de 70.000 m² en Neuquén que transformará la principal plaza de la Patagonia.",
-      "sector": "retail",
-      "provincia": "Neuquén",
-      "relevancia": 9,
-      "url": "https://www.rionegro.com.ar/propiedades/la-principal-plaza-inmobiliaria-de-la-patagonia-se-transforma-una-obra-de-70-000-m%C2%B2-llega-a-su-zona-mas-poblada/",
-      "fecha": "2026-07-04"
-    },
-    {
-      "titulo": "Baires Grill reunió a famosos y figuras en Miami para presentar su llegada a Buenos Aires",
-      "resumen": "Cadena gastronómica argentina abre nuevo restaurante en Buenos Aires.",
-      "sector": "gastronomia",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/tendencias/2026/07/03/baires-grill-reunio-a-famosos-y-figuras-en-miami-para-presentar-su-llegada-a-buenos-aires/",
-      "fecha": "2026-07-03"
     }
   ]
 }
