@@ -1,6 +1,42 @@
 {
-  "generado": "2026-09-21T16:17:01.526Z",
+  "generado": "2026-09-23T14:44:49.775Z",
   "noticias": [
+    {
+      "titulo": "Confirman la fecha de apertura del nuevo McDonald's de Bendu",
+      "resumen": "McDonald's abre nuevo local en Mar del Plata, generando 70 empleos con inversión en infraestructura gastronómica.",
+      "sector": "gastronomia",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.0223.com.ar/nota/2026-9-21-17-56-0-confirman-la-fecha-de-apertura-del-nuevo-mcdonald-s-de-bendu-generara-70-empleos-para-jovenes-marplatenses",
+      "fecha": "2026-09-21"
+    },
+    {
+      "titulo": "FUROR POR DECATHLON: llega a un famoso shopping de Buenos Aires",
+      "resumen": "Decathlon inaugura nueva sucursal en shopping porteño, expandiendo su presencia retail en CABA.",
+      "sector": "retail",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://eleconomista.com.ar/negocios/furor-decathlon-llega-famoso-shopping-buenos-aires-regalara-tarjetas-200000-n98341",
+      "fecha": "2026-09-21"
+    },
+    {
+      "titulo": "El fideicomiso de Sancor Seguros y HIT para su nuevo edificio en Núñez",
+      "resumen": "Sancor Seguros desarrolla nuevo edificio corporativo en Núñez, CABA, con inversión en infraestructura de oficinas.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://eleconomista.com.ar/negocios/el-fideicomiso-sancor-seguros-hit-su-nuevo-edificio-nunez-n98262",
+      "fecha": "2026-09-15"
+    },
+    {
+      "titulo": "De construir ocho departamentos a tener 52.000 m² en obra en la Patagonia",
+      "resumen": "Proyecto inmobiliario en Patagonia con expansión de 52.000 m² de obra física en desarrollo urbano.",
+      "sector": "otros",
+      "provincia": "Río Negro",
+      "relevancia": 8,
+      "url": "https://www.rionegro.com.ar/propiedades/de-construir-un-complejo-de-ocho-departamentos-a-tener-52-000-metros-cuadrados-en-obra-en-la-gran-metropolis-de-la-patagonia/",
+      "fecha": "2026-09-15"
+    },
     {
       "titulo": "Victoria's Secret abrirá su primer local en Córdoba",
       "resumen": "La marca internacional de retail Victoria's Secret inaugura su primer sucursal en Córdoba con inversión en infraestructura comercial.",
@@ -864,42 +900,6 @@
       "relevancia": 8,
       "url": "https://www.lanacion.com.ar/economia/investigacion-clinica-una-oportunidad-estrategica-para-el-desarrollo-de-la-economia-del-conocimiento-nid19052026/",
       "fecha": "2026-05-20"
-    },
-    {
-      "titulo": "Grupo de clínicas amplía infraestructura de atención pero enfrenta conflictos tarifarios con PAMI",
-      "resumen": "Red de clínicas privadas expande servicios pero reduce atención de guardia por atraso en aranceles de PAMI.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 7,
-      "url": "https://www.lanacion.com.ar/economia/un-grupo-de-clinicas-cortara-la-atencion-de-guardia-a-afiliados-al-pami-nid02062026/",
-      "fecha": "2026-06-02"
-    },
-    {
-      "titulo": "Compras digitales de alimentos ganan terreno y transforman el consumo en Latinoamérica",
-      "resumen": "Plataformas de comercio electrónico de alimentos expandem operaciones logísticas en Argentina.",
-      "sector": "logistica",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/compras-digitales-de-alimentos-ganan-terreno-y-transforman-el-consumo-en-latinoamerica/",
-      "fecha": "2026-07-01"
-    },
-    {
-      "titulo": "Mostaza acelera expansión regional fortaleciendo presencia comercial en Paraguay",
-      "resumen": "Cadena gastronómica argentina Mostaza expande operaciones con nuevos locales en la región.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://americaretail-malls.com/paises/uruguay/mostaza-acelera-su-expansion-regional-fortaleciendo-presencia-comercial-y-competitividad-en-paraguay/",
-      "fecha": "2026-07-01"
-    },
-    {
-      "titulo": "Berto's Milanesa duplicará ingresos y sumará 15 locales en 2027",
-      "resumen": "Cadena gastronómica argentina expandirá su presencia física con 15 nuevos locales.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://americaretail-malls.com/paises/espana/bertos-milanesa-duplicara-ingresos-y-sumara-15-locales-en-2027/",
-      "fecha": "2026-06-15"
     }
   ]
 }
