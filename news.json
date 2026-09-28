@@ -1,6 +1,15 @@
 {
-  "generado": "2026-09-23T14:44:49.775Z",
+  "generado": "2026-09-28T17:58:51.555Z",
   "noticias": [
+    {
+      "titulo": "La nueva apuesta del mercado corporativo: edificios icónicos renacen como oficinas premium",
+      "resumen": "Rehabilitación y reconversión de edificios históricos en oficinas corporativas de alta gama en Argentina.",
+      "sector": "oficinas",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.ambito.com/real-estate/la-nueva-apuesta-del-mercado-corporativo-edificios-iconicos-renacen-como-oficinas-premium-n6305769",
+      "fecha": "2026-09-28"
+    },
     {
       "titulo": "Confirman la fecha de apertura del nuevo McDonald's de Bendu",
       "resumen": "McDonald's abre nuevo local en Mar del Plata, generando 70 empleos con inversión en infraestructura gastronómica.",
@@ -891,15 +900,6 @@
       "relevancia": 7,
       "url": "https://www.0223.com.ar/nota/2026-7-6-13-35-23-como-ahorrar-hasta-30-en-combustibles-promociones-y-reintegros-de-ypf-shell-axion-y-puma",
       "fecha": "2026-07-06"
-    },
-    {
-      "titulo": "Investigación clínica: oportunidad estratégica para economía del conocimiento en Argentina",
-      "resumen": "Argentina potencia infraestructura de investigación clínica como polo estratégico de desarrollo en salud privada.",
-      "sector": "salud",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.lanacion.com.ar/economia/investigacion-clinica-una-oportunidad-estrategica-para-el-desarrollo-de-la-economia-del-conocimiento-nid19052026/",
-      "fecha": "2026-05-20"
     }
   ]
 }
