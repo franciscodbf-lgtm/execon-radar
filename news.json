@@ -1,6 +1,15 @@
 {
-  "generado": "2026-09-28T17:58:51.555Z",
+  "generado": "2026-09-30T16:17:16.647Z",
   "noticias": [
+    {
+      "titulo": "Decathlon llega a la Ciudad de Buenos Aires: dónde y cuándo abrirá su nueva tienda",
+      "resumen": "Decathlon abre nueva tienda de retail deportivo en CABA con inversión en infraestructura física.",
+      "sector": "retail",
+      "provincia": "Ciudad de Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.perfil.com/noticias/sociedad/decathlon-llega-a-la-ciudad-de-buenos-aires-donde-y-cuando-abrira-su-nueva-tienda.phtml",
+      "fecha": "2026-09-29"
+    },
     {
       "titulo": "La nueva apuesta del mercado corporativo: edificios icónicos renacen como oficinas premium",
       "resumen": "Rehabilitación y reconversión de edificios históricos en oficinas corporativas de alta gama en Argentina.",
@@ -891,15 +900,6 @@
       "relevancia": 8,
       "url": "https://americaretail-malls.com/paises/argentina/puercoespin-store-fortalece-su-crecimiento-con-renovado-espacio-comercial-y-nuevas-categorias-exclusivas/",
       "fecha": "2026-07-01"
-    },
-    {
-      "titulo": "YPF, Shell, Axion y Puma Energy: promociones en estaciones de servicio para julio",
-      "resumen": "Principales operadoras de estaciones de servicio lanzan promociones y reintegros para julio en Argentina.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.0223.com.ar/nota/2026-7-6-13-35-23-como-ahorrar-hasta-30-en-combustibles-promociones-y-reintegros-de-ypf-shell-axion-y-puma",
-      "fecha": "2026-07-06"
     }
   ]
 }
