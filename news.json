@@ -1,6 +1,15 @@
 {
-  "generado": "2026-09-30T16:17:16.647Z",
+  "generado": "2026-10-02T16:07:55.461Z",
   "noticias": [
+    {
+      "titulo": "Karl Lagerfeld abre su primer local en Argentina: cuál es su plan de expansión",
+      "resumen": "La marca de lujo Karl Lagerfeld inaugura su primer local físico en Argentina con planes de expansión retail.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.forbesargentina.com/negocios/karl-lagerfeld-abre-su-primer-local-argentina-su-plan-expansion-n99233",
+      "fecha": "2026-08-20"
+    },
     {
       "titulo": "Decathlon llega a la Ciudad de Buenos Aires: dónde y cuándo abrirá su nueva tienda",
       "resumen": "Decathlon abre nueva tienda de retail deportivo en CABA con inversión en infraestructura física.",
@@ -890,15 +899,6 @@
       "provincia": "Nacional",
       "relevancia": 9,
       "url": "https://americaretail-malls.com/paises/argentina/miniso-acelera-crecimiento-en-argentina-y-apuesta-por-alcanzar-cien-tiendas-comerciales/",
-      "fecha": "2026-07-01"
-    },
-    {
-      "titulo": "Puercoespín Store fortalece su crecimiento con renovado espacio comercial y nuevas categorías",
-      "resumen": "Puercoespín Store renueva e expande su espacio comercial con nuevas categorías de productos.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/puercoespin-store-fortalece-su-crecimiento-con-renovado-espacio-comercial-y-nuevas-categorias-exclusivas/",
       "fecha": "2026-07-01"
     }
   ]
