@@ -1,6 +1,33 @@
 {
-  "generado": "2026-10-02T16:07:55.461Z",
+  "generado": "2026-10-05T19:07:04.109Z",
   "noticias": [
+    {
+      "titulo": "Georgalos se mudó: mirá cómo es su nueva sede corporativa",
+      "resumen": "Georgalos trasladó sus oficinas corporativas a una nueva sede en Argentina.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/management/371429-georgalos-se-mudo-mira-como-es-su-nueva-sede-corporativa",
+      "fecha": "2026-09-15"
+    },
+    {
+      "titulo": "Argencons: se aprobó un fondo de inversión por u$s170 millones para la nueva obra en el Paseo del Bajo",
+      "resumen": "Argencons obtiene financiamiento de u$s170 millones para construcción de obra en Paseo del Bajo, Buenos Aires.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/actualidad/245230-argencons-se-aprobo-un-fondo-de-inversion-por-us170-millones-para-la-nueva-obra-en-el-paseo-del-bajo",
+      "fecha": "2026-08-20"
+    },
+    {
+      "titulo": "Avanza la transformación del Aeropuerto de La Plata",
+      "resumen": "Proyecto de modernización y transformación física del Aeropuerto de La Plata en Buenos Aires.",
+      "sector": "logistica",
+      "provincia": "Buenos Aires",
+      "relevancia": 8,
+      "url": "https://www.pagina12.com.ar/2026/09/24/avanza-la-transformacion-del-aeropuerto-de-la-plata/",
+      "fecha": "2026-09-24"
+    },
     {
       "titulo": "Karl Lagerfeld abre su primer local en Argentina: cuál es su plan de expansión",
       "resumen": "La marca de lujo Karl Lagerfeld inaugura su primer local físico en Argentina con planes de expansión retail.",
@@ -873,33 +900,6 @@
       "relevancia": 8,
       "url": "https://www.infobae.com/salud/ciencia/2026/05/29/argentina-busca-ser-polo-regional-en-ciencia-medica-con-una-inversion-record-para-investigacion-clinica/",
       "fecha": "2026-05-29"
-    },
-    {
-      "titulo": "Decathlon en Argentina: Inversión millonaria y 20 tiendas",
-      "resumen": "Decathlon invertirá millones para abrir 20 tiendas de retail deportivo en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 10,
-      "url": "https://americaretail-malls.com/retail-lujo-moda/moda/decathlon-en-argentina-inversion-millonaria-y-20-tiendas/",
-      "fecha": "2026-07-14"
-    },
-    {
-      "titulo": "La tienda china Furor acelera su expansión: abrirá dos nuevos locales en Unicenter y Alto Palermo",
-      "resumen": "Furor abre dos nuevas sucursales en shoppings porteños como parte de su estrategia de expansión retail en Argentina.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://tn.com.ar/economia/2026/07/07/la-tienda-china-furor-acelera-su-expansion-en-la-argentina-abrira-dos-nuevos-locales-antes-de-fines-de-julio/",
-      "fecha": "2026-07-07"
-    },
-    {
-      "titulo": "Miniso acelera crecimiento en Argentina y apuesta por alcanzar cien tiendas comerciales",
-      "resumen": "Miniso ejecuta plan de expansión agresiva en Argentina con objetivo de llegar a 100 locales comerciales.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://americaretail-malls.com/paises/argentina/miniso-acelera-crecimiento-en-argentina-y-apuesta-por-alcanzar-cien-tiendas-comerciales/",
-      "fecha": "2026-07-01"
     }
   ]
 }
