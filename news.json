@@ -1,6 +1,15 @@
 {
-  "generado": "2026-10-05T19:07:04.109Z",
+  "generado": "2026-10-07T17:18:48.031Z",
   "noticias": [
+    {
+      "titulo": "Barugel inauguró su edificio de Belgrano que demandó una inversión de u$s20 millones",
+      "resumen": "Barugel completó la construcción de su nueva sede corporativa en Belgrano con inversión de USD 20 millones.",
+      "sector": "oficinas",
+      "provincia": "CABA",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/actualidad/249233-barugel-inauguro-su-edificio-de-belgrano-que-demando-una-inversion-de-us20-millones",
+      "fecha": "2026-10-06"
+    },
     {
       "titulo": "Georgalos se mudó: mirá cómo es su nueva sede corporativa",
       "resumen": "Georgalos trasladó sus oficinas corporativas a una nueva sede en Argentina.",
@@ -891,15 +900,6 @@
       "relevancia": 9,
       "url": "https://www.infobae.com/economia/2026/05/28/para-el-mayor-dueno-de-shoppings-del-pais-las-marcas-extranjeras-ven-una-oportunidad-en-la-argentina-cuales-estan-por-llegar/",
       "fecha": "2026-05-28"
-    },
-    {
-      "titulo": "Argentina busca ser polo regional en ciencia médica con una inversión record para investigación clínica",
-      "resumen": "Argentina invierte recursos récord en infraestructura de investigación clínica y medicina.",
-      "sector": "salud",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/salud/ciencia/2026/05/29/argentina-busca-ser-polo-regional-en-ciencia-medica-con-una-inversion-record-para-investigacion-clinica/",
-      "fecha": "2026-05-29"
     }
   ]
 }
