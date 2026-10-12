@@ -1,6 +1,51 @@
 {
-  "generado": "2026-10-07T17:18:48.031Z",
+  "generado": "2026-10-12T19:39:38.104Z",
   "noticias": [
+    {
+      "titulo": "Aeropuertos Argentina anunció obras por US$1500 millones: Ezeiza tendrá una nueva terminal de arribos y se ampliará el Aeroparque",
+      "resumen": "Aeropuertos Argentina invertirá US$1.500 millones en infraestructura aeroportuaria con nueva terminal de arribos en Ezeiza y ampliación del Aeroparque.",
+      "sector": "infraestructura",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://tn.com.ar/economia/2026/10/09/aeropuertos-argentina-anuncio-obras-por-us1500-millones-ezeiza-tendra-una-nueva-terminal-de-arribos-y-se-ampliara-el-aeroparque/",
+      "fecha": "2026-10-09"
+    },
+    {
+      "titulo": "Privatización de AySA: qué va a pasar con los aumentos en las tarifas, las obras y los empleados",
+      "resumen": "Privatización de AySA implicará importantes obras de infraestructura hídrica y ampliación de servicios en el área metropolitana.",
+      "sector": "infraestructura",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/10/08/privatizacion-de-aysa-que-va-a-pasar-con-los-aumentos-en-las-tarifas-las-obras-y-los-empleados/",
+      "fecha": "2026-10-08"
+    },
+    {
+      "titulo": "Gobernadores y CEOs se reúnen por el futuro de la logística: 1.100 proyectos para Argentina",
+      "resumen": "Cumbre federal de logística genera 1.100 proyectos de infraestructura y construcción de centros de distribución en todo el país.",
+      "sector": "logistica",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://eleconomista.com.ar/politica/cumbre-federal-logistica-2026-cfi-gobernadores-infraestructura-transporte--n98772",
+      "fecha": "2026-10-11"
+    },
+    {
+      "titulo": "Un paciente fallecido, denuncias de mala praxis y médicos de guardia: qué encontró la Justicia en la Clínica Mar del Plata",
+      "resumen": "Investigación en Clínica Mar del Plata, institución de salud privada en la provincia de Buenos Aires.",
+      "sector": "salud",
+      "provincia": "Buenos Aires",
+      "relevancia": 4,
+      "url": "https://www.0223.com.ar/nota/2026-8-14-18-56-0-un-paciente-fallecido-denuncias-de-mala-praxis-y-medicos-de-guardia-que-encontro-la-justicia-en-la-clinica-mar-del-plata",
+      "fecha": "2026-08-14"
+    },
+    {
+      "titulo": "El nuevo sueldo de los playeros de estaciones de servicio: cuánto cobran por hora y cuánto pueden sumar",
+      "resumen": "Sector de estaciones de servicio en Argentina revisa estructura salarial en contexto de operaciones y posibles expansiones.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 3,
+      "url": "https://www.cronista.com/informacion-gral/el-nuevo-sueldo-de-los-playeros-de-estaciones-de-servicio-cuanto-cobran-por-hora-y-cuanto-pueden-sumar/",
+      "fecha": "2026-10-11"
+    },
     {
       "titulo": "Barugel inauguró su edificio de Belgrano que demandó una inversión de u$s20 millones",
       "resumen": "Barugel completó la construcción de su nueva sede corporativa en Belgrano con inversión de USD 20 millones.",
@@ -855,51 +900,6 @@
       "relevancia": 9,
       "url": "https://www.0223.com.ar/nota/2026-7-21-11-9-53-una-marca-china-furor-en-el-mundo-desembarca-en-mar-del-plata",
       "fecha": "2026-07-21"
-    },
-    {
-      "titulo": "Milei se reunió con empresarios farmacéuticos y proyectan US$ 8.000 millones para investigación clínica en Argentina",
-      "resumen": "Empresas farmacéuticas planean inversión de USD 8.000 millones en infraestructura de investigación clínica en Argentina.",
-      "sector": "salud",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.rionegro.com.ar/politica/milei-se-reunio-con-empresarios-farmaceuticos-y-proyectan-us-8-000-millones-para-investigacion-clinica-en-argentina-4592275/",
-      "fecha": "2026-06-01"
-    },
-    {
-      "titulo": "El Gobierno cerró préstamos por USD 3.200 millones con bancos del exterior y garantía de organismos internacionales",
-      "resumen": "Financiamiento de USD 3.200 millones para proyectos de infraestructura y construcción en Argentina con garantía internacional.",
-      "sector": "infraestructura",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.infobae.com/economia/2026/07/08/el-gobierno-cerro-prestamos-por-usd-3200-millones-con-bancos-del-exterior-y-garantia-de-organismos-internacionales/",
-      "fecha": "2026-07-08"
-    },
-    {
-      "titulo": "De la mano la dueña de Todomoda, una marca premium brasileña desembarca en Argentina",
-      "resumen": "Marca premium brasileña llega a Argentina con apertura de locales comerciales.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/negocios/460334-de-la-mano-la-duena-de-todomoda-una-marca-premium-brasilena-desembarca-en-argentina",
-      "fecha": "2026-07-15"
-    },
-    {
-      "titulo": "Otra marca de moda internacional desembarca en la Argentina",
-      "resumen": "Nueva marca de moda internacional abre su primer local en Argentina a fin de mes.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://tn.com.ar/economia/2026/07/17/otra-marca-de-moda-internacional-desembarca-en-la-argentina-abrira-su-primer-local-a-fin-de-mes-y-tendra-remeras-desde-50000/",
-      "fecha": "2026-07-17"
-    },
-    {
-      "titulo": "Para el mayor dueño de shoppings del país, las marcas extranjeras ven una oportunidad en la Argentina",
-      "resumen": "Múltiples marcas extranjeras planean expandir su presencia en Argentina con nuevas aperturas comerciales.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.infobae.com/economia/2026/05/28/para-el-mayor-dueno-de-shoppings-del-pais-las-marcas-extranjeras-ven-una-oportunidad-en-la-argentina-cuales-estan-por-llegar/",
-      "fecha": "2026-05-28"
     }
   ]
 }
