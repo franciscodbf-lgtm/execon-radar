@@ -1,6 +1,69 @@
 {
-  "generado": "2026-10-12T19:39:38.104Z",
+  "generado": "2026-10-14T14:54:57.339Z",
   "noticias": [
+    {
+      "titulo": "MINISO busca empleados en Argentina para nuevos locales",
+      "resumen": "MINISO planifica la apertura de nuevos locales retail en Argentina, expandiendo su presencia física en el país.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/management/466519-miniso-busca-empleados-en-argentina-para-nuevos-locales-puestos-abiertos-y-como-aplicar.amp",
+      "fecha": "2026-10-06"
+    },
+    {
+      "titulo": "RIGI: qué cambia para las inversiones en infraestructura ferroviaria",
+      "resumen": "Régimen de inversiones que incentiva construcción y modernización de infraestructura ferroviaria en Argentina.",
+      "sector": "logistica",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/legales/462511-rigi-ferroviario-que-mejoras-quedan-incluidas",
+      "fecha": "2026-09-27"
+    },
+    {
+      "titulo": "Oficinas Clase A: vacancia de 15,8% y renta en Buenos Aires",
+      "resumen": "Análisis del mercado de oficinas corporativas en Buenos Aires con perspectivas de inversión en construcción de espacios de trabajo.",
+      "sector": "oficinas",
+      "provincia": "Buenos Aires",
+      "relevancia": 7,
+      "url": "https://mercado.com.ar/ladrillos-y-proyectos/oficinas-clase-a-vacancia-de-158-y-renta-de-us-226-en-buenos-aires",
+      "fecha": "2026-10-06"
+    },
+    {
+      "titulo": "El proyecto del Aeropuerto de La Plata suma respaldo",
+      "resumen": "Proyecto de construcción de nuevo aeropuerto en La Plata recibe apoyo de empresarios para infraestructura regional.",
+      "sector": "logistica",
+      "provincia": "Buenos Aires",
+      "relevancia": 9,
+      "url": "https://www.pagina12.com.ar/2026/10/02/el-proyecto-del-aeropuerto-de-la-plata-suma-respaldo-de-empresarios-y-sindicatos/",
+      "fecha": "2026-10-02"
+    },
+    {
+      "titulo": "Nafta y gasoil: rebajas de Shell, Axion y Puma en octubre",
+      "resumen": "Cadenas de estaciones de servicio YPF, Shell, Axion y Puma expanden operaciones con rebajas competitivas en combustibles.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-30-dan-ypf-shell-axion-puma-octubre-2026_0_zxFMWPfSKj.html",
+      "fecha": "2026-10-01"
+    },
+    {
+      "titulo": "Inversores buscan oportunidades en infraestructura argentina",
+      "resumen": "Caputo y Kicillof presentan planes de inversión en infraestructura ante inversores internacionales en Nueva York.",
+      "sector": "otros",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/economia/2026/09/27/caputo-y-kicillof-en-nueva-york-ante-inversores-con-que-se-volvio-cada-uno-y-lo-que-lograron-sin-coincidir-en-una-sola-palabra/",
+      "fecha": "2026-09-27"
+    },
+    {
+      "titulo": "PAMI: red de clínicas y sanatorios privados en Argentina",
+      "resumen": "Red de infraestructura sanitaria privada que atiende jubilados a través de convenio PAMI en todo el país.",
+      "sector": "salud",
+      "provincia": "Nacional",
+      "relevancia": 6,
+      "url": "https://www.cronista.com/informacion-gral/alerta-pami-jubilados-no-podran-atenderse-durante-24-horas-cuales-son-las-clinicas-y-sanatorios-que-suspenden-sus-servicios/",
+      "fecha": "2026-10-06"
+    },
     {
       "titulo": "Aeropuertos Argentina anunció obras por US$1500 millones: Ezeiza tendrá una nueva terminal de arribos y se ampliará el Aeroparque",
       "resumen": "Aeropuertos Argentina invertirá US$1.500 millones en infraestructura aeroportuaria con nueva terminal de arribos en Ezeiza y ampliación del Aeroparque.",
@@ -837,69 +900,6 @@
       "relevancia": 7,
       "url": "https://www.rionegro.com.ar/economia/con-lionel-messi-como-socio-el-club-de-la-milanesa-desembarca-en-europa-con-un-ambicioso-plan-de-expansion-4664597/",
       "fecha": "2026-07-27"
-    },
-    {
-      "titulo": "De Panamá a Argentina: cómo es la propuesta que trae NaciónSushi (US$ 1 millón por local)",
-      "resumen": "NaciónSushi expande su cadena gastronómica a Argentina con inversión de US$ 1 millón por local.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://infonegocios.info/plus/de-panama-a-argentina-como-es-la-propuesta-que-trae-nacionsushi-us-1-millon-por-local",
-      "fecha": "2026-07-27"
-    },
-    {
-      "titulo": "La tienda china furor abre dos nuevos locales en el AMBA y prepara su desembarco en Mar del Plata",
-      "resumen": "Cadena de retail abre dos nuevas sucursales en el AMBA y planifica expansión a Mar del Plata",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://tn.com.ar/economia/2026/07/21/la-tienda-china-furor-abre-dos-nuevas-tiendas-en-el-amba-y-prepara-su-desembarco-en-mar-del-plata/",
-      "fecha": "2026-07-21"
-    },
-    {
-      "titulo": "De bijouterie a indumentaria: dos marcas internacionales se preparan para inauguran locales en Recoleta y Microcentro en agosto",
-      "resumen": "Dos marcas internacionales abren sus primeros locales en Argentina en zonas premium de CABA",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://tn.com.ar/economia/2026/07/23/de-indumentaria-a-bijouterie-dos-marcas-internacionales-abriran-sus-primeros-locales-en-la-argentina-en-agosto/",
-      "fecha": "2026-07-23"
-    },
-    {
-      "titulo": "Decathlon invertirá u$s100 millones en el país, abrirá 20 tiendas y generará 750 empleos",
-      "resumen": "Decathlon realizará inversión de u$s100 millones para abrir 20 nuevas tiendas de retail en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 10,
-      "url": "https://www.iprofesional.com/negocios/459824-decathlon-abrira-20-tiendas-argentina-generara-750-empleos",
-      "fecha": "2026-07-13"
-    },
-    {
-      "titulo": "Miniso ya tiene fecha de apertura en Pilar: todos los detalles",
-      "resumen": "Miniso abre nueva tienda de retail en la localidad de Pilar, provincia de Buenos Aires.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://www.pilaradiario.com/informacion-general/miniso-ya-tiene-fecha-apertura-pilar-todos-los-detalles-n5471151",
-      "fecha": "2026-07-13"
-    },
-    {
-      "titulo": "Mostaza impulsa expansión internacional buscando franquiciado argentino para operar en las Islas Malvinas",
-      "resumen": "Mostaza busca expandir su operación de gastronomía con franquiciado para establecimiento en Islas Malvinas.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://americaretail-malls.com/paises/argentina/mostaza-impulsa-expansion-internacional-buscando-franquiciado-argentino-para-operar-en-las-islas-malvinas/",
-      "fecha": "2026-07-13"
-    },
-    {
-      "titulo": "Una marca china furor en el mundo desembarca en Mar del Plata",
-      "resumen": "Marca de retail china abre nuevas sucursales en el AMBA y Mar del Plata, expandiendo su presencia física en Argentina.",
-      "sector": "retail",
-      "provincia": "Buenos Aires y Buenos Aires",
-      "relevancia": 9,
-      "url": "https://www.0223.com.ar/nota/2026-7-21-11-9-53-una-marca-china-furor-en-el-mundo-desembarca-en-mar-del-plata",
-      "fecha": "2026-07-21"
     }
   ]
 }
