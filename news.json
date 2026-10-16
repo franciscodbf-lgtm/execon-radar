@@ -1,6 +1,15 @@
 {
-  "generado": "2026-10-14T14:54:57.339Z",
+  "generado": "2026-10-16T14:36:13.007Z",
   "noticias": [
+    {
+      "titulo": "MINISO inauguró su octava tienda en Argentina y prepara su venta online",
+      "resumen": "La marca de retail asiática MINISO continúa su expansión física en Argentina con la apertura de nuevas sucursales.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/actualidad/466650-1miniso-inauguro-su-octava-tienda-en-argentina-y-prepara-su-venta-online",
+      "fecha": "2026-01-15"
+    },
     {
       "titulo": "MINISO busca empleados en Argentina para nuevos locales",
       "resumen": "MINISO planifica la apertura de nuevos locales retail en Argentina, expandiendo su presencia física en el país.",
@@ -890,15 +899,6 @@
       "provincia": "Nacional",
       "relevancia": 8,
       "url": "https://www.iprofesional.com/negocios/461005-cadena-de-sushi-presente-en-11-paises-desembarca-en-argentina-y-preve-varias-aperturas.amp",
-      "fecha": "2026-07-27"
-    },
-    {
-      "titulo": "Con Lionel Messi como socio, El Club de la Milanesa desembarca en Europa con un ambicioso plan de expansión",
-      "resumen": "Cadena gastronómica argentina El Club de la Milanesa expande operaciones físicas hacia mercados internacionales.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.rionegro.com.ar/economia/con-lionel-messi-como-socio-el-club-de-la-milanesa-desembarca-en-europa-con-un-ambicioso-plan-de-expansion-4664597/",
       "fecha": "2026-07-27"
     }
   ]
