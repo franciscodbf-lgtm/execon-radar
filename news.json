@@ -1,6 +1,15 @@
 {
-  "generado": "2026-10-16T14:36:13.007Z",
+  "generado": "2026-10-21T14:54:16.387Z",
   "noticias": [
+    {
+      "titulo": "Valparaíso Motors suma metros, marcas y ventas: proyecta 1.200 unidades para 2026",
+      "resumen": "Valparaíso Motors expande su infraestructura física con nuevas sucursales y proyecta crecimiento en ventas de vehículos.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://puntoapunto.com.ar/valparaiso-motors-suma-metros-marcas-y-ventas-proyecta-1-200-unidades-para-2026",
+      "fecha": "2026-10-15"
+    },
     {
       "titulo": "MINISO inauguró su octava tienda en Argentina y prepara su venta online",
       "resumen": "La marca de retail asiática MINISO continúa su expansión física en Argentina con la apertura de nuevas sucursales.",
@@ -890,15 +899,6 @@
       "provincia": "Nacional",
       "relevancia": 9,
       "url": "https://infonegocios.info/amp/plus/de-panama-a-argentina-como-es-la-propuesta-que-trae-nacionsushi-us-1-millon-por-local",
-      "fecha": "2026-07-27"
-    },
-    {
-      "titulo": "Cadena de sushi presente en 11 países desembarca en Argentina y prevé varias aperturas",
-      "resumen": "Nueva cadena de sushi internacional abre operaciones en Argentina con planes de expansión física de múltiples sucursales.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://www.iprofesional.com/negocios/461005-cadena-de-sushi-presente-en-11-paises-desembarca-en-argentina-y-preve-varias-aperturas.amp",
       "fecha": "2026-07-27"
     }
   ]
