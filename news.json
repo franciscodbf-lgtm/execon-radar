@@ -1,6 +1,51 @@
 {
-  "generado": "2026-10-21T14:54:16.387Z",
+  "generado": "2026-10-23T14:42:25.029Z",
   "noticias": [
+    {
+      "titulo": "Nuevo Sanatorio Allende en zona sur: avanza el proyecto que demandará USD 120 millones y generará 3.500 empleos",
+      "resumen": "Sanatorio Allende desarrolla nuevo proyecto de infraestructura sanitaria en zona sur con inversión de USD 120 millones.",
+      "sector": "salud",
+      "provincia": "Córdoba",
+      "relevancia": 10,
+      "url": "https://www.perfil.com/noticias/cordoba/nuevo-sanatorio-allende-en-zona-sur-avanza-el-proyecto-que-demandara-usd-120-millones-y-generara-3500-empleos.phtml",
+      "fecha": "2026-10-22"
+    },
+    {
+      "titulo": "Estados Unidos envía a sus dos principales funcionarios para la región a la Argentina para impulsar el Corredor Andes-Atlántico",
+      "resumen": "Impulso de infraestructura y logística con inversión estadounidense en Argentina a través del Corredor Andes-Atlántico.",
+      "sector": "logistica",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/politica/2026/10/16/estados-unidos-envia-a-sus-dos-principales-funcionarios-para-la-region-a-la-argentina-para-impulsar-el-corredor-andes-atlantico/",
+      "fecha": "2026-10-16"
+    },
+    {
+      "titulo": "Revolut recibe la autorización del Banco Central de Argentina para adquirir la filial de Cetelem",
+      "resumen": "Revolut obtiene autorización del BCRA para adquirir operaciones de Cetelem en Argentina, expandiendo infraestructura bancaria.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/america/agencias/2026/09/25/revolut-recibe-la-autorizacion-del-banco-central-de-argentina-para-adquirir-la-filial-de-cetelem/",
+      "fecha": "2026-09-25"
+    },
+    {
+      "titulo": "Javier Milei busca cerrar inversiones y acuerdos comerciales: de la privatización del Belgrano Cargas al Argentina Week",
+      "resumen": "Búsqueda de inversiones en infraestructura ferroviaria con privatización de Belgrano Cargas y acuerdos comerciales estratégicos.",
+      "sector": "logistica",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.infobae.com/politica/2026/09/28/javier-milei-busca-cerrar-inversiones-y-acuerdos-comerciales-de-la-privatizacion-del-belgrano-cargas-al-argentina-week/",
+      "fecha": "2026-09-28"
+    },
+    {
+      "titulo": "YPF emitió bonos a 9 años por US$ 1.200 millones: la mayor colocación corporativa argentina desde 2015",
+      "resumen": "YPF financia expansión de infraestructura energética con emisión de bonos por USD 1.200 millones.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.forbesargentina.com/money/ypf-emitio-bonos-9-anos-us-1200-millones-mayor-colocacion-corporativa-argentina-2015-n97565",
+      "fecha": "2026-10-15"
+    },
     {
       "titulo": "Valparaíso Motors suma metros, marcas y ventas: proyecta 1.200 unidades para 2026",
       "resumen": "Valparaíso Motors expande su infraestructura física con nuevas sucursales y proyecta crecimiento en ventas de vehículos.",
@@ -854,51 +899,6 @@
       "provincia": "Neuquén",
       "relevancia": 1,
       "url": "https://eleconomista.com.ar/energia/el-rigi-destraba-una-inversion-us-360-millones-ampliar-procesamiento-gas-vaca-muerta-n97117",
-      "fecha": "2026-07-27"
-    },
-    {
-      "titulo": "Nacion Sushi impulsa la expansión internacional de la gastronomía asiática con llegada a Argentina",
-      "resumen": "Cadena de gastronomía asiática Nacion Sushi abre nuevos locales en Argentina como parte de su expansión internacional.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://americaretail-malls.com/paises/argentina/nacion-sushi-impulsa-la-expansion-internacional-de-la-gastronomia-asiatica-con-llegada-a-argentina/",
-      "fecha": "2026-07-27"
-    },
-    {
-      "titulo": "Miniso abre en Pilar y promete premios para los primeros clientes",
-      "resumen": "Miniso inaugura nuevo local retail en Pilar, provincia de Buenos Aires, expandiendo su presencia física en Argentina.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 8,
-      "url": "https://www.pilaradiario.com/economia/miniso-abre-pilar-y-promete-premios-los-primeros-clientes-n5471316",
-      "fecha": "2026-07-27"
-    },
-    {
-      "titulo": "Cadena de ropa ultrabarata llega a Argentina con descuentos de hasta 60% en su apertura",
-      "resumen": "Nueva cadena de retail de ropa ultrabarata inaugura sucursales en Argentina con promociones de apertura.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 7,
-      "url": "https://www.iprofesional.com/negocios/461447-cadena-ropa-ultrabarata-llega-a-argentina-con-descuentos-de-hasta-60-por-ciento-en-su-apertura.amp",
-      "fecha": "2026-07-27"
-    },
-    {
-      "titulo": "Skechers fortalece expansión comercial consolidando presencia física y competitividad dentro del mercado argentino",
-      "resumen": "Skechers expande su presencia física en Argentina mediante nuevas aperturas de locales comerciales.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://americaretail-malls.com/paises/argentina/skechers-fortalece-expansion-comercial-consolidando-presencia-fisica-y-competitividad-dentro-del-mercado-argentino/",
-      "fecha": "2024-01-01"
-    },
-    {
-      "titulo": "De Panamá a Argentina: cómo es la propuesta que trae NaciónSushi (US$ 1 millón por local)",
-      "resumen": "Cadena de sushi internacional desembarca en Argentina con plan de aperturas de múltiples locales gastronómicos.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://infonegocios.info/amp/plus/de-panama-a-argentina-como-es-la-propuesta-que-trae-nacionsushi-us-1-millon-por-local",
       "fecha": "2026-07-27"
     }
   ]
