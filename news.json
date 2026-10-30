@@ -1,6 +1,33 @@
 {
-  "generado": "2026-10-23T14:42:25.029Z",
+  "generado": "2026-10-30T16:33:27.253Z",
   "noticias": [
+    {
+      "titulo": "Tesla llega a la Argentina y ya definió dónde estará ubicada su primera tienda",
+      "resumen": "Tesla abre su primera tienda física en Argentina, marcando la entrada de la marca internacional al mercado local.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/465306-tesla-llega-a-argentina-y-definio-donde-estara-ubicada-su-primera-tienda",
+      "fecha": "2026-10-26"
+    },
+    {
+      "titulo": "Pampa Energía captó u$s220 millones para inversiones en el país",
+      "resumen": "Pampa Energía obtiene financiamiento para desarrollar proyectos de infraestructura y construcción en Argentina.",
+      "sector": "energia",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/467798-pampa-energia-capto-220-millones-de-dolares-para-inversiones-en-argentina",
+      "fecha": "2026-10-26"
+    },
+    {
+      "titulo": "Córdoba: los edificios y desarrollos inmobiliarios que se vienen este 2025",
+      "resumen": "Proyectos de construcción residencial y comercial previstos en Córdoba para el año 2025.",
+      "sector": "oficinas",
+      "provincia": "Córdoba",
+      "relevancia": 7,
+      "url": "https://www.perfil.com/noticias/cordoba/cordoba-los-edificios-y-desarrollos-inmobiliarios-que-se-vienen-este-2025.phtml",
+      "fecha": "2025-01-15"
+    },
     {
       "titulo": "Nuevo Sanatorio Allende en zona sur: avanza el proyecto que demandará USD 120 millones y generará 3.500 empleos",
       "resumen": "Sanatorio Allende desarrolla nuevo proyecto de infraestructura sanitaria en zona sur con inversión de USD 120 millones.",
@@ -873,33 +900,6 @@
       "relevancia": 6,
       "url": "https://www.infobae.com/economia/2026/07/10/optimismo-empresarial-se-dispara-expectativas-sobre-la-economia-vuelven-a-terreno-positivo/",
       "fecha": "2026-07-10"
-    },
-    {
-      "titulo": "Franquicias en expansión: 4 modelos de negocio que apuestan a crecer en Argentina",
-      "resumen": "Análisis de franquicias argentinas en expansión física con recuperación de capital en tres años.",
-      "sector": "gastronomia",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.iprofesional.com/contenido-brandeado/461418-franquicias-argentinas-inversion-baja-recuperan-capital-tres-anos-agosto-2026",
-      "fecha": "2026-08-01"
-    },
-    {
-      "titulo": "Cuáles son las marcas internacionales que llegan a la Argentina: el mapa de aperturas para el segundo semestre de 2026",
-      "resumen": "Mapa de aperturas de marcas internacionales con expansión física en Argentina durante segundo semestre 2026.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 10,
-      "url": "https://www.forbesargentina.com/negocios/cuales-son-marcas-internacionales-llegan-argentina-mapa-aperturas-segundo-semestre-2026-n95049",
-      "fecha": "2026-08-01"
-    },
-    {
-      "titulo": "El RIGI destraba una inversión de US$ 360 millones para ampliar el procesamiento de gas de Vaca Muerta",
-      "resumen": "Inversión de US$ 360 millones en ampliar infraestructura de procesamiento de gas en Vaca Muerta bajo régimen RIGI.",
-      "sector": "energia",
-      "provincia": "Neuquén",
-      "relevancia": 1,
-      "url": "https://eleconomista.com.ar/energia/el-rigi-destraba-una-inversion-us-360-millones-ampliar-procesamiento-gas-vaca-muerta-n97117",
-      "fecha": "2026-07-27"
     }
   ]
 }
