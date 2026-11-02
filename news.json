@@ -1,6 +1,15 @@
 {
-  "generado": "2026-10-30T16:33:27.253Z",
+  "generado": "2026-11-02T19:59:57.974Z",
   "noticias": [
+    {
+      "titulo": "Tras el fracaso de transformar al Microcentro en un barrio de viviendas, vuelven las oficinas con un nuevo concepto",
+      "resumen": "Retorno de proyectos de oficinas en el Microcentro porteño con nuevos modelos de negocio y espacios renovados.",
+      "sector": "oficinas",
+      "provincia": "CABA",
+      "relevancia": 9,
+      "url": "https://tn.com.ar/economia/2026/11/02/tras-el-fracaso-de-transformar-al-microcentro-en-un-barrio-de-viviendas-vuelven-las-oficinas-con-un-nuevo-concepto/",
+      "fecha": "2026-11-02"
+    },
     {
       "titulo": "Tesla llega a la Argentina y ya definió dónde estará ubicada su primera tienda",
       "resumen": "Tesla abre su primera tienda física en Argentina, marcando la entrada de la marca internacional al mercado local.",
@@ -891,15 +900,6 @@
       "relevancia": 5,
       "url": "https://www.pagina12.com.ar/2026/07/22/el-hospital-de-clinicas-alerto-por-el-aumento-de-casos-de-cancer-de-cabeza-y-cuello-asociados-al-vph/",
       "fecha": "2026-07-22"
-    },
-    {
-      "titulo": "Optimismo empresarial se dispara: expectativas positivas impulsan inversiones en infraestructura",
-      "resumen": "Contexto macroeconómico favorable genera nuevas inversiones en proyectos de construcción y expansión empresarial.",
-      "sector": "otros",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.infobae.com/economia/2026/07/10/optimismo-empresarial-se-dispara-expectativas-sobre-la-economia-vuelven-a-terreno-positivo/",
-      "fecha": "2026-07-10"
     }
   ]
 }
