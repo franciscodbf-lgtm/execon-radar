@@ -1,6 +1,15 @@
 {
-  "generado": "2026-11-02T19:59:57.974Z",
+  "generado": "2026-11-11T17:44:14.397Z",
   "noticias": [
+    {
+      "titulo": "Una marca europea de ropa llega a Argentina y abre su primer local",
+      "resumen": "Marca europea de indumentaria inaugura su primer sucursal física en Argentina, expandiendo su presencia en Latinoamérica.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 8,
+      "url": "https://www.iprofesional.com/negocios/468771-una-marca-europea-de-ropa-llega-a-argentina-y-abre-su-primer-local",
+      "fecha": "2026-11-08"
+    },
     {
       "titulo": "Tras el fracaso de transformar al Microcentro en un barrio de viviendas, vuelven las oficinas con un nuevo concepto",
       "resumen": "Retorno de proyectos de oficinas en el Microcentro porteño con nuevos modelos de negocio y espacios renovados.",
@@ -891,15 +900,6 @@
       "relevancia": 5,
       "url": "https://www.infobae.com/judiciales/2026/08/02/denuncio-a-una-clinica-privada-por-mala-praxis-tras-un-parto-traumatico-y-doloroso-la-justicia-rechazo-la-demanda/",
       "fecha": "2026-08-02"
-    },
-    {
-      "titulo": "Hospital de Clínicas alerta sobre aumento de casos de cáncer asociados al VPH",
-      "resumen": "Institución sanitaria reporta incremento de demanda en servicios de oncología y ampliación de capacidades.",
-      "sector": "salud",
-      "provincia": "Buenos Aires",
-      "relevancia": 5,
-      "url": "https://www.pagina12.com.ar/2026/07/22/el-hospital-de-clinicas-alerto-por-el-aumento-de-casos-de-cancer-de-cabeza-y-cuello-asociados-al-vph/",
-      "fecha": "2026-07-22"
     }
   ]
 }
