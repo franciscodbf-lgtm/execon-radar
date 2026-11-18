@@ -1,6 +1,15 @@
 {
-  "generado": "2026-11-11T17:44:14.397Z",
+  "generado": "2026-11-18T18:41:01.219Z",
   "noticias": [
+    {
+      "titulo": "Baires Grill desembarca en la Argentina: la parrilla que eligió Messi abrirá cuatro locales",
+      "resumen": "Baires Grill abrirá cuatro nuevos locales de parrilla en Argentina tras su expansión internacional.",
+      "sector": "gastronomia",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://eleconomista.com.ar/actualidad/baires-grill-argentina-parrilla-messi-cuatro-locales-empleo-n99679",
+      "fecha": "2024-01-01"
+    },
     {
       "titulo": "Una marca europea de ropa llega a Argentina y abre su primer local",
       "resumen": "Marca europea de indumentaria inaugura su primer sucursal física en Argentina, expandiendo su presencia en Latinoamérica.",
@@ -891,15 +900,6 @@
       "relevancia": 5,
       "url": "https://www.clarin.com/economia/escala-salarial-julio-2026-cobraran-trabajadores-clinicas-sanatorios-hospitales-categoria_0_8dasSBaRGX.html",
       "fecha": "2026-07-15"
-    },
-    {
-      "titulo": "Denunció a clínica privada por mala praxis: análisis de infraestructura y servicios sanitarios",
-      "resumen": "Caso judicial que refleja operaciones y estándares de infraestructura en clínicas privadas argentinas.",
-      "sector": "salud",
-      "provincia": "Nacional",
-      "relevancia": 5,
-      "url": "https://www.infobae.com/judiciales/2026/08/02/denuncio-a-una-clinica-privada-por-mala-praxis-tras-un-parto-traumatico-y-doloroso-la-justicia-rechazo-la-demanda/",
-      "fecha": "2026-08-02"
     }
   ]
 }
