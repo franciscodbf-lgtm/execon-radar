@@ -1,6 +1,24 @@
 {
-  "generado": "2026-11-18T18:41:01.219Z",
+  "generado": "2026-11-23T21:55:01.004Z",
   "noticias": [
+    {
+      "titulo": "La cadena china Miniso va por aperturas en Córdoba y Rosario",
+      "resumen": "Miniso expande su presencia en Argentina con nuevas sucursales en Córdoba y Rosario.",
+      "sector": "retail",
+      "provincia": "Córdoba y Santa Fe",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/negocios/467570-la-cadena-china-miniso-va-por-aperturas-en-cordoba-y-rosario",
+      "fecha": "2026-11-15"
+    },
+    {
+      "titulo": "Supermercados Día vendió su filial a empresa dueña de ChangoMás",
+      "resumen": "Restructuración masiva de supermercados Día en Argentina con integración de 900 sucursales bajo nueva gestión.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 10,
+      "url": "https://tn.com.ar/economia/2026/11/05/supermercados-dia-vendio-su-filial-en-el-pais-a-la-empresa-duena-de-changomas-y-sumara-900-sucursales/",
+      "fecha": "2026-11-05"
+    },
     {
       "titulo": "Baires Grill desembarca en la Argentina: la parrilla que eligió Messi abrirá cuatro locales",
       "resumen": "Baires Grill abrirá cuatro nuevos locales de parrilla en Argentina tras su expansión internacional.",
@@ -882,24 +900,6 @@
       "relevancia": 9,
       "url": "https://www.perfil.com/noticias/cordoba/mercado-libre-quiere-entregar-las-compras-de-cordoba-en-el-dia-invertira-usd-91-millones.phtml",
       "fecha": "2026-08-10"
-    },
-    {
-      "titulo": "Nafta y gasoil: rebajas de hasta 30% en estaciones YPF, Shell, Axion y Puma",
-      "resumen": "Operaciones y promociones en estaciones de servicio de las principales cadenas en Argentina.",
-      "sector": "energia",
-      "provincia": "Nacional",
-      "relevancia": 6,
-      "url": "https://www.clarin.com/servicios/nafta-gasoil-rebajas-30-dan-ypf-shell-axion-puma-agosto-2026_0_3WTdmVHHv3.html",
-      "fecha": "2026-08-05"
-    },
-    {
-      "titulo": "Escala salarial de trabajadores de clínicas, sanatorios y hospitales privados",
-      "resumen": "Información sobre operaciones y estructura de empleo en instituciones de salud privada en Argentina.",
-      "sector": "salud",
-      "provincia": "Nacional",
-      "relevancia": 5,
-      "url": "https://www.clarin.com/economia/escala-salarial-julio-2026-cobraran-trabajadores-clinicas-sanatorios-hospitales-categoria_0_8dasSBaRGX.html",
-      "fecha": "2026-07-15"
     }
   ]
 }
