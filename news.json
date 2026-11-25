@@ -1,6 +1,42 @@
 {
-  "generado": "2026-11-23T21:55:01.004Z",
+  "generado": "2026-11-25T19:47:35.663Z",
   "noticias": [
+    {
+      "titulo": "Nuevo gigante del retail: De Narváez sumó como socio a José Luis Manzano para manejar las cadenas Dia y ChangoMás",
+      "resumen": "Restructuración y expansión de las cadenas de retail Dia y ChangoMás bajo nuevo liderazgo en Argentina.",
+      "sector": "retail",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.infobae.com/economia/2026/11/14/nuevo-gigante-retail-de-narvaez-suma-como-socio-a-jose-luis-manzano-para-manejar-las-cadenas-dia-y-changomas/",
+      "fecha": "2026-11-14"
+    },
+    {
+      "titulo": "Oficinas flexibles: el negocio que crece y prepara inversiones por u$s15 millones",
+      "resumen": "Inversión de USD 15 millones en expansión de espacios de oficinas flexibles y corporativas en Argentina.",
+      "sector": "oficinas",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://www.iprofesional.com/realestate/469696-oficinas-flexibles-negocio-que-crece-y-prepara-inversiones-por-15-millones-de-dolares",
+      "fecha": "2026-11-20"
+    },
+    {
+      "titulo": "HIT invertirá US$ 10 millones para crecer 50% en 2027 con su modelo de flex corporativo",
+      "resumen": "HIT anuncia inversión de USD 10 millones para expandir su oferta de espacios corporativos flexibles con crecimiento del 50%.",
+      "sector": "oficinas",
+      "provincia": "Nacional",
+      "relevancia": 9,
+      "url": "https://eleconomista.com.ar/negocios/hit-invertira-us-10-millones-crecer-50-2027-su-modelo-flex-corporativo-n99822",
+      "fecha": "2026-11-15"
+    },
+    {
+      "titulo": "Bancos cerraron 300 sucursales: cuántos cajeros menos hay y qué hay detrás de la tendencia",
+      "resumen": "Cierre de 300 sucursales bancarias en Argentina con reducción significativa de infraestructura física.",
+      "sector": "banco",
+      "provincia": "Nacional",
+      "relevancia": 7,
+      "url": "https://www.cronista.com/finanzas-mercados/bancos-cerraron-300-sucursales-cuantos-cajeros-menos-hay-y-que-hay-detras-de-la-tendencia/",
+      "fecha": "2026-11-20"
+    },
     {
       "titulo": "La cadena china Miniso va por aperturas en Córdoba y Rosario",
       "resumen": "Miniso expande su presencia en Argentina con nuevas sucursales en Córdoba y Rosario.",
@@ -864,42 +900,6 @@
       "relevancia": 10,
       "url": "https://www.forbesargentina.com/negocios/costantini-reactiva-catalinas-su-ambicioso-proyecto-oficinas-us-400-millones-n93008",
       "fecha": "2026-08-01"
-    },
-    {
-      "titulo": "Miniso se expande, abre dos locales más y se prepara para llegar a una nueva ciudad",
-      "resumen": "Miniso abre nuevas sucursales de retail y expande su presencia geográfica en Argentina.",
-      "sector": "retail",
-      "provincia": "Nacional",
-      "relevancia": 9,
-      "url": "https://www.lavoz.com.ar/servicios/miniso-expande-abre-locales-prepara-llegar-nueva-ciudad_0_NS6LsDwjOd.html",
-      "fecha": "2026-08-11"
-    },
-    {
-      "titulo": "Una cadena de moda francesa abre su primer local en CABA y prepara expansión a Rosario",
-      "resumen": "Marca internacional de moda inaugura primer local en Argentina con planes de expansión a otras provincias.",
-      "sector": "retail",
-      "provincia": "Buenos Aires",
-      "relevancia": 9,
-      "url": "https://tn.com.ar/economia/2026/08/11/una-cadena-de-moda-francesa-abrio-su-primer-local-en-la-ciudad-de-buenos-aires-y-ya-prepara-su-expansion-a-rosario/",
-      "fecha": "2026-08-11"
-    },
-    {
-      "titulo": "Compañía Mega obtuvo la aprobación de su proyecto de inversión bajo el RIGI",
-      "resumen": "Compañía Mega aprueba proyecto de inversión bajo régimen RIGI implicando obras e infraestructura física.",
-      "sector": "industrial",
-      "provincia": "Nacional",
-      "relevancia": 8,
-      "url": "https://mercado.com.ar/negocios/compania-mega-obtuvo-la-aprobacion-de-su-proyecto-de-inversion-bajo-el-rigi",
-      "fecha": "2026-08-10"
-    },
-    {
-      "titulo": "Mercado Libre invertirá USD 91 millones para entregas same-day en Córdoba",
-      "resumen": "Mercado Libre invierte USD 91 millones en infraestructura logística en Córdoba para entregas del mismo día.",
-      "sector": "logistica",
-      "provincia": "Córdoba",
-      "relevancia": 9,
-      "url": "https://www.perfil.com/noticias/cordoba/mercado-libre-quiere-entregar-las-compras-de-cordoba-en-el-dia-invertira-usd-91-millones.phtml",
-      "fecha": "2026-08-10"
     }
   ]
 }
